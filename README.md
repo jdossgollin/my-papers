@@ -1,4 +1,9 @@
 # my-papers
 
 This repository contains a bibtex (`.bib`) file containing my papers.
-I'm putting it in this format so that I can add it as a submodule to other projects including my web site and my CV.
+
+* `my-papers.bib`: papers by me.
+* `library.bib`: my library, exported from Zotero using Better Bibtex
+
+## To use
+
