@@ -1,0 +1,19 @@
+name: push-bib
+on:
+  push:
+    branches: [master]
+
+jobs:
+  dispatch:
+    strategy:
+      matrix:
+        repo: ["dossgollin-lab/dossgollin-lab.github.io", "jdossgollin/my-cv"]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          repository: ${{ matrix.repo }}
+          event-type: push-bib
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
