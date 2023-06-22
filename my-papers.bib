@@ -433,11 +433,11 @@
   title = {Leveraging {{Mesh Modularization}} to {{Lower}} the {{Computational Cost}} of {{Localized Updates}} to {{Regional 2D Hydrodynamic Model Outputs}}},
   author = {Garcia, Matthew and Juan, Andrew and Doss-Gollin, James and Bedient, Philip},
   date = {2023},
-  doi = {10.1080/19942060.2023.2225584},
   abstract = {Hydrodynamic model outputs are used in urban flood risk modeling, flood alert systems, and Monte Carlo hazard assessment. This study tackles an under-explored challenge wherein regular updates to the spatial characteristics of the watershed - due to factors such as changing land use - alter the watershed's response to rainfall forcing, thus rendering existing model outputs obsolete. Because state-of-the-art hydrodynamic models are computationally expensive, frequently re-running simulations can be costly. Modularization addresses this problem by requiring re-computation only for a limited domain affected by the land use changes. Although mesh decomposition, and multi-domain methods for partial differential equations (PDE) solvers have been used in fluid dynamics problems, their application to applied urban flood modeling using the Shallow Water Equations (SWEs) have been limited. This paper introduces a novel approach of modularizing the 2D domain into independent sub-domains before (``discrete'') and after (``abstract'') the numerical computations. Using a HEC-RAS 2D model of a large urban watershed in Houston as an illustrative and generalizable testbed, we show that both the discrete and abstract modularization closely approximates the results from re-running the entire model. The computational cost of modularization scales linearly with model size for the memory requirements as storing the solution on the interior boundaries (discrete) or throughout the domain (abstract) are necessary. This trade-off of memory for computation may facilitate advances as surrogate modeling or Monte Carlo flood risk assessments.},
   pubstate = {preprint}
 }
 % == BibLateX quality report for garcia_modularization:2023:
+% At least one of 'url' / 'doi' / 'eprint' must be present
 % ? Title looks like it was stored in title-case in Zotero
 % ? unused Short title ("modularization")
 
@@ -654,14 +654,15 @@
 % == BibLateX quality report for Spence:2016vz:
 % Missing required field 'booktitle'
 
-@article{wutich_madwater:2022,
+@online{wutich_madwater:2022,
   title = {{{MAD}} Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era},
   author = {Wutich, Amber and Thomson, Patrick and Jepson, Wendy and Stoler, Justin and Cooperman, Alicia and Doss-Gollin, James and Jantrania, Anish and Mayer, Alex and Nelson-Nu\~nez, Jami and Walker, Shane W. and Westerhoff, Paul},
-  abstract = {Centralized water infrastructure has, over the last century, brought safe and reliable drinking water to much of the world. But climate change, combined with aging and underfunding, is increasingly testing the limits of\textemdash and reversing gains made by\textemdash these large-scale water systems. To address these growing strains and gaps, we must assess and advance alternatives to centralized water provision. The water literature is rife with examples of systems that are neither centralized nor networked, but still meet water needs of local communities in important ways, including: informal and hybrid water systems, decentralized water provision, community-based water management, small drinking water systems, green infrastructures for water and wastewater management, point-of-use filtration, small-scale water vendors, and packaged water. Our work builds on these literatures by proposing a convergence approach that can integrate and explore the benefits and challenges of modular, adaptive, and decentralized (``MAD'') water provision, often foregrounding important advances in engineering technology. We further provide frameworks to evaluate justice, economic feasibility, good governance, human health, and environmental sustainability as key parameters of MAD water system performance.}
+  abstract = {Centralized water infrastructure has, over the last century, brought safe and reliable drinking water to much of the world. But climate change, combined with aging and underfunding, is increasingly testing the limits of\textemdash and reversing gains made by\textemdash these large-scale water systems. To address these growing strains and gaps, we must assess and advance alternatives to centralized water provision. The water literature is rife with examples of systems that are neither centralized nor networked, but still meet water needs of local communities in important ways, including: informal and hybrid water systems, decentralized water provision, community-based water management, small drinking water systems, green infrastructures for water and wastewater management, point-of-use filtration, small-scale water vendors, and packaged water. Our work builds on these literatures by proposing a convergence approach that can integrate and explore the benefits and challenges of modular, adaptive, and decentralized (``MAD'') water provision, often foregrounding important advances in engineering technology. We further provide frameworks to evaluate justice, economic feasibility, good governance, human health, and environmental sustainability as key parameters of MAD water system performance.},
+  pubstate = {preprint}
 }
 % == BibLateX quality report for wutich_madwater:2022:
 % Exactly one of 'date' / 'year' must be present
-% Missing required field 'journaltitle'
+% At least one of 'url' / 'doi' / 'eprint' must be present
 % ? unused Short title ("mad water")
 
 @inproceedings{zhou_agu:2021,
