@@ -231,11 +231,11 @@
   title = {Integrating {{Climate Risk}} into {{Long-Term Energy Planning}}: {{A Critical Review}}},
   author = {Doss-Gollin, James and Amonkar, Yash Vijay and Schmeltzer, Katlyn and Cohan, Daniel},
   date = {2023},
+  doi = {10.31223/X5QM2W},
   abstract = {Electricity systems face substantial and growing climate risks which are escalating due to electrification, renewable energy intermittency, population changes, and the intensifying impacts of climate change such as extreme temperatures and weather-induced infrastructure damage. This critical review investigates climate risks to the electricity sector and scrutinizes the methodologies used to represent climate risk in long-term electricity system planning studies. We find that many studies rely on weather data and socio-economic scenarios that are inadequate to fully characterize climate risks to present and future electricity systems. We advocate for more holistic assessments that incorporate comprehensive weather data, acknowledge dynamic multi-sector interactions, and employ adaptive and robust methodologies.},
   pubstate = {preprint}
 }
 % == BibLateX quality report for doss-gollin_review:2023:
-% At least one of 'url' / 'doi' / 'eprint' must be present
 % ? Title looks like it was stored in title-case in Zotero
 % ? unused Short title ("review")
 
@@ -434,16 +434,24 @@
 % Missing required field 'booktitle'
 % ? unused Language ("English")
 
-@online{garcia_modularization:2023,
-  title = {Leveraging {{Mesh Modularization}} to {{Lower}} the {{Computational Cost}} of {{Localized Updates}} to {{Regional 2D Hydrodynamic Model Outputs}}},
-  author = {Garcia, Matthew and Juan, Andrew and Doss-Gollin, James and Bedient, Philip},
-  date = {2023},
-  abstract = {Hydrodynamic model outputs are used in urban flood risk modeling, flood alert systems, and Monte Carlo hazard assessment. This study tackles an under-explored challenge wherein regular updates to the spatial characteristics of the watershed - due to factors such as changing land use - alter the watershed's response to rainfall forcing, thus rendering existing model outputs obsolete. Because state-of-the-art hydrodynamic models are computationally expensive, frequently re-running simulations can be costly. Modularization addresses this problem by requiring re-computation only for a limited domain affected by the land use changes. Although mesh decomposition, and multi-domain methods for partial differential equations (PDE) solvers have been used in fluid dynamics problems, their application to applied urban flood modeling using the Shallow Water Equations (SWEs) have been limited. This paper introduces a novel approach of modularizing the 2D domain into independent sub-domains before (``discrete'') and after (``abstract'') the numerical computations. Using a HEC-RAS 2D model of a large urban watershed in Houston as an illustrative and generalizable testbed, we show that both the discrete and abstract modularization closely approximates the results from re-running the entire model. The computational cost of modularization scales linearly with model size for the memory requirements as storing the solution on the interior boundaries (discrete) or throughout the domain (abstract) are necessary. This trade-off of memory for computation may facilitate advances as surrogate modeling or Monte Carlo flood risk assessments.},
-  pubstate = {preprint}
+@article{garcia_modularization:2023,
+  title = {Leveraging Mesh Modularization to Lower the Computational Cost of Localized Updates to Regional {{2D}} Hydrodynamic Model Outputs},
+  author = {Garcia, M. and Juan, A. and Doss-Gollin, J. and Bedient, P.},
+  date = {2023-12-31},
+  journaltitle = {Engineering Applications of Computational Fluid Mechanics},
+  volume = {17},
+  number = {1},
+  pages = {2225584},
+  publisher = {{Taylor \& Francis}},
+  issn = {1994-2060},
+  doi = {10.1080/19942060.2023.2225584},
+  url = {https://doi.org/10.1080/19942060.2023.2225584},
+  urldate = {2023-07-24},
+  abstract = {Hydrodynamic model outputs are used in urban flood risk modelling, flood alert systems, and Monte Carlo hazard assessment. This study tackles an under-explored challenge wherein regular updates to the spatial characteristics of the watershed \textendash{} due to factors such as changing land use \textendash{} alter the watershed's response to rainfall forcing, thus rendering existing model outputs obsolete. Because state-of-the-art hydrodynamic models are computationally expensive, frequently re-running simulations can be costly. Modularization addresses this problem by requiring re-computation only for a limited domain affected by the land use changes. This article introduces a novel approach by modularizing the 2D domain into independent sub-domains before (`discrete') and after (`abstract') the numerical computations. Using the Hydrologic Engineering Center River Analysis System (HEC-RAS) 2D model of a large urban watershed in Houston as an illustrative and generalizable testbed, we show that both the discrete and abstract modularization closely approximates the results from re-running the entire model. The computational cost of modularization scales linearly with model size for memory requirements as storing the solution on the interior boundaries (discrete) or throughout the domain (abstract) are necessary. This trade-off of memory for computation may facilitate advances in surrogate modelling or Monte Carlo flood risk assessment.}
 }
 % == BibLateX quality report for garcia_modularization:2023:
-% At least one of 'url' / 'doi' / 'eprint' must be present
-% ? Title looks like it was stored in title-case in Zotero
+% Unexpected field 'publisher'
+% ? unused Library catalog ("Taylor and Francis+NEJM")
 % ? unused Short title ("modularization")
 
 @online{geldner_equity:2023,
@@ -493,11 +501,11 @@
   title = {Impact of 21st {{Century Climate Change}} on {{Mississippi River Basin}} Discharge in {{CESM2}} Large Ensemble Projections},
   author = {Haider, Muhammad Rezaul and Dee, Sylvia and Doss-Gollin, James and Dunne, Kieran and Mu\~noz, Samuel E.},
   date = {2023},
+  doi = {10.2139/ssrn.4498502},
   abstract = {The Mississippi River Basin (MRB), the fourth-largest river basin in the world, is an important corridor for hydroelectric power generation, agricultural and industrial production, and riverine transportation. Historically, the Mississippi River has experienced floods resulting in significant loss of lives and property. In a future with an intensified global hydrological cycle, the altered discharge of the river may jeopardize communities and infrastructure situated in the floodplain. This study utilizes output from the Community Earth System Model version 2 (CESM2) large ensemble simulations spanning 1930 to 2100 to quantify changes in future MRB discharge under a high greenhouse gas emissions scenario (SSP3-7.0). These simulations show that increasing precipitation trends dominate increased evapotranspiration, driving an overall increase in total discharge in the Ohio and Lower Mississippi River basins. Decreasing spring snowmelt in both the Missouri and Ohio River basins results in the reduction of spring discharge. Our results harbor implications for water resources management including increased vulnerability of the Mississippi River given projected changes in climate.},
   pubstate = {preprint}
 }
 % == BibLateX quality report for haider_mrb:2023:
-% At least one of 'url' / 'doi' / 'eprint' must be present
 % ? unused Short title ("MRB")
 
 @online{kazadi_floodgnn-gru:2023,
