@@ -550,8 +550,8 @@
 @thesis{graham_thesis:2022,
   title = {Water Supply Vulnerability Testing and Robust Planning Analysis with Exploratory Modeling under Deep Uncertainty},
   author = {Graham, Alyssa A.},
-  editora = {Bedient, Phil and Doss-Gollin, James and Blackburn, Jim and Segner, Ed},
-  editoratype = {collaborator},
+  namea = {Bedient, Phil and Doss-Gollin, James and Blackburn, Jim and Segner, Ed},
+  nameatype = {collaborator},
   date = {2022},
   institution = {Rice University},
   location = {Houston, TX},
@@ -559,8 +559,6 @@
   abstract = {Houston faces growing population and severe droughts, suggesting a need for robust water supply planning. Current literature proposes an exploratory modeling approach; however, Texas regions typically project water needs as point predictions based on historical droughts and an uncertainty factor. This thesis employs exploratory modeling to identify under which drought and demand conditions Houston’s water will be insufficient. The model includes a reservoir mass balance, Monte Carlo simulation to generate scenarios, and scenario discovery of shortages regardless of likelihood. Scenarios are compared to projections for context. Generally, scenarios with higher demand and 2011 drought demonstrated moderate supply shortage; scenarios with worse drought demonstrated extreme supply shortage. Houston’s proposed strategies mitigated higher demand, but had negligible mitigation for worse drought conditions. Given that climate change is expected to exacerbate droughts in Texas, this analysis underscores a need for water resource management in Houston to explore many possible futures.}
 }
 % == BibLateX quality report for graham_thesis:2022:
-% Unexpected field 'editora'
-% Unexpected field 'editoratype'
 % Missing required field 'type'
 % ? unused Language ("eng")
 % ? unused Library catalog ("onesearch.library.rice.edu")
@@ -586,6 +584,16 @@
 % == BibLateX quality report for kazadi_eds:2024:
 % At least one of 'url' / 'doi' / 'eprint' must be present
 
+@inproceedings{kazadi_icml:2024,
+  title = {Pluvial Flood Emulation with Hydraulics-Informed Message Passing},
+  booktitle = {International {{Conference}} on {{Machine Learning}} ({{Accepted}})},
+  author = {Kazadi, Arnold and Doss-Gollin, James and Silva, Arlei},
+  date = {2024}
+}
+% == BibLateX quality report for kazadi_icml:2024:
+% ? Unsure about the formatting of the booktitle
+% ? unused Short title ("ICML")
+
 @inproceedings{kazadi_neurips:2022,
   title = {Flood {{Prediction}} with {{Graph Neural Networks}}},
   booktitle = {Climate {{Change AI}}},
@@ -605,15 +613,6 @@
 % ? unused Language ("en-US")
 % ? unused Library catalog ("www.climatechange.ai")
 % ? unused Short title ("neurips")
-
-@inproceedings{kazadi:icml,
-  title = {Pluvial Flood Emulation with Hydraulics-Informed Message Passing},
-  booktitle = {Under Review},
-  author = {Kazadi, Arnold and Doss-Gollin, James and Silva, Arlei},
-  date = {2024}
-}
-% == BibLateX quality report for kazadi:icml:
-% ? Unsure about the formatting of the booktitle
 
 @inproceedings{lall_agu:2021,
   title = {{{GC42C-08}}: {{The}} Risks of Energy Shortfalls Considering Temperature Extremes, Wind and Solar Energy for the {{Texas}} Energy Grid Using a Novel Space-Time Simulation Model},
@@ -644,15 +643,38 @@
 % ? unused Library catalog ("agu.confex.com")
 % ? unused Short title ("agu20")
 
-@online{liu_functional:2023,
-  title = {Dynamic {{Bayesian}} Functional Graphical Models with Application to Sea Surface Temperature Data},
-  author = {Liu, Chunshan and Kowal, Daniel R. and Doss-Gollin, James and Vanucci, Marina},
-  date = {2023},
+@online{liu_functional:2024,
+  title = {Bayesian {{Functional Graphical Models}} with {{Change-Point Detection}}},
+  author = {Liu, Chunshan and Kowal, Daniel R. and Doss-Gollin, James and Vannucci, Marina},
+  date = {2024-05-05},
+  eprint = {2405.03041},
+  eprinttype = {arxiv},
+  eprintclass = {stat},
+  doi = {10.48550/arXiv.2405.03041},
+  url = {http://arxiv.org/abs/2405.03041},
+  urldate = {2024-05-10},
+  abstract = {Functional data analysis, which models data as realizations of random functions over a continuum, has emerged as a useful tool for time series data. Often, the goal is to infer the dynamic connections (or time-varying conditional dependencies) among multiple functions or time series. For this task, we propose a dynamic and Bayesian functional graphical model. Our modeling approach prioritizes the careful definition of an appropriate graph to identify both time-invariant and time-varying connectivity patterns. We introduce a novel block-structured sparsity prior paired with a finite basis expansion, which together yield effective shrinkage and graph selection with efficient computations via a Gibbs sampling algorithm. Crucially, the model includes (one or more) graph changepoints, which are learned jointly with all model parameters and incorporate graph dynamics. Simulation studies demonstrate excellent graph selection capabilities, with significant improvements over competing methods. We apply the proposed approach to study of dynamic connectivity patterns of sea surface temperatures in the Pacific Ocean and discovers meaningful edges.},
   pubstate = {preprint}
 }
-% == BibLateX quality report for liu_functional:2023:
-% At least one of 'url' / 'doi' / 'eprint' must be present
+% == BibLateX quality report for liu_functional:2024:
+% ? Title looks like it was stored in title-case in Zotero
+% ? unused Number ("arXiv:2405.03041")
 % ? unused Short title ("functional")
+
+@inproceedings{liu_neurips:2024,
+  title = {Generative {{Precipitation Downscaling}} Using {{Score-based Diffusion}} with {{Wasserstein Regularization}}},
+  author = {Liu, Yuhao and Doss-Gollin, James and Balakrishnan, Guha and Veeraraghavan, Ashok},
+  date = {2024-05-14},
+  url = {https://openreview.net/forum?id=mlpYnp10IQ},
+  urldate = {2024-05-30},
+  abstract = {Understanding local risks from extreme rainfall, such as flooding, requires both long records (to sample rare events) and high-resolution products (to assess localized hazards). Unfortunately, there is a dearth of long-record and high-resolution products that can be used to understand local risk and precipitation science. In this paper, we present a novel generative diffusion model that downscales (super-resolves) globally available CPC gauge-based precipitation products and ERA5 reanalysis data to generate kilometer-scale precipitation estimates. Downscaling gauge-based precipitation from 55 km to 1 km while recovering extreme rainfall signals poses significant challenges. To enforce our model (named WassDiff) to produce well-calibrated precipitation intensity values, we introduce a Wasserstein Distance Regularization (WDR) term for the score-matching training objective in the diffusion denoising process. We show that WDR greatly enhances the model's ability to capture extreme values compared to vanilla diffusion. Extensive evaluation shows that WassDiff has better reconstruction accuracy and bias scores than conventional score-based diffusion models. Case studies of extreme weather phenomena, like tropical storms and cold fronts, demonstrate WassDiff's ability to produce appropriate spatial patterns while capturing extremes. Such downscaling capability enables the generation of extensive kilometer-scale precipitation datasets from existing historical global gauge records and current gauge measurements in areas without high-resolution radar.},
+  eventtitle = {Submitted to {{NeurIPS}}}
+}
+% == BibLateX quality report for liu_neurips:2024:
+% Missing required field 'booktitle'
+% ? unused Language ("en")
+% ? unused Library catalog ("openreview.net")
+% ? unused Short title ("neurips")
 
 @inproceedings{lu_agu:2022,
   title = {{{H42E-1333}}: {{Nonstationary GEV}} with Hierarchical Spatial Pooling: A Spatiotemporal {{Bayesian}} Framework for Nonstationary Extreme Precipitation Frequency Analysis in the {{Gulf Coast}}},
@@ -751,6 +773,22 @@
 % ? unused Language ("en-us")
 % ? unused Library catalog ("osf.io")
 % ? unused Short title ("transparency")
+
+@online{pollack_unsafe:2024,
+  title = {{{UNSAFE}}: {{An UNcertain Structure And Fragility Ensemble}} Framework for Property-Level Flood Risk Estimation},
+  author = {Pollack, Adam and Doss-Gollin, James and Srikrishnan, Vivek and Keller, Klaus},
+  date = {2024-05-20},
+  eprinttype = {OSF},
+  doi = {10.31219/osf.io/jb9ta},
+  url = {https://osf.io/jb9ta},
+  urldate = {2024-05-20},
+  abstract = {A software package for adding parametric uncertainty to the national structure inventory and estimating flood losses with uncertain depth-damage relationships: https://github.com/abpoll/unsafe.},
+  pubstate = {preprint}
+}
+% == BibLateX quality report for pollack_unsafe:2024:
+% ? unused Language ("en-us")
+% ? unused Library catalog ("OSF Preprints")
+% ? unused Short title ("UNSAFE")
 
 @inproceedings{rozer_bn-flemops:2017,
   title = {{{NH41E-08}}: {{BN-FLEMOps}} Pluvial - {{A}} Probabilistic Multi-Variable Loss Estimation Model for Pluvial Floods},
