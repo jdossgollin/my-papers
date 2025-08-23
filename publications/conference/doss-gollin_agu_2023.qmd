@@ -1,0 +1,29 @@
+---
+title: "NH14B-07: Linking Robust Trends in Observations and Models to Develop Nonstationary Rainfall Frequency Grids for the State of Texas"
+author:
+  - **James Doss-Gollin**
+  - *Yuchen Lu*
+  - John W. Nielsen-Gammon
+  - Rewati Niraula
+  - Benjamin Seiyon Lee
+date: 2023-12-11
+details: "AGU AGU23"
+year: 2023
+nocite: "doss-gollin_agu:2023"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1352809
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+Precipitation frequency estimates serve as foundational tools in stormwater man...
+
+:::{#bibliography}
+:::

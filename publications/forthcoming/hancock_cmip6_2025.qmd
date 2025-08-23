@@ -1,0 +1,25 @@
+---
+title: "Robust 21st Century Hydrological Trends in the Mississippi River Basin From CMIP6: West-Gets-Drier, East-Gets-Wetter"
+author:
+  - Christopher L Hancock
+  - Sylvia G. Dee
+  - Muhammad Rezaul Haider
+  - **James Doss-Gollin**
+  - Flavio Lehner
+  - Kelsey Murphy
+  - Samuel E. Munoz
+date: 2025-01-01
+details: ""
+year: 2025
+nocite: "hancock_cmip6:2025"
+
+about:
+  template: solana
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

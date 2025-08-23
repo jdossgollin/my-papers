@@ -1,0 +1,30 @@
+---
+title: "Last Millennium Changes in Mississippi River Basin Hydroclimate Driven by Anthropogenic Forcing and Atmospheric Dynamics"
+author:
+  - Kelsey Murphy
+  - Sylvia Dee
+  - Elizabeth Jane Wallace
+  - Emilia Pitchon
+  - **James Doss-Gollin**
+  - Samuel E. Munoz
+date: 2024-12-12
+details: "AGU AGU24"
+year: 2024
+nocite: "murphy_agu:2024"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1568143
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+Human activities (e.g., river engineering, land use changes) have altered the n...
+
+:::{#bibliography}
+:::

@@ -1,0 +1,32 @@
+name: Convert BibTeX to QMD
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          activate-environment: my-papers
+          environment-file: environment.yml
+          
+      - name: Run BibTeX to QMD conversion
+        shell: bash -l {0}
+        run: python bibtex_to_qmd.py
+        
+      - name: Commit and push QMD files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-generate QMD files from BibTeX [skip ci]"
+          file_pattern: "publications/**/*.qmd"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"

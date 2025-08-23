@@ -1,0 +1,26 @@
+---
+title: "A14H-03: How Unprecedented Was the February 2021 Texas Cold Snap?"
+author:
+  - **James Doss-Gollin**
+  - David J. Farnham
+  - Upmanu Lall
+  - Vijay Modi
+date: 2021-12-13
+details: "AGU AGU Fall Meeting 2021"
+year: 2021
+nocite: "doss-gollin_agutxtreme:2021"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/796322
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

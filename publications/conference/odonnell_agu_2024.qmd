@@ -1,0 +1,28 @@
+---
+title: "Mechanisms of Hydroclimate Whiplash Over the Mississippi River Basin"
+author:
+  - Michelle O'Donnell
+  - Sylvia Dee
+  - **James Doss-Gollin**
+  - Samuel E. Munoz
+date: 2024-12-09
+details: "AGU AGU24"
+year: 2024
+nocite: "odonnell_agu:2024"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1528654
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+Hydroclimate whiplash – the transition between extreme dry and wet periods – ha...
+
+:::{#bibliography}
+:::

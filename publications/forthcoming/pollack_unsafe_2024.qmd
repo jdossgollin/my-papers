@@ -1,0 +1,29 @@
+---
+title: "UNSAFE: An UNcertain Structure And Fragility Ensemble Framework for Property-Level Flood Risk Estimation"
+author:
+  - Adam Pollack
+  - **James Doss-Gollin**
+  - Vivek Srikrishnan
+  - Klaus Keller
+date: 2024-05-20
+details: ""
+year: 2024
+nocite: "pollack_unsafe:2024"
+image: ../../_assets/img/pubs/pollack_unsafe_2024.png
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.31219/osf.io/jb9ta'
+      href: https://doi.org/10.31219/osf.io/jb9ta
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+A software package for adding parametric uncertainty to the national structure inventory and estimating flood losses with uncertain depth-damage relationships: https://github.com/abpoll/unsafe.
+
+:::{#bibliography}
+:::

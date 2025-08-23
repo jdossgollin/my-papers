@@ -1,0 +1,50 @@
+---
+title: "Unlocking the Benefits of Transparent and Reusable Science for Climate-Risk Management"
+author:
+  - Adam Pollack
+  - Lisa Auermuller
+  - Casey Burleyson
+  - Jentry E. Campbell
+  - Madison Condon
+  - Courtney Cooper
+  - Matteo Coronese
+  - Sonke Dangendorf
+  - **James Doss-Gollin**
+  - Prabhat Hegde
+  - Casey Helgeson
+  - Robert Kopp
+  - Jan Kwakkel
+  - Andrew Leaf
+  - Corey Lesk
+  - Justin Mankin
+  - Robert E. Nicholas
+  - Jennie S. Rice
+  - Samantha Roth
+  - Moira Scheeler
+  - Vivek Srikrishnan
+  - Nancy Tuana
+  - Chris Vernon
+  - Mengqi Zhao
+  - Klaus Keller
+date: 2024-10-31
+details: ""
+year: 2024
+nocite: "pollack_transparency:2024"
+image: ../../_assets/img/pubs/pollack_transparency_2024.png
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.31219/osf.io/29nhv'
+      href: https://doi.org/10.31219/osf.io/29nhv
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Research that is salient, credible, legitimate, and timely can support climate-risk management goals around the world. Materials that are open and Findable, Accessible, Interoperable, Reusable (FAIR) help facilitate credibility and legitimacy, and allow for timely reuse of salient resources in new contexts. For example, the US Environmental Protection Agency’s (EPA) regulatory impact analyses rely on open and FAIR socioeconomic, climate, and damage models. This approach enhances usability because it enables a broad community of end-users to improve the methods’ fit-for-use in a variety of contexts. In contrast, the booming climate services industry often produces salient and timely materials that are widely used but typically rely on closed models that do not facilitate building credible and legitimate knowledge. This approach risks misguiding decisions with broad-reaching consequences, such as where households choose to live, which mortgages financers securitize, and potentially which policies are adopted by US financial regulators. Unfortunately, too many climate-risk studies are neither open nor FAIR. For example, we demonstrate that only four percent of the most-cited peer-reviewed climate-risk studies in recent years fully share their data and code, a widely stated minimum standard for openness in the scientific community. We highlight strategies that researchers can take to facilitate faster progress in climate science, advance equitable access to usable climate-risk information, and improve climate-risk management. For the benefits of these strategies to outweigh their costs, it is crucial that research institutions and funders lead the way with substantial investments in necessary resources and infrastructure.
+
+:::{#bibliography}
+:::

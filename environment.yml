@@ -1,0 +1,13 @@
+name: my-papers
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - titlecase
+  - pillow
+  - requests
+  - pip
+  - pip:
+      - bibtexparser
+      - PyMuPDF

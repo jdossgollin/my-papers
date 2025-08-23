@@ -1,0 +1,31 @@
+---
+title: "Flood Prediction With Graph Neural Networks"
+author:
+  - Arnold N. Kazadi
+  - **James Doss-Gollin**
+  - Antonia Sebastian
+  - Arlei Silva
+date: 2022-12-09
+details: "Climate Change AI"
+year: 2022
+nocite: "kazadi_neurips:2022"
+
+about:
+  template: solana
+  links:
+    - href: https://www.climatechange.ai/papers/neurips2022/75
+      icon: link
+      text: 'Link'
+    - icon: github
+      text: Code
+      href: https://github.com/kanz76/FloodGNN
+
+format:
+  html:
+    page-layout: full
+---
+
+Climate Change AI - NeurIPS 2022 Accepted Work
+
+:::{#bibliography}
+:::

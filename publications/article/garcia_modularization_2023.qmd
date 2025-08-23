@@ -1,0 +1,32 @@
+---
+title: "Leveraging Mesh Modularization to Lower the Computational Cost of Localized Updates to Regional 2D Hydrodynamic Model Outputs"
+author:
+  - M. Garcia
+  - A. Juan
+  - J. Doss-Gollin
+  - P. Bedient
+date: 2023-03-20
+details: "Engineering Applications of Computational Fluid Mechanics"
+year: 2023
+volume: "17"
+issue: "1"
+pages: "2225584"
+nocite: "garcia_modularization:2023"
+image: ../../_assets/img/pubs/garcia_modularization_2023.jpg
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1080/19942060.2023.2225584'
+      href: https://doi.org/10.1080/19942060.2023.2225584
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Hydrodynamic model outputs are used in urban flood risk modelling, flood alert systems, and Monte Carlo hazard assessment. This study tackles an under-explored challenge wherein regular updates to the spatial characteristics of the watershed – due to factors such as changing land use – alter the watershed’s response to rainfall forcing, thus rendering existing model outputs obsolete. Because state-of-the-art hydrodynamic models are computationally expensive, frequently re-running simulations can be costly. Modularization addresses this problem by requiring re-computation only for a limited domain affected by the land use changes. This article introduces a novel approach by modularizing the 2D domain into independent sub-domains before (‘discrete’) and after (‘abstract’) the numerical computations. Using the Hydrologic Engineering Center River Analysis System (HEC-RAS) 2D model of a large urban watershed in Houston as an illustrative and generalizable testbed, we show that both the discrete and abstract modularization closely approximates the results from re-running the entire model. The computational cost of modularization scales linearly with model size for memory requirements as storing the solution on the interior boundaries (discrete) or throughout the domain (abstract) are necessary. This trade-off of memory for computation may facilitate advances in surrogate modelling or Monte Carlo flood risk assessment.
+
+:::{#bibliography}
+:::

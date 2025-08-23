@@ -1,0 +1,27 @@
+---
+title: "GC42N-0889: Changing Climate, Peak Demand and Load Factors Across the Contiguous United States"
+author:
+  - Yash Vijay Amonkar
+  - **James Doss-Gollin**
+  - David J. Farnham
+  - Vijay Modi
+  - Upmanu Lall
+date: 2022-12-15
+details: "AGU Fall Meeting 2022"
+year: 2022
+nocite: "amonkar_agu:2022"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1176262
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

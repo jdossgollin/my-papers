@@ -1,0 +1,27 @@
+---
+title: "Considerações Sobre a Sustentabilidade Hídrica De Cisternas Para Captação De Chuva No Semiárido Brasileiro"
+author:
+  - **James Doss-Gollin**
+  - Francisco de Assis de Souza Filho
+  - Francisco Osny Enéas da Silva
+date: 2014-01-01
+details: "XII Simpósio De Recursos Hídricos Do Nordeste"
+year: 2014
+nocite: "doss-gollin_simposio:2014"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.13140/rg.2.1.4086.4807 (Open Access)'
+      href: https://doi.org/10.13140/rg.2.1.4086.4807
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+O emprego de cisternas para captação de água de chuva como uma alternativa de abastecimento para comunidades rurais e peri-urbanas situadas no semiárido brasileiro tem sido objeto de programas governamentais específicos e de outros patrocinados por ONG’s ao longo das duas últimas décadas. A heterogeneidade climática do semiárido resulta em variados níveis de garantia de precipitação para enchimento das cisternas, levando em conta também outros fatores tais como a área de contribuição de telhados para captação da chuva, o coeficiente de escoamento superficial nos telhados e o descarte sanitário das primeiras chuvas. Este artigo apresenta um modelo de análise conjunta destes fatores para avaliar a sustentabilidade hídrica das cisternas no semiárido brasileiro. A análise revela que embora a captação de águas de chuva possa prover acesso sustentável a água potável em algumas áreas, não pode garantir acesso universal a água, particularmente para sistemas com áreas de captação pequenas ou para sistemas localizadas nas regiões mais secas.
+
+:::{#bibliography}
+:::

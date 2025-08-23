@@ -1,0 +1,25 @@
+---
+title: "H13T-2050: Preserving Long-Term Variability in Simulation of Multisite Streamflow Extremes"
+author:
+  - Yash Vijay Amonkar
+  - **James Doss-Gollin**
+  - Upmanu Lall
+date: 2019-12-09
+details: "AGU Fall Meeting 2019"
+year: 2019
+nocite: "amonkar_agu:2019"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.6084/m9.figshare.11444238.v1 (Open Access)'
+      href: https://doi.org/10.6084/m9.figshare.11444238.v1
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

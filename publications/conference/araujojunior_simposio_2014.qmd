@@ -1,0 +1,29 @@
+---
+title: "Análise Dos Eventos De Seca No Nordeste Setentrional Brasileiro Com Base No Índice De Precipitação Normalizada"
+author:
+  - Luiz Martins Araújo Júnior
+  - Francisco de Assis de Souza Filho
+  - Cleiton da Silva Silveira
+  - Tyhago Aragão Dias
+  - **James Doss-Gollin**
+date: 2014-01-01
+details: "XII Simpósio De Recursos Hídricos Do Nordeste"
+year: 2014
+nocite: "araujojunior_simposio:2014"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.13140/rg.2.1.4610.7685 (Open Access)'
+      href: https://doi.org/10.13140/rg.2.1.4610.7685
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Este trabalho tem como objetivo avaliar a persistência da seca meteorológica ao longo dos anos e caracterizar tanto espacialmente como temporalmente níveis de severidade de seca para o Nordeste Setentrional Brasileiro (NSB). A fim de alcançar os objetivos traçados alguns índices podem ser utilizados como índice de Palmer, o índice de severidade da seca de Palmer e o índice normalizado de precipitação. Para esse estudo o índice utilizado foi o índice de precipitação normalizada (SPI). Os resultados mostraram, temporalmente, que com o passar dos anos as secas têm ficado cada vez mais severas e cada vez mais estações meteorológicas têm sido incluídas em alguma categoria de seca. Isso mostra a necessidade da criação de um planejamento eficaz que possa ser desenvolvido ao longo de todo o ano e não apenas em época de secas extremas mais generalizadas.
+
+:::{#bibliography}
+:::

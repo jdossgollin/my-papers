@@ -1,0 +1,28 @@
+---
+title: "GC52B-02: Dynamics and Thermodynamics of Weather Extremes: A Dynamical Systems Approach"
+author:
+  - Davide Faranda
+  - Gabriele Messori
+  - **James Doss-Gollin**
+  - David J Farnham
+  - Upmanu Lall
+  - Pascal Yiou
+date: 2017-12
+details: "AGU 2017 Fall Meeting"
+year: 2017
+nocite: "faranda_agu:2017"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/270550
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

@@ -1,0 +1,28 @@
+---
+title: "Before and After Piped Water Expansion: Water Use Patterns and Trust in Water and Political Institutions"
+author:
+  - Alicia Cooperman
+  - Manuela Muñoz Fuerte
+  - **James Doss-Gollin**
+  - Alex S. Mayer
+date: 2024-12-13
+details: "AGU AGU24"
+year: 2024
+nocite: "cooperman_agu:2024"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1740538
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+Many neighborhoods across the United States lack adequate, affordable, and reli...
+
+:::{#bibliography}
+:::

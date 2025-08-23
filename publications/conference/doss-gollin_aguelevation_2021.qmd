@@ -1,0 +1,24 @@
+---
+title: "H25U-1265: Operationalizing Bayesian Model Checking for Robust Decision Making: Insights From House Elevation"
+author:
+  - **James Doss-Gollin**
+  - Klaus Keller
+date: 2021-12-14
+details: "AGU Fall Meeting 2021"
+year: 2021
+nocite: "doss-gollin_aguelevation:2021"
+
+about:
+  template: solana
+  links:
+    - href: agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D2-0D-CF-34-C4-B0-81-F3-7F-89-98-D7-10-3D-BB-01
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

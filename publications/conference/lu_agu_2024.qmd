@@ -1,0 +1,29 @@
+---
+title: "TxRAIN-Observational: A Hierarchical Bayesian Spatial Framework to Assess Nonstationary Rainfall Intensity, Frequency, and Duration in Texas"
+author:
+  - *Yuchen Lu*
+  - Benjamin Seiyon Lee
+  - **James Doss-Gollin**
+  - John W. Nielsen-Gammon
+  - Rewati Niraula
+date: 2024-12-10
+details: "AGU AGU24"
+year: 2024
+nocite: "lu_agu:2024"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1624973
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+Estimates of extreme precipitation probabilities are widely used in engineering...
+
+:::{#bibliography}
+:::

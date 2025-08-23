@@ -1,0 +1,35 @@
+---
+title: "How Unprecedented Was the February 2021 Texas Cold Snap?"
+author:
+  - **James Doss-Gollin**
+  - David J. Farnham
+  - Upmanu Lall
+  - Vijay Modi
+date: 2021-06-08
+details: "Environmental Research Letters"
+year: 2021
+nocite: "doss-gollin_txtreme:2021"
+image: ../../_assets/img/pubs/doss-gollin_txtreme_2021.jpg
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1088/1748-9326/ac0278 (Open Access)'
+      href: https://doi.org/10.1088/1748-9326/ac0278
+      icon: link
+    - icon: github
+      text: Code
+      href: https://github.com/jdossgollin/2021-TXtreme
+    - text: Preprint
+      icon: file-pdf
+      href: https://eartharxiv.org/repository/view/2122/
+
+format:
+  html:
+    page-layout: full
+---
+
+Winter storm Uri brought severe cold to the southern United States in February 2021, causing a cascading failure of interdependent systems in Texas where infrastructure was not adequately prepared for such cold. In particular, the failure of interconnected energy systems restricted electricity supply just as demand for heating spiked, leaving millions of Texans without heat or electricity, many for several days. This motivates the question: did historical storms suggest that such temperatures were known to occur, and if so with what frequency? We compute a temperature-based proxy for heating demand and use this metric to answer the question “what would the aggregate demand for heating have been had historic cold snaps occurred with today’s population?”. We find that local temperatures and the inferred demand for heating per capita across the region served by the Texas Interconnection were more severe during a storm in December 1989 than during February 2021, and that cold snaps in 1951 and 1983 were nearly as severe. Given anticipated population growth, future storms may lead to even greater infrastructure failures if adaptive investments are not made. Further, electricity system managers should prepare for trends in electrification of heating to drive peak annual loads on the Texas Interconnection during severe winter storms.
+
+:::{#bibliography}
+:::

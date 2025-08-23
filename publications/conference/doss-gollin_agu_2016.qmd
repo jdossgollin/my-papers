@@ -1,0 +1,27 @@
+---
+title: "A33J-0396: Global-local Interactions Modulate Tropical Moisture Exports to the Ohio River Basin"
+author:
+  - **James Doss-Gollin**
+  - David J Farnham
+  - Upmanu Lall
+date: 2016-01-01
+details: "AGU 2016 Fall Meeting"
+year: 2016
+nocite: "doss-gollin_agu:2016"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.13140/rg.2.2.36009.19044 (Open Access)'
+      href: https://doi.org/10.13140/rg.2.2.36009.19044
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Regional-scale extreme rainfall and flooding are temporally and spatially associated with the occurrence of tropical moisture exports (TMEs) in the Ohio River Basin (ORB). TMEs are related to but not synonymous with atmospheric rivers, which refer to specific filiamentary organizational processes. TMEs to the ORB may be driven by strong, persistent ridging over the Eastern United States and troughing over the Central United States, creating favorable conditions for southerly flow and moisture transport from the Gulf of Mexico and Caribbean Sea. However, the strong inter-annual variation in TME activity over the ORB suggests dependence on global-scale features of the atmospheric circulation. We suggest that this synoptic dipole pattern may be viewed as the passage of one or more high-wavenumber, transient Rossby waves. We build a multi-level hierarchical Bayesian model in which the probability distribution of TME entering the ORB is a function of the phase and amplitude of the traveling waves. In turn, the joint distribution of the phase and amplitude of this wave is modulated by hemispheric-scale features of the atmospheric and oceanic circulation, and the amplitude and synchronization of quasi-stationary Rossby waves with wavenumber 1-4. Our approach bridges information about different features of the atmospheric circulation which inform the predictability of TME at multiple time scales and develops existing understanding of the atmospheric drivers of TMEs beyond existing composite and EOF studies.
+
+:::{#bibliography}
+:::

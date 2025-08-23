@@ -1,0 +1,32 @@
+---
+title: "Impact of 21st Century Climate Change on Mississippi River Basin Discharge in CESM2 Large Ensemble Projections"
+author:
+  - M. R. Haider
+  - S. G. Dee
+  - J. Doss-Gollin
+  - K. B. J. Dunne
+  - S. E. Muñoz
+date: 2025-06-01
+details: "Global and Planetary Change"
+year: 2025
+volume: "249"
+pages: "104742"
+nocite: "haider_mrb:2025"
+image: ../../_assets/img/pubs/haider_mrb_2025.png
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1016/j.gloplacha.2025.104742'
+      href: https://doi.org/10.1016/j.gloplacha.2025.104742
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+The Mississippi River Basin (MRB), the fourth-largest river basin in the world, is an important corridor for hydroelectric power generation, agricultural and industrial production, riverine transportation, and ecosystem goods and services. Historically, flooding of the Mississippi River has resulted in significant economic losses. In a future with an intensified global hydrological cycle, the altered discharge of the river may jeopardize communities and infrastructure situated in the floodplain. This study utilizes output from the Community Earth System Model version 2 (CESM2) large ensemble simulations spanning 1930 to 2100 to quantify changes in future MRB discharge under a high greenhouse gas emissions scenario (SSP3–7.0). The simulations show that increasing precipitation trends exceed and dominate increased evapotranspiration (ET), driving an overall increase in total discharge in the Ohio and Lower Mississippi River basins. On a seasonal scale, reduced spring snowmelt is projected in the Ohio and Missouri River basins, leading to reduced spring runoff in those regions. However, decreased snowmelt and spring runoff is overshadowed by a larger increase in projected precipitation minus ET over the entire basin and leads to an increase in mean river discharge. This increase in discharge is linked to a relatively small increase in the magnitude of extreme floods (2~\% and 3~\% for 100-year and 1000-year floods, respectively) by the late 21st century relative to the late 20th century. Our analyses imply that under SSP3–7.0 forcing, the Mississippi River and Tributaries (MR\&T) project design flood would not be exceeded at the 100-year return period. Our results harbor implications for water resources management including increased vulnerability of the Mississippi River given projected changes in climate.
+
+:::{#bibliography}
+:::

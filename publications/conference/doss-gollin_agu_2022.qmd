@@ -1,0 +1,25 @@
+---
+title: "H35F-07: Near-term Predictability Lowers Long-Term Adaptation Costs"
+author:
+  - **James Doss-Gollin**
+  - Jonathan Lamontagne
+  - Upmanu Lall
+date: 2022-12-14
+details: "AGU Fall Meeting 2022"
+year: 2022
+nocite: "doss-gollin_agu:2022"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1153913
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

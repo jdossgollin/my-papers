@@ -1,0 +1,27 @@
+---
+title: "H21T-1602: Spatially Varying Covariate Model: A Hierarchical Bayesian Framework for Precipitation Frequency Analysis in the Gulf Coast"
+author:
+  - *Yuchen Lu*
+  - Benjamin Seiyon Lee
+  - **James Doss-Gollin**
+date: 2023-12-12
+details: "AGU AGU23"
+year: 2023
+nocite: "lu_agu:2023"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1328932
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+Precipitation exceedance probabilities play a critical role in engineering desi...
+
+:::{#bibliography}
+:::

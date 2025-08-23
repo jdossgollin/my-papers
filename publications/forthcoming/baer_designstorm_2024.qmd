@@ -1,0 +1,26 @@
+---
+title: "Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk"
+author:
+  - Jack Baer
+  - Antonia Sebastian
+  - Lauren Elise Grimley
+  - **James Doss-Gollin**
+  - Daniel B. Wright
+  - Mohammad Ashar Hussain
+date: 2024-12-12
+details: ""
+year: 2024
+nocite: "baer_designstorm:2024"
+
+about:
+  template: solana
+
+format:
+  html:
+    page-layout: full
+---
+
+Flood hazard maps are essential to floodplain management and resiliency efforts...
+
+:::{#bibliography}
+:::

@@ -1,0 +1,28 @@
+---
+title: "PP45D-1187: The Mississippi River’s Hydrologic Response to Natural vs. Anthropogenic Forcing From the Last Millennium Through the 21st Century"
+author:
+  - Kelsey Murphy
+  - Sylvia Dee
+  - Samuel E. Munoz
+  - Kieran Dunne
+  - Michelle O'Donnell
+  - **James Doss-Gollin**
+date: 2022-12-15
+details: "AGU Fall Meeting 2022"
+year: 2022
+nocite: "murphy_agu:2022"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1095010
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

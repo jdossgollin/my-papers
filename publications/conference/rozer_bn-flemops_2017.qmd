@@ -1,0 +1,28 @@
+---
+title: "NH41E-08: BN-FLEMOps Pluvial - A Probabilistic Multi-Variable Loss Estimation Model for Pluvial Floods"
+author:
+  - Viktor Rözer
+  - Heidi Kreibich
+  - Kai Schröter
+  - **James Doss-Gollin**
+  - Upmanu Lall
+  - Bruno Merz
+date: 2017-12
+details: "AGU 2017 Fall Meeting"
+year: 2017
+nocite: "rozer_bn-flemops:2017"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/224930
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

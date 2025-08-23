@@ -1,0 +1,26 @@
+---
+title: "H52F-05: Robust Adaptation to Cyclical Climate Risk"
+author:
+  - **James Doss-Gollin**
+  - David J Farnham
+  - Scott Steinschneider
+  - Upmanu Lall
+date: 2018-12-14
+details: "AGU Fall Meeting 2018"
+year: 2018
+nocite: "doss-gollin_agu:2018"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.13140/rg.2.2.28447.20649 (Open Access)'
+      href: https://doi.org/10.13140/rg.2.2.28447.20649
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

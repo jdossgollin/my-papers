@@ -1,0 +1,39 @@
+---
+title: "MAD Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era"
+author:
+  - Amber Wutich
+  - Patrick Thomson
+  - Wendy Jepson
+  - Justin Stoler
+  - Alicia D. Cooperman
+  - **James Doss-Gollin**
+  - Anish Jantrania
+  - Alex Mayer
+  - Jami Nelson-Nuñez
+  - W. Shane Walker
+  - Paul Westerhoff
+date: 2023-07-12
+details: "WIREs Water"
+year: 2023
+volume: "n/a"
+issue: "n/a"
+pages: "e1680"
+nocite: "wutich_madwater:2023"
+image: ../../_assets/img/pubs/wutich_madwater_2023.jpg
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1002/wat2.1680'
+      href: https://doi.org/10.1002/wat2.1680
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Centralized water infrastructure has, over the last century, brought safe and reliable drinking water to much of the world. But climate change, combined with aging and underfunded infrastructure, is increasingly testing the limits of—and reversing gains made by—this approach. To address these growing strains and gaps, we must assess and advance alternatives to centralized water provision and sanitation. The water literature is rife with examples of systems that are neither centralized nor networked, yet meet water needs of local communities in important ways, including: informal and hybrid water systems, decentralized water provision, community-based water management, small drinking water systems, point-of-use treatment, small-scale water vendors, and packaged water. Our work builds on these literatures by proposing a convergence approach that can integrate and explore the benefits and challenges of modular, adaptive, and decentralized (“MAD”) water provision and sanitation, often foregrounding important advances in engineering technology. We further provide frameworks to evaluate justice, economic feasibility, governance, human health, and environmental sustainability as key parameters of MAD water system performance.
+
+:::{#bibliography}
+:::

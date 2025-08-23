@@ -1,0 +1,26 @@
+---
+title: "Revamping the Texas Power Grid: Insights From Rice University’s Electricity Research"
+author:
+  - Daniel Cohan
+  - **James Doss-Gollin**
+date: 2023-11-10
+details: ""
+year: 2023
+nocite: "cohan_whitepaper:2023"
+
+about:
+  template: solana
+  links:
+    - href: https://doi.org/10.25613/5FJJ-T074
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+How can Texas secure an affordable, sustainable, and reliable power supply for all its citizens? This report explores key insights from research conducted at Rice University.
+
+:::{#bibliography}
+:::

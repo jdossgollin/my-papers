@@ -1,0 +1,26 @@
+---
+title: "H42E-1351: Validation of Community Earth System Model Hydrologic Variables Over the Mississippi River System To Understand Long Term Hydrometerologic Changes"
+author:
+  - Michelle O'Donnell
+  - **James Doss-Gollin**
+  - Sylvia Dee
+  - Samuel E. Munoz
+date: 2022-12-15
+details: "AGU Fall Meeting 2022"
+year: 2022
+nocite: "odonnell_agu:2022"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1111978
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

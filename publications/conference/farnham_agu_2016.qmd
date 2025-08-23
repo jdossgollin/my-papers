@@ -1,0 +1,25 @@
+---
+title: "NH53E-08: Space-time Characteristics and Statistical Predictability of Extreme Daily Precipitation Events in the Ohio River Basin"
+author:
+  - David J Farnham
+  - **James Doss-Gollin**
+  - Upmanu Lall
+date: 2016-12
+details: "AGU 2016 Fall Meeting"
+year: 2016
+nocite: "farnham_agu:2016"
+
+about:
+  template: solana
+  links:
+    - href: https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/184876
+      icon: link
+      text: 'Link'
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::

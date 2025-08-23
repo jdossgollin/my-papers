@@ -1,0 +1,23 @@
+---
+title: "Advancing Urban Flood Hazard Characterization Through Machine Learning: Challenges and Opportunities"
+author:
+  - **James Doss-Gollin**
+  - Arlei Silva
+  - Antonia Sebastian
+  - Noemi Vergopolan
+  - Adam Nayak
+date: 2024-12-13
+details: ""
+year: 2024
+nocite: "doss-gollin_agu:2024a"
+
+about:
+  template: solana
+
+format:
+  html:
+    page-layout: full
+---
+
+:::{#bibliography}
+:::
