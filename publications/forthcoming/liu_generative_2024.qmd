@@ -8,7 +8,9 @@ author:
 date: 2024-01-01
 details: ""
 year: 2024
-nocite: "liu_generative:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@liu_generative:2024"
 image: ../../_assets/img/pubs/liu_generative_2024.png
 
 about:
@@ -25,5 +27,17 @@ format:
 
 Understanding local risks from extreme rainfall, such as flooding, requires both long records (to sample rare events) and high-resolution products (to assess localized hazards). Unfortunately, there is a dearth of long-record and high-resolution products that can be used to understand local risk and precipitation science. In this paper, we present a novel generative diffusion model that downscales (super-resolves) globally available Climate Prediction Center (CPC) gauge-based precipitation products and ERA5 reanalysis data to generate kilometer-scale precipitation estimates. Downscaling gauge-based precipitation from 55 km to 1 km while recovering extreme rainfall signals poses significant challenges. To enforce our model (named WassDiff) to produce well-calibrated precipitation intensity values, we introduce a Wasserstein Distance Regularization (WDR) term for the score-matching training objective in the diffusion denoising process. We show that WDR greatly enhances the model's ability to capture extreme values compared to diffusion without WDR. Extensive evaluation shows that WassDiff has better reconstruction accuracy and bias scores than conventional score-based diffusion models. Case studies of extreme weather phenomena, like tropical storms and cold fronts, demonstrate WassDiff's ability to produce appropriate spatial patterns while capturing extremes. Such downscaling capability enables the generation of extensive km-scale precipitation datasets from existing historical global gauge records and current gauge measurements in areas without high-resolution radar.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@online{liu_generative:2024,
+  version = {1},
+  pubstate = {prepublished},
+  urldate = {2024-10-04},
+  url = {https://arxiv.org/abs/2410.00381},
+  doi = {10.48550/ARXIV.2410.00381},
+  date = {2024},
+  author = {Liu, Yuhao and Doss-Gollin, James and Balakrishnan, Guha and Veeraraghavan, Ashok},
+  title = {Generative {{Precipitation Downscaling}} Using {{Score-based Diffusion}} with {{Wasserstein Regularization}}},
+}
+```

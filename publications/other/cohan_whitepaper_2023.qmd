@@ -6,7 +6,9 @@ author:
 date: 2023-11-10
 details: ""
 year: 2023
-nocite: "cohan_whitepaper:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@cohan_whitepaper:2023"
 
 about:
   template: solana
@@ -22,5 +24,16 @@ format:
 
 How can Texas secure an affordable, sustainable, and reliable power supply for all its citizens? This report explores key insights from research conducted at Rice University.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@report{cohan_whitepaper:2023,
+  urldate = {2024-04-10},
+  url = {https://doi.org/10.25613/5FJJ-T074},
+  location = {Houston, TX},
+  institution = {Baker Institute for Public Policy},
+  date = {2023-11-10},
+  author = {Cohan, Daniel and Doss-Gollin, James},
+  title = {Revamping the {{Texas Power Grid}}: {{Insights}} from {{Rice University}}’s {{Electricity Research}}},
+}
+```

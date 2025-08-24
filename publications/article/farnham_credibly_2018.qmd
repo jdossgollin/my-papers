@@ -9,7 +9,9 @@ details: "Water Resources Research"
 year: 2018
 volume: "54"
 issue: "6"
-nocite: "farnham_credibly:2018"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@farnham_credibly:2018"
 image: ../../_assets/img/pubs/farnham_credibly_2018.jpg
 
 about:
@@ -29,5 +31,20 @@ format:
 
 eneral circulation models (GCMs) have been demonstrated to produce estimates of precipitation, including the frequency of extreme precipitation, with substantial bias and uncertainty relative to their representation of other fields. Thus, while theory predicts changes in the hydrologic cycle under anthropogenic warming, there is generally low confidence in future projections of extreme precipitation frequency for specific river basins. In this paper, we explore whether a GCM simulates large-scale atmospheric circulation indices that are associated with regional extreme precipitation (REP) days more accurately than it simulates REP days themselves, and thus whether conditional simulation of the precipitation events based on the circulation indices may improve the simulation of REP events. We show that a coupled Geophysical Fluid Dynamics Laboratory GCM simulates too many springtime REP days in the Ohio River Basin in historical (1950–2005) simulations. The GCM, however, does credibly simulate the distributional and persistence properties of several indices (which represent the large-scale atmospheric pressure features, local atmospheric moisture content, and local vertical velocity) that are shown to modulate the likelihood of REP occurrence in the reanalysis/observational record. We show that simulation of REP events based on the GCM-based atmospheric indices greatly reduces the bias of GCM REP frequency relative to the observed record. The simulation is conducted via a Bayesian regression model by imposing the empirical relationship between observed REP occurrence and the reanalysis-based atmospheric indices. Application of this model to future (2006–2100) representative concentration pathway 8.5 scenario suggests an increasing trend in springtime REP incidence in the study region. The proposed approach of simulating precipitation events of interest, particularly those poorly represented in GCMs, with a statistical model based on climate indices that are reasonably simulated by GCMs could be applied to subseasonal to seasonal forecasts as well as future projections.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{farnham_credibly:2018,
+  repo = {https://github.com/d-farnham/ORB\_Paper/},
+  open = {true},
+  url = {https://doi.org/10.1002/2017wr021318},
+  doi = {10.1002/2017wr021318},
+  number = {6},
+  volume = {54},
+  journaltitle = {Water Resources Research},
+  date = {2018},
+  author = {Farnham, David J and Doss-Gollin, James and Lall, Upmanu},
+  title = {Regional Extreme Precipitation Events: Robust Inference from Credibly Simulated {{GCM}} Variables},
+  ids = {farnham_orbrep:2018},
+}
+```

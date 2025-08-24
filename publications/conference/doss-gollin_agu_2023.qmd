@@ -9,7 +9,9 @@ author:
 date: 2023-12-11
 details: "AGU AGU23"
 year: 2023
-nocite: "doss-gollin_agu:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2023"
 
 about:
   template: solana
@@ -25,5 +27,16 @@ format:
 
 Precipitation frequency estimates serve as foundational tools in stormwater man...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2023,
+  eventtitle = {{{AGU23}}},
+  urldate = {2024-02-14},
+  url = {https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1352809},
+  publisher = {AGU},
+  date = {2023-12-11},
+  author = {Doss-Gollin, James and Lu, Yuchen and Nielsen-Gammon, John W. and Niraula, Rewati and Lee, Benjamin Seiyon},
+  title = {{{NH14B-07}}: {{Linking Robust Trends}} in {{Observations}} and {{Models}} to {{Develop Nonstationary Rainfall Frequency Grids}} for the {{State}} of {{Texas}}},
+}
+```

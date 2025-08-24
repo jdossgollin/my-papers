@@ -9,7 +9,9 @@ author:
 date: 2022-12-15
 details: "AGU Fall Meeting 2022"
 year: 2022
-nocite: "amonkar_agu:2022"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@amonkar_agu:2022"
 
 about:
   template: solana
@@ -23,5 +25,16 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{amonkar_agu:2022,
+  eventtitle = {Fall {{Meeting}} 2022},
+  urldate = {2023-01-05},
+  url = {https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1176262},
+  publisher = {AGU},
+  date = {2022-12-15},
+  author = {Amonkar, Yash Vijay and Doss-Gollin, James and Farnham, David J. and Modi, Vijay and Lall, Upmanu},
+  title = {{{GC42N-0889}}: {{Changing}} Climate, Peak Demand and Load Factors across the Contiguous {{United States}}},
+}
+```

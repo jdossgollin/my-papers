@@ -8,7 +8,9 @@ author:
 date: 2024-05-20
 details: ""
 year: 2024
-nocite: "pollack_unsafe:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@pollack_unsafe:2024"
 image: ../../_assets/img/pubs/pollack_unsafe_2024.png
 
 about:
@@ -25,5 +27,17 @@ format:
 
 A software package for adding parametric uncertainty to the national structure inventory and estimating flood losses with uncertain depth-damage relationships: https://github.com/abpoll/unsafe.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@online{pollack_unsafe:2024,
+  pubstate = {prepublished},
+  urldate = {2024-05-20},
+  url = {https://osf.io/jb9ta},
+  doi = {10.31219/osf.io/jb9ta},
+  eprinttype = {OSF},
+  date = {2024-05-20},
+  author = {Pollack, Adam and Doss-Gollin, James and Srikrishnan, Vivek and Keller, Klaus},
+  title = {{{UNSAFE}}: {{An UNcertain Structure And Fragility Ensemble}} Framework for Property-Level Flood Risk Estimation},
+}
+```

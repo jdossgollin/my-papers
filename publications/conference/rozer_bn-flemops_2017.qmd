@@ -10,7 +10,9 @@ author:
 date: 2017-12
 details: "AGU 2017 Fall Meeting"
 year: 2017
-nocite: "rozer_bn-flemops:2017"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@rozer_bn-flemops:2017"
 
 about:
   template: solana
@@ -24,5 +26,15 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{rozer_bn-flemops:2017,
+  eventtitle = {2017 {{Fall Meeting}}},
+  url = {https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/224930},
+  publisher = {AGU},
+  date = {2017-12},
+  author = {Rözer, Viktor and Kreibich, Heidi and Schröter, Kai and Doss-Gollin, James and Lall, Upmanu and Merz, Bruno},
+  title = {{{NH41E-08}}: {{BN-FLEMOps}} Pluvial - {{A}} Probabilistic Multi-Variable Loss Estimation Model for Pluvial Floods},
+}
+```

@@ -7,7 +7,9 @@ author:
 date: 2017-12
 details: "AGU 2017 Fall Meeting"
 year: 2017
-nocite: "doss-gollin_agu:2017a"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2017a"
 
 about:
   template: solana
@@ -21,5 +23,17 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2017a,
+  open = {true},
+  eventtitle = {2017 {{Fall Meeting}}},
+  url = {https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/241469},
+  doi = {10.13140/rg.2.2.16110.46403},
+  publisher = {AGU},
+  date = {2017-12},
+  author = {Doss-Gollin, James and Farnham, David J and Lall, Upmanu},
+  title = {{{H22B-02}}: {{Designing}} and Operating Infrastructure for Nonstationary Flood Risk Management},
+}
+```

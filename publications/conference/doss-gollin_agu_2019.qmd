@@ -7,7 +7,9 @@ author:
 date: 2019-12-09
 details: "AGU Fall Meeting 2019"
 year: 2019
-nocite: "doss-gollin_agu:2019"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2019"
 
 about:
   template: solana
@@ -23,5 +25,18 @@ format:
 
 AGU Fall Meeting 2019, Abstract H11G-07. Presented 9 December 2019.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2019,
+  open = {true},
+  eventtitle = {Fall {{Meeting}} 2019},
+  urldate = {2019-12-18},
+  url = {https://figshare.com/articles/Towards_Adaptive_Resilience_Managing_uncertainties_and_exploiting_predictability_across_timescales/11397936},
+  doi = {10.6084/m9.figshare.11397936.v1},
+  publisher = {AGU},
+  date = {2019-12-09},
+  author = {Doss-Gollin, James and Lall, Upmanu and Lamontagne, Jonathan},
+  title = {{{H11G-07}}: {{Towards}} Adaptive Resilience: Managing Uncertainties and Exploiting Predictability across Timescales},
+}
+```

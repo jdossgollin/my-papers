@@ -11,7 +11,9 @@ year: 2018
 volume: "31"
 issue: "17"
 pages: "6669--6685"
-nocite: "doss-gollin_pyfloods:2018"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_pyfloods:2018"
 image: ../../_assets/img/pubs/doss-gollin_pyfloods_2018.jpg
 
 about:
@@ -34,5 +36,21 @@ format:
 
 During the austral summer 2015/16, severe flooding displaced over 170 000 people on the Paraguay River system in Paraguay, Argentina, and southern Brazil. These floods were driven by repeated heavy rainfall events in the lower Paraguay River basin. Alternating sequences of enhanced moisture inflow from the South American low-level jet and local convergence associated with baroclinic systems were conducive to mesoscale convective activity and enhanced precipitation. These circulation patterns were favored by cross-time-scale interactions of a very strong El Niño event, an unusually persistent Madden–Julian oscillation in phases 4 and 5, and the presence of a dipole SST anomaly in the central southern Atlantic Ocean. The simultaneous use of seasonal and subseasonal heavy rainfall predictions could have provided decision-makers with useful information about the start of these flooding events from two to four weeks in advance. Probabilistic seasonal forecasts available at the beginning of November successfully indicated heightened probability of heavy rainfall (90th percentile) over southern Paraguay and Brazil for December–February. Raw subseasonal forecasts of heavy rainfall exhibited limited skill at lead times beyond the first two predicted weeks, but a model output statistics approach involving principal component regression substantially improved the spatial distribution of skill for week 3 relative to other methods tested, including extended logistic regressions. A continuous monitoring of climate drivers impacting rainfall in the region, and the use of statistically corrected heavy precipitation seasonal and subseasonal forecasts, may help improve flood preparedness in this and other regions.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{doss-gollin_pyfloods:2018,
+  repo = {https://github.com/jdossgollin/2018-paraguay-floods},
+  preprint = {https://eartharxiv.org/gzj8n/},
+  open = {true},
+  url = {http://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1},
+  doi = {10.1175/jcli-d-17-0805.1},
+  pages = {6669--6685},
+  number = {17},
+  volume = {31},
+  journaltitle = {Journal of Climate},
+  date = {2018-09-01},
+  author = {Doss-Gollin, James and Muñoz, Ángel G and Mason, Simon J and Pastén, Max},
+  title = {Heavy Rainfall in {{Paraguay}} during the 2015-2016 Austral Summer: Causes and Sub-Seasonal-to-Seasonal Predictive Skill},
+}
+```

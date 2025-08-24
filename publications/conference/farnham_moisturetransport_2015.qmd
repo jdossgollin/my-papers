@@ -8,7 +8,9 @@ author:
 date: 2015-12
 details: "AGU 2015 Fall Meeting"
 year: 2015
-nocite: "farnham_moisturetransport:2015"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@farnham_moisturetransport:2015"
 
 about:
   template: solana
@@ -22,5 +24,15 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{farnham_moisturetransport:2015,
+  eventtitle = {2015 {{Fall Meeting}}},
+  url = {https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/71252},
+  publisher = {AGU},
+  date = {2015-12},
+  author = {Farnham, David J and Lall, Upmanu and Kwon, Hyun-Han and Doss-Gollin, James},
+  title = {{{NH51E-1939}}: {{Moisture}} Transport and Extreme Precipitation in Mid-Latitudes},
+}
+```

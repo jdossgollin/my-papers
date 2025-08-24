@@ -272,9 +272,11 @@ def write_metadata_to_qmd(entry, qmd_file):
         if "pages" in entry:
             qmd_file.write(f"pages: \"{entry['pages']}\"\n")
 
-    # Nocite field for bibliography
+    # Bibliography configuration
     citekey = entry["ID"]
-    qmd_file.write(f'nocite: "{citekey}"\n')
+    qmd_file.write(f'bibliography: ../../my-papers.bib\n')
+    qmd_file.write(f'csl: ../../american-geophysical-union.csl\n')
+    qmd_file.write(f'nocite: "@{citekey}"\n')
 
     # Image (find existing or create from PDF)
     image_path = find_or_create_image(entry)
@@ -330,9 +332,16 @@ def write_metadata_to_qmd(entry, qmd_file):
     if "abstract" in entry:
         qmd_file.write("\n\n")
         qmd_file.write(entry["abstract"])
-
-    # Bibliography section (always include)
-    qmd_file.write("\n\n:::{#bibliography}\n:::")
+    
+    # Original BibTeX entry (without abstract)
+    qmd_file.write("\n\n## BibTeX\n\n```bibtex\n")
+    qmd_file.write(f"@{entry['ENTRYTYPE']}{{{entry['ID']},\n")
+    
+    for key, value in entry.items():
+        if key not in ['ENTRYTYPE', 'ID', 'abstract']:  # Skip abstract
+            qmd_file.write(f"  {key} = {{{value}}},\n")
+    
+    qmd_file.write("}\n```")
 
 
 def entry_to_qmd(entry):

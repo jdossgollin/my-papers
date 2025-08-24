@@ -6,7 +6,9 @@ author:
 date: 2021-12-14
 details: "AGU Fall Meeting 2021"
 year: 2021
-nocite: "doss-gollin_aguelevation:2021"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_aguelevation:2021"
 
 about:
   template: solana
@@ -20,5 +22,15 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_aguelevation:2021,
+  eventtitle = {Fall {{Meeting}} 2021},
+  url = {agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D2-0D-CF-34-C4-B0-81-F3-7F-89-98-D7-10-3D-BB-01},
+  publisher = {AGU},
+  date = {2021-12-14},
+  author = {Doss-Gollin, James and Keller, Klaus},
+  title = {{{H25U-1265}}: {{Operationalizing Bayesian Model Checking}} for {{Robust Decision Making}}: {{Insights}} from {{House Elevation}}},
+}
+```

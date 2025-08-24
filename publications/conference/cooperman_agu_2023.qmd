@@ -9,7 +9,9 @@ author:
 date: 2023-12-13
 details: "AGU AGU23"
 year: 2023
-nocite: "cooperman_agu:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@cooperman_agu:2023"
 
 about:
   template: solana
@@ -25,5 +27,16 @@ format:
 
 Many neighborhoods across the United States lack adequate, affordable, and reli...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{cooperman_agu:2023,
+  eventtitle = {{{AGU23}}},
+  urldate = {2024-02-14},
+  url = {https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1318513},
+  publisher = {AGU},
+  date = {2023-12-13},
+  author = {Cooperman, Alicia and Fuerte, Manuela Muñoz and Doss-Gollin, James and Mayer, Alex S. and Walker, W. Shane},
+  title = {{{H33P-1999}}: {{Before}} and {{After Piped Water Expansion}}: {{Water Use Patterns}} and {{Trust}} in {{Water}} and {{Political Institutions}}},
+}
+```

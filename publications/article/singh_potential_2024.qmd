@@ -13,7 +13,9 @@ year: 2024
 volume: "19"
 issue: "4"
 pages: "044018"
-nocite: "singh_potential:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@singh_potential:2024"
 image: ../../_assets/img/pubs/singh_potential_2024.jpg
 
 about:
@@ -30,5 +32,23 @@ format:
 
 Several recent widespread temperature extremes across the United States (U.S.) have been associated with power outages, disrupting access to electricity at times that are critical for the health and well-being of communities. Building resilience to such extremes in our energy infrastructure needs a comprehensive understanding of their spatial and temporal characteristics. In this study, we systematically quantify the frequency, extent, duration, and intensity of widespread temperature extremes and their associated energy demand in the six North American Electric Reliability Corporation regions using ERA5 reanalysis data. We show that every region has experienced hot or cold extremes that affected nearly their entire extent and such events were associated with substantially higher energy demand, resulting in simultaneous stress across the entire electric gird. The western U.S. experienced significant increases in the frequency (123\%), extent (32\%), duration (55\%) and intensity (29\%) of hot extremes and Texas experienced significant increases in the frequency (132\%) of hot extremes. The frequency of cold extremes has decreased across most regions without substantial changes in other characteristics. Using power outage data, we show that recent widespread extremes in nearly every region have coincided with power outages, and such outages account for between 12\%–52\% of all weather-related outages in the past decade depending on the region. Importantly, we find that solar potential is significantly higher during widespread hot extremes in all six regions and during widespread cold extremes in five of the six regions. Further, wind potential is significantly higher during widespread hot or cold extremes in at least three regions. Our findings indicate that increased solar and wind capacity could be leveraged to meet the higher demand for energy during such widespread extremes, improving the resilience and reliability of our energy systems in addition to limiting carbon emissions.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{singh_potential:2024,
+  urldate = {2024-03-18},
+  url = {https://dx.doi.org/10.1088/1748-9326/ad2e72},
+  doi = {10.1088/1748-9326/ad2e72},
+  issn = {1748-9326},
+  publisher = {IOP Publishing},
+  pages = {044018},
+  number = {4},
+  volume = {19},
+  shortjournal = {Environ. Res. Lett.},
+  journaltitle = {Environmental Research Letters},
+  date = {2024-03},
+  author = {Singh, Deepti and Bekris, Yianna S. and Rogers, Cassandra D. W. and Doss-Gollin, James and Coffel, Ethan D. and Kalashnikov, Dmitri A.},
+  title = {Enhanced Solar and Wind Potential during Widespread Temperature Extremes across the {{U}}.{{S}}. Interconnected Energy Grids},
+  ids = {singh_potential:2023},
+}
+```

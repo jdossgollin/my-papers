@@ -11,7 +11,9 @@ author:
 date: 2023-12-13
 details: "AGU AGU23"
 year: 2023
-nocite: "murphy_agu:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@murphy_agu:2023"
 
 about:
   template: solana
@@ -27,5 +29,17 @@ format:
 
 The Mississippi River Basin (MRB) is an indispensable economic corridor for the...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{murphy_agu:2023,
+  eventtitle = {{{AGU23}}},
+  urldate = {2024-02-14},
+  url = {https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1291268},
+  publisher = {AGU},
+  date = {2023-12-13},
+  author = {Murphy, Kelsey and Dee, Sylvia and Munoz, Samuel E. and Pitchon, Emilia and Wallace, Elizabeth Jane and O'Donnell, Michelle and Doss-Gollin, James},
+  title = {{{PP33E-1563}}: {{Last Millennium Changes}} in {{Mississippi River Basin Hydrology}} Driven by the {{Bermuda High}} and {{Great Plains Low Level Jet}}},
+  ids = {murphy_:2023a},
+}
+```

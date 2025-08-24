@@ -10,7 +10,9 @@ year: 2023
 volume: "10"
 issue: "3"
 pages: "67"
-nocite: "amonkar_compound:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@amonkar_compound:2023"
 image: ../../_assets/img/pubs/amonkar_compound_2023.png
 
 about:
@@ -27,5 +29,22 @@ format:
 
 The potential for extreme climate events to cluster in space and time has driven increased interest in understanding and predicting compound climate risks. Through a case study on floods in the Ohio River Basin, we demonstrated that low-frequency climate variability could drive spatial and temporal clustering of the risk of regional climate extremes. Long records of annual maximum streamflow from 24 USGS gauges were used to explore the regional spatiotemporal patterns of flooding and their associated large-scale climate modes. We found that the dominant time scales of flood risk in this basin were in the interannual (6–7 years), decadal (11–13 years), and secular bands and that different sub-regions within the Ohio River Basin responded differently to large-scale forcing. We showed that the leading modes of streamflow variability were associated with ENSO and secular trends. The low-frequency climate modes translated into epochs of increased and decreased flood risk with multiple extreme floods or the absence of extreme floods, thus informing the nature of compound climate-induced flood risk. A notable finding is that the secular trend was associated with an east-to-west shift in the flood incidence and the associated storm track. This is consistent with some expectations of climate change projections.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{amonkar_compound:2023,
+  issue = {3},
+  urldate = {2023-03-16},
+  url = {https://www.mdpi.com/2306-5338/10/3/67},
+  doi = {10.3390/hydrology10030067},
+  issn = {2306-5338},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  pages = {67},
+  number = {3},
+  volume = {10},
+  journaltitle = {Hydrology},
+  date = {2023-03-16},
+  author = {Amonkar, Yash and Doss-Gollin, James and Lall, Upmanu},
+  title = {Compound Climate Risk: Diagnosing Clustered Regional Flooding at Inter-Annual and Longer Time Scales},
+}
+```

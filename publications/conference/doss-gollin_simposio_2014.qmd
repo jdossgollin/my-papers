@@ -7,7 +7,9 @@ author:
 date: 2014-01-01
 details: "XII Simpósio De Recursos Hídricos Do Nordeste"
 year: 2014
-nocite: "doss-gollin_simposio:2014"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_simposio:2014"
 
 about:
   template: solana
@@ -23,5 +25,17 @@ format:
 
 O emprego de cisternas para captação de água de chuva como uma alternativa de abastecimento para comunidades rurais e peri-urbanas situadas no semiárido brasileiro tem sido objeto de programas governamentais específicos e de outros patrocinados por ONG’s ao longo das duas últimas décadas. A heterogeneidade climática do semiárido resulta em variados níveis de garantia de precipitação para enchimento das cisternas, levando em conta também outros fatores tais como a área de contribuição de telhados para captação da chuva, o coeficiente de escoamento superficial nos telhados e o descarte sanitário das primeiras chuvas. Este artigo apresenta um modelo de análise conjunta destes fatores para avaliar a sustentabilidade hídrica das cisternas no semiárido brasileiro. A análise revela que embora a captação de águas de chuva possa prover acesso sustentável a água potável em algumas áreas, não pode garantir acesso universal a água, particularmente para sistemas com áreas de captação pequenas ou para sistemas localizadas nas regiões mais secas.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_simposio:2014,
+  open = {true},
+  doi = {10.13140/rg.2.1.4086.4807},
+  location = {Natal, Rio Grande do Norte, Brasil},
+  publisher = {Associação Brasileira de Recursos Hídricos (ABRH)},
+  date = {2014},
+  author = {Doss-Gollin, James and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva, given=Francisco Osny Enéas, prefix=da, useprefix=true},
+  booktitle = {XII Simpósio de Recursos Hídricos Do Nordeste},
+  title = {Considerações sobre a sustentabilidade hídrica de cisternas para captação de chuva no Semiárido Brasileiro},
+}
+```

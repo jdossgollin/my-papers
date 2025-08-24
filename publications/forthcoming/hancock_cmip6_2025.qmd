@@ -11,7 +11,9 @@ author:
 date: 2025-01-01
 details: ""
 year: 2025
-nocite: "hancock_cmip6:2025"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@hancock_cmip6:2025"
 
 about:
   template: solana
@@ -21,5 +23,13 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@online{hancock_cmip6:2025,
+  pubstate = {prepublished},
+  date = {2025},
+  author = {Hancock, Christopher L and Dee, Sylvia G. and Haider, Muhammad Rezaul and Doss-Gollin, James and Lehner, Flavio and Murphy, Kelsey and Munoz, Samuel E.},
+  title = {Robust 21st Century Hydrological Trends in the {{Mississippi River}} Basin from {{CMIP6}}: West-Gets-Drier, East-Gets-Wetter},
+}
+```

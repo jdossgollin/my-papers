@@ -8,7 +8,9 @@ details: "Earth's Future"
 year: 2023
 volume: "11"
 issue: "1"
-nocite: "doss-gollin_subjective:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_subjective:2023"
 image: ../../_assets/img/pubs/doss-gollin_subjective_2023.jpg
 
 about:
@@ -31,5 +33,21 @@ format:
 
 Projections of nonstationary climate risks can vary considerably from one source to another, posing considerable communication and decision-analytical challenges. One such challenge is how to present trade-offs under deep uncertainty in a salient and interpretable manner. Some common approaches include analyzing a small subset of projections or treating all considered projections as equally likely. These approaches can underestimate risks, hide deep uncertainties, and are mostly silent on which assumptions drive decision-relevant outcomes. Here we introduce and demonstrate a transparent Bayesian framework for synthesizing deep uncertainties to inform climate risk management. The first step of this workflow is to generate an ensemble of simulations representing possible futures and analyze them through standard exploratory modeling techniques. Next, a small set of probability distributions representing subjective beliefs about the likelihood of possible futures is used to weight the scenarios. Finally, these weights are used to compute and characterize trade-offs, conduct robustness checks, and reveal implicit assumptions. We demonstrate the framework through a didactic case study analyzing how high to elevate a house to manage coastal flood risks.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{doss-gollin_subjective:2023,
+  repo = {https://github.com/jdossgollin/2022-elevation-robustness},
+  preprint = {https://doi.org/10.1002/essoar.10511798.4},
+  urldate = {2022-12-31},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2022EF003044},
+  doi = {10.1029/2022EF003044},
+  issn = {2328-4277},
+  number = {1},
+  volume = {11},
+  journaltitle = {Earth's Future},
+  date = {2023-01},
+  author = {Doss-Gollin, James and Keller, Klaus},
+  title = {A Subjective {{Bayesian}} Framework for Synthesizing Deep Uncertainties in Climate Risk Management},
+}
+```

@@ -10,7 +10,9 @@ year: 2015
 volume: "52"
 issue: "1"
 pages: "129--137"
-nocite: "doss-gollin_rwh:2015"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_rwh:2015"
 image: ../../_assets/img/pubs/doss-gollin_rwh_2015.jpg
 
 about:
@@ -30,5 +32,19 @@ format:
 
 During the past two decades, government efforts to provide water access to rural communities in Brazil’s semiarid Northeast region have focused on building systems to capture and store rainwater, most importantly through the One Million Cisterns Program (P1MC). This article presents an analytic model based on daily precipitation data to evaluate the sustainability of rainwater capture. Application of this model to analysis of the P1MC reveals the heterogeneous climate in this region causes large spatial variability in the effectiveness of this program. In addition, the size of the area of capture, the run-off coefficient of the roofs, and the amount of first-flush diversion also have important effects. This analysis demonstrates while rainwater capture can offer sufficient water for drinking, as a stand-alone solution it cannot meet P1MC objectives of guaranteeing sustainable and universal access to water for drinking, cooking, and basic hygiene in all regions and years.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{doss-gollin_rwh:2015,
+  repo = {https://github.com/jdossgollin/2014-matlab-cisternas-brasil},
+  url = {http://doi.wiley.com/10.1111/1752-1688.12376},
+  doi = {10.1111/1752-1688.12376},
+  pages = {129--137},
+  number = {1},
+  volume = {52},
+  journaltitle = {Journal of the American Water Resources Association},
+  date = {2015-12},
+  author = {Doss-Gollin, James and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva, given=Francisco Osny Enéas, prefix=da, useprefix=true},
+  title = {Analytic Modeling of Rainwater Harvesting in the {{Brazilian Semiarid Northeast}}},
+}
+```

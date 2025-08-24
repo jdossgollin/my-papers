@@ -9,7 +9,9 @@ author:
 date: 2024-12-10
 details: "AGU AGU24"
 year: 2024
-nocite: "lu_agu:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@lu_agu:2024"
 
 about:
   template: solana
@@ -25,5 +27,16 @@ format:
 
 Estimates of extreme precipitation probabilities are widely used in engineering...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{lu_agu:2024,
+  eventtitle = {{{AGU24}}},
+  urldate = {2025-01-12},
+  url = {https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1624973},
+  publisher = {AGU},
+  date = {2024-12-10},
+  author = {Lu, Yuchen and Lee, Benjamin Seiyon and Doss-Gollin, James and Nielsen-Gammon, John W. and Niraula, Rewati},
+  title = {{{TxRAIN-Observational}}: {{A Hierarchical Bayesian Spatial Framework}} to {{Assess Nonstationary Rainfall Intensity}}, {{Frequency}}, and {{Duration}} in {{Texas}}},
+}
+```

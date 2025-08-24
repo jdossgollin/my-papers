@@ -10,7 +10,9 @@ details: "Environmental Data Science"
 year: 2024
 volume: "3"
 pages: "e21"
-nocite: "kazadi_floodgnn-gru:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@kazadi_floodgnn-gru:2024"
 image: ../../_assets/img/pubs/kazadi_floodgnn-gru_2024.png
 
 about:
@@ -27,5 +29,19 @@ format:
 
 Classical approaches for flood prediction apply numerical methods for the solution of partial differential equations that capture the physics of inundation processes (e.g., the 2D Shallow Water equations). However, traditional inundation models are still unable to satisfy the requirements of many relevant applications, including early-warning systems, high-resolution (or large spatial domain) simulations, and robust inference over distributions of inputs (e.g., rainfall events). Machine learning (ML) approaches are a promising alternative to physics-based models due to their ability to efficiently capture correlations between relevant inputs and outputs in a data-driven fashion. In particular, once trained, ML models can be tested/deployed much more efficiently than classical approaches. Yet, few ML-based solutions for spatio-temporal flood prediction have been developed, and their reliability/accuracy is poorly understood. In this paper, we propose FloodGNN-GRU, a spatio-temporal flood prediction model that combines a graph neural network (GNN) and a gated recurrent unit (GRU) architecture. Compared to existing approaches, FloodGNN-GRU (i) employs a graph-based model (GNN); (ii) operates on both spatial and temporal dimensions; and (iii) processes the water flow velocities as vector features, instead of scalar features. We evaluate FloodGNN-GRU using a LISFLOOD-FP simulation of Hurricane Harvey (2017) in Houston, Texas. Our results, based on several metrics, show that FloodGNN-GRU outperforms several data-driven alternatives in terms of accuracy. Moreover, our approach can be trained 100x faster and tested 1000x faster than the time required to run a comparable simulation. These findings illustrate the potential of ML-based methods to efficiently emulate physics-based inundation models, especially for short-term predictions.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{kazadi_floodgnn-gru:2024,
+  urldate = {2024-11-13},
+  url = {https://www.cambridge.org/core/journals/environmental-data-science/article/floodgnngru-a-spatiotemporal-graph-neural-network-for-flood-prediction/93BA1DA8D6ECC93D985656C3BC1EA3DE},
+  doi = {10.1017/eds.2024.19},
+  issn = {2634-4602},
+  pages = {e21},
+  volume = {3},
+  journaltitle = {Environmental Data Science},
+  date = {2024-01},
+  author = {Kazadi, Arnold and Doss-Gollin, James and Sebastian, Antonia and Silva, Arlei},
+  title = {{{FloodGNN-GRU}}: A Spatio-Temporal Graph Neural Network for Flood Prediction},
+}
+```

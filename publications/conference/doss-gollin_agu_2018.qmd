@@ -8,7 +8,9 @@ author:
 date: 2018-12-14
 details: "AGU Fall Meeting 2018"
 year: 2018
-nocite: "doss-gollin_agu:2018"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2018"
 
 about:
   template: solana
@@ -22,5 +24,17 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2018,
+  open = {true},
+  eventtitle = {Fall {{Meeting}} 2018},
+  url = {https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/440508},
+  doi = {10.13140/rg.2.2.28447.20649},
+  publisher = {AGU},
+  date = {2018-12-14},
+  author = {Doss-Gollin, James and Farnham, David J and Steinschneider, Scott and Lall, Upmanu},
+  title = {{{H52F-05}}: {{Robust}} Adaptation to Cyclical Climate Risk},
+}
+```

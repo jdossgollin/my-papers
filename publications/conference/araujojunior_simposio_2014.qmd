@@ -9,7 +9,9 @@ author:
 date: 2014-01-01
 details: "XII Simpósio De Recursos Hídricos Do Nordeste"
 year: 2014
-nocite: "araujojunior_simposio:2014"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@araujojunior_simposio:2014"
 
 about:
   template: solana
@@ -25,5 +27,17 @@ format:
 
 Este trabalho tem como objetivo avaliar a persistência da seca meteorológica ao longo dos anos e caracterizar tanto espacialmente como temporalmente níveis de severidade de seca para o Nordeste Setentrional Brasileiro (NSB). A fim de alcançar os objetivos traçados alguns índices podem ser utilizados como índice de Palmer, o índice de severidade da seca de Palmer e o índice normalizado de precipitação. Para esse estudo o índice utilizado foi o índice de precipitação normalizada (SPI). Os resultados mostraram, temporalmente, que com o passar dos anos as secas têm ficado cada vez mais severas e cada vez mais estações meteorológicas têm sido incluídas em alguma categoria de seca. Isso mostra a necessidade da criação de um planejamento eficaz que possa ser desenvolvido ao longo de todo o ano e não apenas em época de secas extremas mais generalizadas.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{araujojunior_simposio:2014,
+  open = {true},
+  doi = {10.13140/rg.2.1.4610.7685},
+  location = {Natal, Rio Grande do Norte, Brasil},
+  publisher = {Associação Brasileira de Recursos Hídricos (ABRH)},
+  date = {2014},
+  author = {Araújo Júnior, Luiz Martins and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva Silveira, given=Cleiton, prefix=da, useprefix=true and Aragão Dias, Tyhago and Doss-Gollin, James},
+  booktitle = {XII Simpósio de Recursos Hídricos Do Nordeste},
+  title = {Análise dos eventos de seca no Nordeste Setentrional Brasileiro com base no índice de precipitação normalizada},
+}
+```

@@ -8,7 +8,9 @@ author:
 date: 2024-12-09
 details: "AGU AGU24"
 year: 2024
-nocite: "odonnell_agu:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@odonnell_agu:2024"
 
 about:
   template: solana
@@ -24,5 +26,16 @@ format:
 
 Hydroclimate whiplash – the transition between extreme dry and wet periods – ha...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{odonnell_agu:2024,
+  eventtitle = {{{AGU24}}},
+  urldate = {2025-01-12},
+  url = {https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1528654},
+  publisher = {AGU},
+  date = {2024-12-09},
+  author = {O'Donnell, Michelle and Dee, Sylvia and Doss-Gollin, James and Munoz, Samuel E.},
+  title = {Mechanisms of {{Hydroclimate Whiplash Over}} the {{Mississippi River Basin}}},
+}
+```

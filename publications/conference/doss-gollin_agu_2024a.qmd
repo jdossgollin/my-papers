@@ -9,7 +9,9 @@ author:
 date: 2024-12-13
 details: ""
 year: 2024
-nocite: "doss-gollin_agu:2024a"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2024a"
 
 about:
   template: solana
@@ -19,5 +21,13 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2024a,
+  publisher = {AGU},
+  date = {2024-12-13},
+  author = {Doss-Gollin, James and Silva, Arlei and Sebastian, Antonia and Vergopolan, Noemi and Nayak, Adam},
+  title = {Advancing {{Urban Flood Hazard Characterization}} through {{Machine Learning}}: {{Challenges}} and {{Opportunities}}},
+}
+```

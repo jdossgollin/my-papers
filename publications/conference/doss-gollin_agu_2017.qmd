@@ -8,7 +8,9 @@ author:
 date: 2017-12
 details: "AGU 2017 Fall Meeting"
 year: 2017
-nocite: "doss-gollin_agu:2017"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2017"
 
 about:
   template: solana
@@ -22,5 +24,17 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2017,
+  open = {true},
+  eventtitle = {2017 {{Fall Meeting}}},
+  url = {https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/299087},
+  doi = {10.13140/rg.2.2.20146.30406},
+  publisher = {AGU},
+  date = {2017-12},
+  author = {Doss-Gollin, James and Muñoz, Ángel G and Mason, Simon J and Pastén, Max},
+  title = {{{A31H-0135}}: {{Causes}} and Model Skill of the Persistent Intense Rainfall and Flooding in {{Paraguay}} during the Austral Summer 2015-2016},
+}
+```

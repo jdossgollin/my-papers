@@ -8,7 +8,9 @@ author:
 date: 2021-12-13
 details: "AGU AGU Fall Meeting 2021"
 year: 2021
-nocite: "doss-gollin_agutxtreme:2021"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agutxtreme:2021"
 
 about:
   template: solana
@@ -22,5 +24,16 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agutxtreme:2021,
+  eventtitle = {{{AGU Fall Meeting}} 2021},
+  urldate = {2021-12-15},
+  url = {https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/796322},
+  publisher = {AGU},
+  date = {2021-12-13},
+  author = {Doss-Gollin, James and Farnham, David J. and Lall, Upmanu and Modi, Vijay},
+  title = {{{A14H-03}}: {{How}} Unprecedented Was the {{February}} 2021 {{Texas}} Cold Snap?},
+}
+```

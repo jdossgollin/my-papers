@@ -11,7 +11,9 @@ year: 2019
 volume: "7"
 issue: "7"
 pages: "734--747"
-nocite: "doss-gollin_robustadaptation:2019"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_robustadaptation:2019"
 image: ../../_assets/img/pubs/doss-gollin_robustadaptation_2019.jpg
 
 about:
@@ -31,5 +33,22 @@ format:
 
 The assessment and implementation of structural or financial instruments for climate risk mitigation requires projections of future climate risk over the operational life of each proposed instrument. A point often neglected in the climate adaptation literature is that the physical sources of predictability differ between projects with long and short planning periods: while historical and paleo climate records emphasize modes of variability, anthropogenic climate change is expected to alter their occurrence at longer time scales. In this paper we present a set of stylized experiments to assess the uncertainties and biases involved in estimating future climate risk over a finite future period, given a limited observational record. These experiments consider both quasi-periodic and secular change for the underlying risk, as well as statistical models for estimating this risk from an N-year historical record. The uncertainty of IPCC-like future scenarios is considered through an equivalent sample size N. The relative importance of estimating the short- or long-term risk extremes depends on the investment life M. Shorter design lives are preferred for situations where inter-annual to decadal variability can be successfully identified and predicted, suggesting the importance of sequential investment strategies for adaptation.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{doss-gollin_robustadaptation:2019,
+  repo = {https://github.com/jdossgollin/2018-robust-adaptation-cyclical-risk},
+  open = {true},
+  urldate = {2019-06-09},
+  url = {http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019EF001154},
+  doi = {10.1029/2019ef001154},
+  issn = {2328-4277},
+  pages = {734--747},
+  number = {7},
+  volume = {7},
+  journaltitle = {Earth's Future},
+  date = {2019-06-07},
+  author = {Doss-Gollin, James and Farnham, David J. and Steinschneider, Scott and Lall, Upmanu},
+  title = {Robust Adaptation to Multiscale Climate Variability},
+}
+```

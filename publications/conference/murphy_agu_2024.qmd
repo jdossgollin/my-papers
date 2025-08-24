@@ -10,7 +10,9 @@ author:
 date: 2024-12-12
 details: "AGU AGU24"
 year: 2024
-nocite: "murphy_agu:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@murphy_agu:2024"
 
 about:
   template: solana
@@ -26,5 +28,16 @@ format:
 
 Human activities (e.g., river engineering, land use changes) have altered the n...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{murphy_agu:2024,
+  eventtitle = {{{AGU24}}},
+  urldate = {2025-01-12},
+  url = {https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1568143},
+  publisher = {AGU},
+  date = {2024-12-12},
+  author = {Murphy, Kelsey and Dee, Sylvia and Wallace, Elizabeth Jane and Pitchon, Emilia and Doss-Gollin, James and Munoz, Samuel E.},
+  title = {Last {{Millennium Changes}} in {{Mississippi River Basin Hydroclimate Driven}} by {{Anthropogenic Forcing}} and {{Atmospheric Dynamics}}},
+}
+```

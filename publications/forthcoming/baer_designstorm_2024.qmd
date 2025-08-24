@@ -10,7 +10,9 @@ author:
 date: 2024-12-12
 details: ""
 year: 2024
-nocite: "baer_designstorm:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@baer_designstorm:2024"
 
 about:
   template: solana
@@ -22,5 +24,13 @@ format:
 
 Flood hazard maps are essential to floodplain management and resiliency efforts...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@online{baer_designstorm:2024,
+  pubstate = {prepublished},
+  date = {2024-12-12},
+  author = {Baer, Jack and Sebastian, Antonia and Grimley, Lauren Elise and Doss-Gollin, James and Wright, Daniel B. and Hussain, Mohammad Ashar},
+  title = {Neglecting {{Spatiotemporal Rainfall Variability Underestimates Flood Hazard}} and {{Risk}}},
+}
+```

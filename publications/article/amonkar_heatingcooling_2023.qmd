@@ -12,7 +12,9 @@ year: 2023
 volume: "4"
 issue: "1"
 pages: "1--9"
-nocite: "amonkar_heatingcooling:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@amonkar_heatingcooling:2023"
 image: ../../_assets/img/pubs/amonkar_heatingcooling_2023.png
 
 about:
@@ -29,5 +31,23 @@ format:
 
 While most electricity systems are designed to handle peak demand during summer months, long-term energy pathways consistent with deep decarbonization generally electrify building heating, thus increasing electricity demand during winter. A key question is how climate variability and change will affect peak heating and cooling demand in an electrified future. We conduct a spatially explicit analysis of trends in temperature-based proxies of electricity demand over the past 70\,years. Average annual demand for heating (cooling) decreases (increases) over most of the contiguous US. However, while climate change drives robust increases in peak cooling demand, trends in peak heating demand are generally smaller and less robust. Because the distribution of temperature exhibits a long left tail, severe cold snaps dominate the extremes of thermal demand. As building heating electrifies, system operators must account for these events to ensure reliability.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{amonkar_heatingcooling:2023,
+  issue = {1},
+  urldate = {2023-11-01},
+  url = {https://www.nature.com/articles/s43247-023-01048-1},
+  doi = {10.1038/s43247-023-01048-1},
+  issn = {2662-4435},
+  publisher = {Nature Publishing Group},
+  pages = {1--9},
+  number = {1},
+  volume = {4},
+  shortjournal = {Commun Earth Environ},
+  journaltitle = {Communications Earth \& Environment},
+  date = {2023-11-01},
+  author = {Amonkar, Yash and Doss-Gollin, James and Farnham, David J. and Modi, Vijay and Lall, Upmanu},
+  title = {Differential Effects of Climate Change on Average and Peak Demand for Heating and Cooling across the Contiguous {{USA}}},
+}
+```

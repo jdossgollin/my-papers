@@ -10,7 +10,9 @@ year: 2025
 volume: "4"
 issue: "3"
 pages: "035016"
-nocite: "lu_spatiotemporal:2025"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@lu_spatiotemporal:2025"
 image: ../../_assets/img/pubs/lu_spatiotemporal_2025.png
 
 about:
@@ -27,5 +29,22 @@ format:
 
 Precipitation exceedance probabilities are widely used in engineering design, risk assessment, and floodplain management. While common approaches like National Oceanographic and Atmospheric Administration (NOAA) Atlas 14 assume that extreme precipitation characteristics are stationary over time, this assumption may underestimate current and future hazards due to anthropogenic climate change. However, the incorporation of nonstationarity in statistical modeling of extreme precipitation has faced practical challenges, which have restricted its applications. In particular, random sampling variability challenges the reliable estimation of trends and parameters, especially when observational records are limited. To address this methodological gap, we propose the Spatially Varying Covariates Model, a hierarchical Bayesian spatial framework that integrates nonstationarity and regionalization for robust frequency analysis of extreme precipitation. This model draws from extreme value theory, spatial statistics, and Bayesian statistics, and is validated through cross-validation and multiple performance metrics. Applying this framework to a case study of daily rainfall in the Western Gulf Coast, we identify robustly increasing trends in extreme precipitation intensity and variability throughout the study area, with notable spatial heterogeneity. This flexible model accommodates stations with varying observation records, yields smooth return level estimates, and can be straightforwardly adapted to the analysis of precipitation frequencies at different durations and for other regions.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{lu_spatiotemporal:2025,
+  urldate = {2025-08-23},
+  url = {https://dx.doi.org/10.1088/2752-5295/adf56e},
+  doi = {10.1088/2752-5295/adf56e},
+  issn = {2752-5295},
+  publisher = {IOP Publishing},
+  pages = {035016},
+  number = {3},
+  volume = {4},
+  shortjournal = {Environ. Res.: Climate},
+  journaltitle = {Environmental Research: Climate},
+  date = {2025-08},
+  author = {Lu, Yuchen and Seiyon Lee, Benjamin and Doss-Gollin, James},
+  title = {Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the {{Western Gulf Coast}}},
+}
+```

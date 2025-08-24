@@ -11,7 +11,9 @@ author:
 date: 2020-12-15
 details: "AGU Fall Meeting 2020"
 year: 2020
-nocite: "lall_agu20:2020"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@lall_agu20:2020"
 
 about:
   template: solana
@@ -25,5 +27,16 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{lall_agu20:2020,
+  eventtitle = {Fall {{Meeting}} 2020},
+  urldate = {2021-09-29},
+  url = {https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/681899},
+  publisher = {AGU},
+  date = {2020-12-15},
+  author = {Lall, Upmanu and Arumugam, Sankar and Cioffi, Francesco and Devineni, Naresh and Doss-Gollin, James and Kwon, Hyun-Han and Rajagopalan, Balaji},
+  title = {H161-01: {{America}}'s Water: Multiscale Forecasting and Innovation in Infrastructure Design \& Management Instruments Is Critical for Climate Adaptation},
+}
+```

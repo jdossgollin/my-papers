@@ -12,7 +12,9 @@ details: "Water Resources Research"
 year: 2023
 volume: "59"
 issue: "5"
-nocite: "zhou_mesoscale:2023"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@zhou_mesoscale:2023"
 image: ../../_assets/img/pubs/zhou_mesoscale_2023.jpg
 
 about:
@@ -35,5 +37,22 @@ format:
 
 It is widely acknowledged that distributed water systems (DWSs), which integrate distributed water supply and treatment with existing centralized infrastructure, can mitigate challenges to water security from extreme events, climate change, and aged infrastructure. However, it is unclear which are beneficial DWS configurations, i.e., where and at what scale to implement distributed water supply. We develop a mesoscale representation model that approximates DWSs with reduced backbone networks to enable efficient system emulation while preserving key physical realism. Moreover, system emulation allows us to build a multiobjective optimization model for computational policy search that addresses energy utilization and economic impacts. We demonstrate our models on a hypothetical DWS with distributed direct potable reuse (DPR) based on the City of Houston's water and wastewater infrastructure. The backbone DWS with greater than link and node reductions achieves satisfactory approximation of global flows and water pressures, to enable configuration optimization analysis. Results from the optimization model reveal case-specific as well as general opportunities, constraints, and their interactions for DPR allocation. Implementing DPR can be beneficial in areas with high energy intensities of water distribution, considerable local water demands, and commensurate wastewater reuse capacities. The mesoscale modeling approach and the multiobjective optimization model developed in this study can serve as practical decision-support tools for stakeholders to search for alternative DWS options in urban settings.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{zhou_mesoscale:2023,
+  repo = {https://github.com/Zhouxiaomu33/Mesoscale-water-distribution-network-modeling},
+  preprint = {http://www.essoar.org/doi/10.1002/essoar.10512641.1},
+  open = {true},
+  urldate = {2023-05-02},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033758},
+  doi = {10.1029/2022WR033758},
+  issn = {1944-7973},
+  number = {5},
+  volume = {59},
+  journaltitle = {Water Resources Research},
+  date = {2023-04-24},
+  author = {Zhou, Xiangnan and Duenas-Osorio, Leonardo and Doss-Gollin, James and Liu, Lu and Stadler, Lauren and Li, Qilin},
+  title = {Mesoscale Modeling of Distributed Water Systems Enables Policy Search},
+}
+```

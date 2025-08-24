@@ -10,7 +10,9 @@ author:
 date: 2022-12-15
 details: "AGU Fall Meeting 2022"
 year: 2022
-nocite: "murphy_agu:2022"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@murphy_agu:2022"
 
 about:
   template: solana
@@ -24,5 +26,16 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{murphy_agu:2022,
+  eventtitle = {Fall {{Meeting}} 2022},
+  urldate = {2023-01-05},
+  url = {https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1095010},
+  publisher = {AGU},
+  date = {2022-12-15},
+  author = {Murphy, Kelsey and Dee, Sylvia and Munoz, Samuel E. and Dunne, Kieran and O'Donnell, Michelle and Doss-Gollin, James},
+  title = {{{PP45D-1187}}: {{The Mississippi River}}’s {{Hydrologic Response}} to {{Natural}} vs. {{Anthropogenic Forcing}} from the {{Last Millennium}} through the 21st {{Century}}},
+}
+```

@@ -10,7 +10,9 @@ author:
 date: 2022-12-14
 details: "AGU Fall Meeting 2022"
 year: 2022
-nocite: "dee_agu:2022"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@dee_agu:2022"
 
 about:
   template: solana
@@ -24,5 +26,16 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{dee_agu:2022,
+  eventtitle = {Fall {{Meeting}} 2022},
+  urldate = {2023-01-05},
+  url = {https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1068514},
+  publisher = {AGU},
+  date = {2022-12-14},
+  author = {Dee, Sylvia and Dunne, Kieran and Munoz, Samuel E. and Luo, Xinyue and Murphy, Kelsey and Doss-Gollin, James},
+  title = {{{PP32B-04}}: {{Past}}, Present, and Future Hydroclimate across the {{Mississippi River Basin}} and Its Tributaries: Insights from Integrated Paleoclimate Data Analysis},
+}
+```

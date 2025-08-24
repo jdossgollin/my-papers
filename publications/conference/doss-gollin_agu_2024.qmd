@@ -7,7 +7,9 @@ author:
 date: 2024-12-10
 details: "AGU AGU24"
 year: 2024
-nocite: "doss-gollin_agu:2024"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@doss-gollin_agu:2024"
 
 about:
   template: solana
@@ -23,5 +25,16 @@ format:
 
 Climate risks to electricity systems are rapidly evolving. The energy transitio...
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{doss-gollin_agu:2024,
+  eventtitle = {{{AGU24}}},
+  urldate = {2025-01-12},
+  url = {https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711820},
+  publisher = {AGU},
+  date = {2024-12-10},
+  author = {Doss-Gollin, James and Amonkar, Yash Vijay and Duenas-Osorio, Leonardo},
+  title = {Assessing and {{Managing Climate Risks}} to {{Electricity Systems}} in an {{Era}} of {{Climate Change}} and {{Energy Transition}}},
+}
+```

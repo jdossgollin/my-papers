@@ -8,7 +8,9 @@ author:
 date: 2021-12-09
 details: "2021 Annual Meeting of the Society for Risk Analysis"
 year: 2021
-nocite: "geldner_societyriskanalysis:2021"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@geldner_societyriskanalysis:2021"
 
 about:
   template: solana
@@ -22,5 +24,15 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{geldner_societyriskanalysis:2021,
+  url = {https://sra2021.conferencespot.org/event-data/pdf/catalyst_activity_25852},
+  location = {Virtual},
+  date = {2021-12-09},
+  author = {Geldner, Nathan and Doss-Gollin, James and Keller, Klaus and Johnson, David R.},
+  booktitle = {2021 {{Annual Meeting}} of the {{Society}} for {{Risk Analysis}}},
+  title = {Characterization of the Equity-Efficiency Tradeoff in Targeted Residential Coastal Protection Projects},
+}
+```

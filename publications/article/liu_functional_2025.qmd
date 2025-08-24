@@ -10,7 +10,9 @@ details: "Computational Statistics & Data Analysis"
 year: 2025
 volume: "206"
 pages: "108122"
-nocite: "liu_functional:2025"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@liu_functional:2025"
 image: ../../_assets/img/pubs/liu_functional_2025.jpg
 
 about:
@@ -27,5 +29,20 @@ format:
 
 Functional data analysis, which models data as realizations of random functions over a continuum, has emerged as a useful tool for time series data. Often, the goal is to infer the dynamic connections (or time-varying conditional dependencies) among multiple functions or time series. For this task, a dynamic and Bayesian functional graphical model is introduced. The proposed modeling approach prioritizes the careful definition of an appropriate graph to identify both time-invariant and time-varying connectivity patterns. A novel block-structured sparsity prior is paired with a finite basis expansion, which together yield effective shrinkage and graph selection with efficient computations via a Gibbs sampling algorithm. Crucially, the model includes (one or more) graph changepoints, which are learned jointly with all model parameters and incorporate graph dynamics. Simulation studies demonstrate excellent graph selection capabilities, with significant improvements over competing methods. The proposed approach is applied to study of dynamic connectivity patterns of sea surface temperatures in the Pacific Ocean and reveals meaningful edges.
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@article{liu_functional:2025,
+  urldate = {2025-01-06},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167947324002068},
+  doi = {10.1016/j.csda.2024.108122},
+  issn = {0167-9473},
+  pages = {108122},
+  volume = {206},
+  shortjournal = {Computational Statistics \& Data Analysis},
+  journaltitle = {Computational Statistics \& Data Analysis},
+  date = {2025-06-01},
+  author = {Liu, Chunshan and Kowal, Daniel R. and Doss-Gollin, James and Vannucci, Marina},
+  title = {Bayesian Functional Graphical Models with Change-Point Detection},
+}
+```

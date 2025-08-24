@@ -7,7 +7,9 @@ author:
 date: 2019-12-09
 details: "AGU Fall Meeting 2019"
 year: 2019
-nocite: "amonkar_agu:2019"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@amonkar_agu:2019"
 
 about:
   template: solana
@@ -21,5 +23,18 @@ format:
     page-layout: full
 ---
 
-:::{#bibliography}
-:::
+## BibTeX
+
+```bibtex
+@inproceedings{amonkar_agu:2019,
+  open = {true},
+  eventtitle = {Fall {{Meeting}} 2019},
+  urldate = {2019-12-18},
+  url = {https://agu-do03.confex.com/agu/fm19/meetingapp.cgi/Paper/620477},
+  doi = {10.6084/m9.figshare.11444238.v1},
+  publisher = {AGU},
+  date = {2019-12-09},
+  author = {Amonkar, Yash Vijay and Doss-Gollin, James and Lall, Upmanu},
+  title = {{{H13T-2050}}: {{Preserving}} Long-Term Variability in Simulation of Multisite Streamflow Extremes},
+}
+```
