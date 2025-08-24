@@ -7,7 +7,7 @@ author:
   - Emilia Pitchon
   - Elizabeth Jane Wallace
   - Michelle O'Donnell
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2023-12-13
 details: "AGU AGU23"
 year: 2023

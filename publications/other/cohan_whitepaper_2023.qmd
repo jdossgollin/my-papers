@@ -2,7 +2,7 @@
 title: "Revamping the Texas Power Grid: Insights From Rice University’s Electricity Research"
 author:
   - Daniel Cohan
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2023-11-10
 details: ""
 year: 2023

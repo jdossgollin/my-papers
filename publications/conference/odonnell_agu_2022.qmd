@@ -2,7 +2,7 @@
 title: "H42E-1351: Validation of Community Earth System Model Hydrologic Variables Over the Mississippi River System To Understand Long Term Hydrometerologic Changes"
 author:
   - Michelle O'Donnell
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Sylvia Dee
   - Samuel E. Munoz
 date: 2022-12-15

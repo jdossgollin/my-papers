@@ -1,7 +1,7 @@
 ---
 title: "A14H-03: How Unprecedented Was the February 2021 Texas Cold Snap?"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - David J. Farnham
   - Upmanu Lall
   - Vijay Modi

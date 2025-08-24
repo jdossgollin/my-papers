@@ -244,7 +244,10 @@ def write_metadata_to_qmd(entry, qmd_file):
     qmd_file.write("author:\n")
     for author in authors:
         formatted_author = format_author_name(author.strip())
-        qmd_file.write(f"  - {formatted_author}\n")
+        if formatted_author.startswith("**") or formatted_author.startswith("*"):
+            qmd_file.write(f'  - "{formatted_author}"\n')
+        else:
+            qmd_file.write(f"  - {formatted_author}\n")
 
     # Date
     date = format_date(entry.get("date", ""))

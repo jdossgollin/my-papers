@@ -2,7 +2,7 @@
 title: "Characterization of the Equity-Efficiency Tradeoff in Targeted Residential Coastal Protection Projects"
 author:
   - Nathan Geldner
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Klaus Keller
   - David R. Johnson
 date: 2021-12-09

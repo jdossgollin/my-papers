@@ -1,7 +1,7 @@
 ---
 title: "H35F-07: Near-term Predictability Lowers Long-Term Adaptation Costs"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Jonathan Lamontagne
   - Upmanu Lall
 date: 2022-12-14

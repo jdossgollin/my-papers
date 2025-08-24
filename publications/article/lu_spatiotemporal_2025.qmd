@@ -1,9 +1,9 @@
 ---
 title: "Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall Across the Western Gulf Coast"
 author:
-  - *Yuchen Lu*
+  - "*Yuchen Lu*"
   - Benjamin Seiyon Lee
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2025-08
 details: "Environmental Research: Climate"
 year: 2025

@@ -5,7 +5,7 @@ author:
   - Sylvia Dee
   - Elizabeth Jane Wallace
   - Emilia Pitchon
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Samuel E. Munoz
 date: 2024-12-12
 details: "AGU AGU24"

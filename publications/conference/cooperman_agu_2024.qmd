@@ -3,7 +3,7 @@ title: "Before and After Piped Water Expansion: Water Use Patterns and Trust in 
 author:
   - Alicia Cooperman
   - Manuela Muñoz Fuerte
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Alex S. Mayer
 date: 2024-12-13
 details: "AGU AGU24"

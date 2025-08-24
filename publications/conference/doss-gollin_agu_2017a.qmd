@@ -1,7 +1,7 @@
 ---
 title: "H22B-02: Designing and Operating Infrastructure for Nonstationary Flood Risk Management"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - David J Farnham
   - Upmanu Lall
 date: 2017-12

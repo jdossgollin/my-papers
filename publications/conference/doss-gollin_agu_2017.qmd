@@ -1,7 +1,7 @@
 ---
 title: "A31H-0135: Causes and Model Skill of the Persistent Intense Rainfall and Flooding in Paraguay During the Austral Summer 2015-2016"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Ángel G Muñoz
   - Simon J Mason
   - Max Pastén

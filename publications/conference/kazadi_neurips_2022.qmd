@@ -2,7 +2,7 @@
 title: "Flood Prediction With Graph Neural Networks"
 author:
   - Arnold N. Kazadi
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Antonia Sebastian
   - Arlei Silva
 date: 2022-12-09

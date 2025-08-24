@@ -2,7 +2,7 @@
 title: "Generative Precipitation Downscaling Using Score-based Diffusion With Wasserstein Regularization"
 author:
   - Yuhao Liu
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Guha Balakrishnan
   - Ashok Veeraraghavan
 date: 2024-01-01

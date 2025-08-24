@@ -4,7 +4,7 @@ author:
   - Christopher L Hancock
   - Sylvia G. Dee
   - Muhammad Rezaul Haider
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Flavio Lehner
   - Kelsey Murphy
   - Samuel E. Munoz

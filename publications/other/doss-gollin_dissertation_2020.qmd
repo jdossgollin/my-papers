@@ -1,7 +1,7 @@
 ---
 title: "Sequential Adaptation Through Prediction of Structured Climate Risk"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2020-01-01
 details: ""
 year: 2020

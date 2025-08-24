@@ -3,7 +3,7 @@ title: "Bayesian Functional Graphical Models With Change-Point Detection"
 author:
   - Chunshan Liu
   - Daniel R. Kowal
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Marina Vannucci
 date: 2025-06-01
 details: "Computational Statistics & Data Analysis"

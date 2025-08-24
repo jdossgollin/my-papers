@@ -5,7 +5,7 @@ author:
   - Sankar Arumugam
   - Francesco Cioffi
   - Naresh Devineni
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Hyun-Han Kwon
   - Balaji Rajagopalan
 date: 2020-12-15

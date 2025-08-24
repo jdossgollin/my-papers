@@ -6,7 +6,7 @@ author:
   - Kai Schröter
   - Meike Müller
   - Nivedita Sairam
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Upmanu Lall
   - Bruno Merz
 date: 2019-01-01

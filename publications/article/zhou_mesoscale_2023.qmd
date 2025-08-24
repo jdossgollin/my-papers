@@ -3,7 +3,7 @@ title: "Mesoscale Modeling of Distributed Water Systems Enables Policy Search"
 author:
   - Xiangnan Zhou
   - Leonardo Duenas-Osorio
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Lu Liu
   - Lauren Stadler
   - Qilin Li

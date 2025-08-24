@@ -3,7 +3,7 @@ title: "Efficient Flood Risk Mitigation and Intersectional Equity Implications: 
 author:
   - Nathan Geldner
   - David R. Johnson
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Klaus Keller
 date: 2023-01-01
 details: ""

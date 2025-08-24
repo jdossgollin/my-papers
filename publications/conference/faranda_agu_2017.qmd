@@ -3,7 +3,7 @@ title: "GC52B-02: Dynamics and Thermodynamics of Weather Extremes: A Dynamical S
 author:
   - Davide Faranda
   - Gabriele Messori
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - David J Farnham
   - Upmanu Lall
   - Pascal Yiou

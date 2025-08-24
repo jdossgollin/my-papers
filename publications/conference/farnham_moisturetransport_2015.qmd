@@ -4,7 +4,7 @@ author:
   - David J Farnham
   - Upmanu Lall
   - Hyun-Han Kwon
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2015-12
 details: "AGU 2015 Fall Meeting"
 year: 2015

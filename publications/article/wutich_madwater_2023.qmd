@@ -6,7 +6,7 @@ author:
   - Wendy Jepson
   - Justin Stoler
   - Alicia D. Cooperman
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Anish Jantrania
   - Alex Mayer
   - Jami Nelson-Nuñez

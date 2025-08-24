@@ -4,7 +4,7 @@ author:
   - Jack Baer
   - Antonia Sebastian
   - Lauren Elise Grimley
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Daniel B. Wright
   - Mohammad Ashar Hussain
 date: 2024-12-12

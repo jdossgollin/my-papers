@@ -1,9 +1,9 @@
 ---
 title: "TxRAIN-Observational: A Hierarchical Bayesian Spatial Framework to Assess Nonstationary Rainfall Intensity, Frequency, and Duration in Texas"
 author:
-  - *Yuchen Lu*
+  - "*Yuchen Lu*"
   - Benjamin Seiyon Lee
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - John W. Nielsen-Gammon
   - Rewati Niraula
 date: 2024-12-10

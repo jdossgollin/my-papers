@@ -4,7 +4,7 @@ author:
   - Deepti Singh
   - Yianna S. Bekris
   - Cassandra D. W. Rogers
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Ethan D. Coffel
   - Dmitri A. Kalashnikov
 date: 2024-03

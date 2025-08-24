@@ -2,7 +2,7 @@
 title: "Compound Climate Risk: Diagnosing Clustered Regional Flooding at Inter-Annual and Longer Time Scales"
 author:
   - Yash Amonkar
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Upmanu Lall
 date: 2023-03-16
 details: "Hydrology"

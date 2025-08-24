@@ -3,7 +3,7 @@ title: "Evaluation of Hydroclimatic Biases in the Community Earth System Model (
 author:
   - Michelle O'Donnell
   - Kelsey Murphy
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Sylvia Dee
   - Samuel Munoz
 date: 2024-06-10

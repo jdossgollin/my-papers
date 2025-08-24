@@ -3,7 +3,7 @@ title: "H41B-1334: Exploiting Synoptic-Scale Climate Processes to Develop Nonsta
 author:
   - Caitlin M Spence
   - Casey Brown
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2016-01-01
 details: "AGU 2016 Fall Meeting"
 year: 2016

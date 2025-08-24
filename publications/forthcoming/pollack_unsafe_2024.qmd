@@ -2,7 +2,7 @@
 title: "UNSAFE: An UNcertain Structure And Fragility Ensemble Framework for Property-Level Flood Risk Estimation"
 author:
   - Adam Pollack
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Vivek Srikrishnan
   - Klaus Keller
 date: 2024-05-20

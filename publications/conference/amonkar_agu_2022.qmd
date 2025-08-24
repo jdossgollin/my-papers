@@ -2,7 +2,7 @@
 title: "GC42N-0889: Changing Climate, Peak Demand and Load Factors Across the Contiguous United States"
 author:
   - Yash Vijay Amonkar
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - David J. Farnham
   - Vijay Modi
   - Upmanu Lall

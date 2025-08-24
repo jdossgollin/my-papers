@@ -9,7 +9,7 @@ author:
   - Courtney Cooper
   - Matteo Coronese
   - Sonke Dangendorf
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Prabhat Hegde
   - Casey Helgeson
   - Robert Kopp

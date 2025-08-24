@@ -5,7 +5,7 @@ author:
   - Yash Vijay Amonkar
   - David J Farnham
   - Vijay Modi
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2021-12-16
 details: "AGU Fall Meeting 2021"
 year: 2021

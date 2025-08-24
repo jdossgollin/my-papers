@@ -3,7 +3,7 @@ title: "TxRAIN-Future Projections: Non-stationary Projections of Extreme Precipi
 author:
   - William J. Baule
   - John W. Nielsen-Gammon
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Rewati Niraula
 date: 2024-12-12
 details: "AGU AGU24"

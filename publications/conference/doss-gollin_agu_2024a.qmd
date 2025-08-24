@@ -1,7 +1,7 @@
 ---
 title: "Advancing Urban Flood Hazard Characterization Through Machine Learning: Challenges and Opportunities"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Arlei Silva
   - Antonia Sebastian
   - Noemi Vergopolan

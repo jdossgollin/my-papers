@@ -5,7 +5,7 @@ author:
   - Leonardo Duenas-Osorio
   - Lu Liu
   - Lauren Stadler
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Bezawit Getachew
   - Qilin Li
 date: 2021-12-15

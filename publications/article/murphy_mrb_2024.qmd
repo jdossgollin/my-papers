@@ -3,7 +3,7 @@ title: "Competing Influences of Land Use and Greenhouse Gas Emissions on Mississ
 author:
   - Kelsey Murphy
   - Sylvia Dee
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Kieran B. J. Dunne
   - Michelle O’Donnell
   - Samuel Muñoz

@@ -2,7 +2,7 @@
 title: "Pluvial Flood Emulation With Hydraulics-Informed Message Passing"
 author:
   - Arnold Kazadi
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Arlei Silva
 date: 2024-06-24
 details: "Forty-First International Conference on Machine Learning"

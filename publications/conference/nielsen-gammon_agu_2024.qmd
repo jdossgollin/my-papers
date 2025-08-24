@@ -2,8 +2,8 @@
 title: "Cross-Network Intercomparison of 5-Minute and 15-Minute Gauge-Measured Precipitation Extremes in the South-Central United States"
 author:
   - John W. Nielsen-Gammon
-  - *Yuchen Lu*
-  - **James Doss-Gollin**
+  - "*Yuchen Lu*"
+  - "**James Doss-Gollin**"
 date: 2024-12-12
 details: "AGU AGU24"
 year: 2024

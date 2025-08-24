@@ -6,7 +6,7 @@ author:
   - Samuel E. Munoz
   - Xinyue Luo
   - Kelsey Murphy
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
 date: 2022-12-14
 details: "AGU Fall Meeting 2022"
 year: 2022

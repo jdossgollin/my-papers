@@ -2,7 +2,7 @@
 title: "FloodGNN-GRU: A Spatio-Temporal Graph Neural Network for Flood Prediction"
 author:
   - Arnold Kazadi
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Antonia Sebastian
   - Arlei Silva
 date: 2024-01

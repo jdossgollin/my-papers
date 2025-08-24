@@ -1,8 +1,8 @@
 ---
 title: "NH14B-07: Linking Robust Trends in Observations and Models to Develop Nonstationary Rainfall Frequency Grids for the State of Texas"
 author:
-  - **James Doss-Gollin**
-  - *Yuchen Lu*
+  - "**James Doss-Gollin**"
+  - "*Yuchen Lu*"
   - John W. Nielsen-Gammon
   - Rewati Niraula
   - Benjamin Seiyon Lee

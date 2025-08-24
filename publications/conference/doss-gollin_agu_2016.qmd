@@ -1,7 +1,7 @@
 ---
 title: "A33J-0396: Global-local Interactions Modulate Tropical Moisture Exports to the Ohio River Basin"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - David J Farnham
   - Upmanu Lall
 date: 2016-01-01

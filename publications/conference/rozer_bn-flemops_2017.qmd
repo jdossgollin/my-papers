@@ -4,7 +4,7 @@ author:
   - Viktor Rözer
   - Heidi Kreibich
   - Kai Schröter
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Upmanu Lall
   - Bruno Merz
 date: 2017-12

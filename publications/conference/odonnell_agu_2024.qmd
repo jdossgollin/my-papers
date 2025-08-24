@@ -3,7 +3,7 @@ title: "Mechanisms of Hydroclimate Whiplash Over the Mississippi River Basin"
 author:
   - Michelle O'Donnell
   - Sylvia Dee
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Samuel E. Munoz
 date: 2024-12-09
 details: "AGU AGU24"

@@ -1,7 +1,7 @@
 ---
 title: "Assessing and Managing Climate Risks to Electricity Systems in an Era of Climate Change and Energy Transition"
 author:
-  - **James Doss-Gollin**
+  - "**James Doss-Gollin**"
   - Yash Vijay Amonkar
   - Leonardo Duenas-Osorio
 date: 2024-12-10
