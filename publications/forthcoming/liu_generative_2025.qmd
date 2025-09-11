@@ -1,17 +1,18 @@
 ---
-title: "Generative Precipitation Downscaling Using Score-based Diffusion With Wasserstein Regularization"
+title: "Downscaling Extreme Precipitation With Wasserstein Regularized Diffusion"
 author:
   - Yuhao Liu
   - "**James Doss-Gollin**"
+  - Qiushi Dai
   - Guha Balakrishnan
   - Ashok Veeraraghavan
-date: 2024-01-01
+date: 2025-01-01
 details: ""
-year: 2024
+year: 2025
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@liu_generative:2024"
-image: ../../_assets/img/pubs/liu_generative_2024.png
+nocite: "@liu_generative:2025"
+image: ../../_assets/img/pubs/liu_generative_2025.png
 
 about:
   template: solana
@@ -30,14 +31,14 @@ Understanding local risks from extreme rainfall, such as flooding, requires both
 ## BibTeX
 
 ```bibtex
-@online{liu_generative:2024,
+@online{liu_generative:2025,
   version = {1},
   pubstate = {prepublished},
   urldate = {2024-10-04},
   url = {https://arxiv.org/abs/2410.00381},
   doi = {10.48550/ARXIV.2410.00381},
-  date = {2024},
-  author = {Liu, Yuhao and Doss-Gollin, James and Balakrishnan, Guha and Veeraraghavan, Ashok},
-  title = {Generative {{Precipitation Downscaling}} Using {{Score-based Diffusion}} with {{Wasserstein Regularization}}},
+  date = {2025},
+  author = {Liu, Yuhao and Doss-Gollin, James and Dai, Qiushi and Balakrishnan, Guha and Veeraraghavan, Ashok},
+  title = {Downscaling {{Extreme Precipitation}} with {{Wasserstein Regularized Diffusion}}},
 }
 ```
