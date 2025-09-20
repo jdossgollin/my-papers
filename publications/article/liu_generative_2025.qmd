@@ -1,0 +1,46 @@
+---
+title: "Downscaling Extreme Precipitation With Wasserstein Regularized Diffusion"
+author:
+  - Yuhao Liu
+  - "**James Doss-Gollin**"
+  - Qiushi Dai
+  - Ashok Veeraraghavan
+  - Guha Balakrishnan
+date: 2025-01-01
+details: "IEEE Transactions on Geoscience and Remote Sensing"
+year: 2025
+pages: "1--1"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@liu_generative:2025"
+image: ../../_assets/img/pubs/liu_generative_2025.png
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1109/TGRS.2025.3611872'
+      href: https://doi.org/10.1109/TGRS.2025.3611872
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Understanding the risks posed by extreme rainfall events requires analysis of precipitation fields with high resolution (to assess localized hazards) and extensive historical coverage (to capture sufficient examples of rare occurrences). Radar and mesonet networks provide precipitation fields at 1 km resolution but with limited historical and geographical coverage, while gauge-based records and reanalysis products cover decades of time on a global scale, but only at 30–50 km resolution. To help provide high-resolution precipitation estimates over long time scales, this study presents Wasserstein Regularized Diffusion (WassDiff), a diffusion framework to downscale (super-resolve) precipitation fields from low-resolution gauge and reanalysis products. Crucially, unlike related deep generative models, WassDiff integrates a Wasserstein distribution-matching regularizer to the denoising process to reduce empirical biases at extreme intensities. Comprehensive evaluations demonstrate that WassDiff quantitatively outperforms existing state-of-the-art generative downscaling methods at recovering extreme weather phenomena such as tropical storms and cold fronts. Case studies further qualitatively demonstrate WassDiff’s ability to reproduce realistic fine-scale structures and accurate peak intensities of these phenomena. By unlocking decades of high-resolution rainfall information from globally available coarse records, WassDiff offers a practical pathway toward more accurate flood-risk assessments and climate-adaptation planning.
+
+## BibTeX
+
+```bibtex
+@article{liu_generative:2025,
+  urldate = {2025-09-20},
+  url = {https://ieeexplore.ieee.org/document/11172297},
+  doi = {10.1109/TGRS.2025.3611872},
+  issn = {1558-0644},
+  pages = {1--1},
+  journaltitle = {IEEE Transactions on Geoscience and Remote Sensing},
+  date = {2025},
+  author = {Liu, Yuhao and Doss-Gollin, James and Dai, Qiushi and Veeraraghavan, Ashok and Balakrishnan, Guha},
+  title = {Downscaling {{Extreme Precipitation}} with {{Wasserstein Regularized Diffusion}}},
+}
+```
