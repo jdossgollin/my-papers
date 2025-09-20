@@ -5,7 +5,7 @@ author:
   - "**James Doss-Gollin**"
   - Arlei Silva
 date: 2024-06-24
-details: "Forty-First International Conference on Machine Learning"
+details: "Forty-_P0 On _P1"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

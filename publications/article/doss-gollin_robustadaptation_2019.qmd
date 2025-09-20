@@ -1,12 +1,12 @@
 ---
-title: "Robust Adaptation to Multiscale Climate Variability"
+title: "Robust Adaptation To Multiscale Climate Variability"
 author:
   - "**James Doss-Gollin**"
   - David J. Farnham
   - Scott Steinschneider
   - Upmanu Lall
 date: 2019-06-07
-details: "Earth's Future"
+details: "Earth'S Future"
 year: 2019
 volume: "7"
 issue: "7"

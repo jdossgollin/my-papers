@@ -1,12 +1,12 @@
 ---
-title: "Mechanisms of Hydroclimate Whiplash Over the Mississippi River Basin"
+title: "Mechanisms Of _P0 The _P1"
 author:
   - Michelle O'Donnell
   - Sylvia Dee
   - "**James Doss-Gollin**"
   - Samuel E. Munoz
 date: 2024-12-09
-details: "AGU AGU24"
+details: "Agu _P0"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

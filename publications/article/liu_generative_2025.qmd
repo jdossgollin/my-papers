@@ -1,5 +1,5 @@
 ---
-title: "Downscaling Extreme Precipitation With Wasserstein Regularized Diffusion"
+title: "Downscaling _P0 With _P1"
 author:
   - Yuhao Liu
   - "**James Doss-Gollin**"
@@ -7,7 +7,7 @@ author:
   - Ashok Veeraraghavan
   - Guha Balakrishnan
 date: 2025-01-01
-details: "IEEE Transactions on Geoscience and Remote Sensing"
+details: "Ieee Transactions On Geoscience And Remote Sensing"
 year: 2025
 pages: "1--1"
 bibliography: ../../my-papers.bib

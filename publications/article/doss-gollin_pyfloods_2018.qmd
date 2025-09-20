@@ -1,12 +1,12 @@
 ---
-title: "Heavy Rainfall in Paraguay During the 2015-2016 Austral Summer: Causes and Sub-Seasonal-to-Seasonal Predictive Skill"
+title: "Heavy Rainfall In _P0 During The 2015-2016 Austral Summer: Causes And Sub-Seasonal-To-Seasonal Predictive Skill"
 author:
   - "**James Doss-Gollin**"
   - Ángel G Muñoz
   - Simon J Mason
   - Max Pastén
 date: 2018-09-01
-details: "Journal of Climate"
+details: "Journal Of Climate"
 year: 2018
 volume: "31"
 issue: "17"

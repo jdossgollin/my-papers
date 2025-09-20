@@ -1,5 +1,5 @@
 ---
-title: "Competing Influences of Land Use and Greenhouse Gas Emissions on Mississippi River Basin Hydroclimate Simulated Over the Last Millennium"
+title: "Competing _P0 Of _P1 And _P2 On _P3 The _P4"
 author:
   - Kelsey Murphy
   - Sylvia Dee
@@ -8,7 +8,7 @@ author:
   - Michelle O’Donnell
   - Samuel Muñoz
 date: 2024-06-11
-details: "Paleoceanography and Paleoclimatology"
+details: "Paleoceanography And Paleoclimatology"
 year: 2024
 volume: "39"
 issue: "7"

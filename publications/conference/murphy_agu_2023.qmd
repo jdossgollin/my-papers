@@ -1,5 +1,5 @@
 ---
-title: "PP33E-1563: Last Millennium Changes in Mississippi River Basin Hydrology Driven by the Bermuda High and Great Plains Low Level Jet"
+title: "_P0: _P1 In _P2 Driven By The _P3 And _P4"
 author:
   - Kelsey Murphy
   - Sylvia Dee
@@ -9,7 +9,7 @@ author:
   - Michelle O'Donnell
   - "**James Doss-Gollin**"
 date: 2023-12-13
-details: "AGU AGU23"
+details: "Agu _P0"
 year: 2023
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

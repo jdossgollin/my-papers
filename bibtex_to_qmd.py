@@ -2,36 +2,20 @@ import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from pathlib import Path
 import re
-from titlecase import titlecase
 from datetime import datetime
-import requests
-from urllib.parse import urlparse
 
-try:
-    import fitz  # PyMuPDF
-    from PIL import Image
-
-    PDF_SUPPORT = True
-except ImportError:
-    PDF_SUPPORT = False
 
 # Target BibTeX file
 TARGET = Path("my-papers.bib")
 
 # Configuration
-SELF_NAME = "James Doss-Gollin"
+SELF_NAMES = ["James Doss-Gollin", "J. Doss-Gollin"]
 GROUP_MEMBERS = ["Yuchen Lu", "Lu, Yuchen"]
-
-# Cache for failed URLs to avoid retrying
-FAILED_PDF_URLS = set()
 
 # Statistics tracking
 IMAGE_STATS = {
     "existing_images": 0,
-    "generated_thumbnails": 0,
-    "failed_thumbnails": 0,
-    "no_pdf_sources": 0,
-    "skipped_types": 0
+    "no_images": 0
 }
 
 
@@ -60,8 +44,8 @@ def format_title(title):
         placeholder = f"_p{idx}"
         title = title.replace("{" + text + "}", placeholder)
 
-    # Use titlecase on the rest
-    title = titlecase(title)
+    # Use title case on the rest
+    title = title.title()
 
     # Replace placeholders with original text from curly braces
     for idx, text in enumerate(preserved_texts):
@@ -90,9 +74,7 @@ def format_author_name(name):
         formatted_name = name
 
     # Apply formatting based on name
-    if formatted_name == SELF_NAME or formatted_name.replace(
-        "-", ""
-    ) == SELF_NAME.replace("-", ""):
+    if any(formatted_name == self_name or formatted_name.replace("-", "") == self_name.replace("-", "") for self_name in SELF_NAMES):
         return f"**{formatted_name}**"
     elif formatted_name in GROUP_MEMBERS:
         return f"*{formatted_name}*"
@@ -120,58 +102,12 @@ def extract_year(date):
         return None
 
 
-def create_pdf_thumbnail(pdf_url, output_path, citekey, width=400):
-    """Generate a thumbnail from the first page of a PDF."""
-    if not PDF_SUPPORT:
-        return False
-
-    # Check if we've already failed on this URL
-    if pdf_url in FAILED_PDF_URLS:
-        return False
-
-    try:
-        # Download PDF temporarily
-        response = requests.get(pdf_url, timeout=10)
-        response.raise_for_status()
-
-        # Create thumbnail from first page
-        doc = fitz.open(stream=response.content, filetype="pdf")
-        page = doc[0]
-
-        # Get page as image
-        mat = fitz.Matrix(2.0, 2.0)  # Increase resolution
-        pix = page.get_pixmap(matrix=mat)
-        img_data = pix.tobytes("png")
-
-        # Resize with PIL
-        from io import BytesIO
-
-        img = Image.open(BytesIO(img_data))
-        ratio = width / img.width
-        height = int(img.height * ratio)
-        img = img.resize((width, height), Image.Resampling.LANCZOS)
-
-        # Save thumbnail
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        img.save(output_path, "PNG", optimize=True)
-
-        doc.close()
-        print(f"✓ Generated thumbnail for {citekey}: {output_path}")
-        IMAGE_STATS["generated_thumbnails"] += 1
-        return True
-
-    except Exception as e:
-        FAILED_PDF_URLS.add(pdf_url)
-        print(f"✗ Failed to create thumbnail for {citekey}: {pdf_url}")
-        IMAGE_STATS["failed_thumbnails"] += 1
-        return False
 
 
-def find_or_create_image(entry):
-    """Find existing image or create thumbnail from PDF."""
+def find_existing_image(entry):
+    """Find existing image for entry."""
     citekey = citekey_to_string(entry["ID"])
     assets_dir = Path("_assets/img/pubs")
-    entry_type = entry["ENTRYTYPE"]
 
     # Check for existing images
     for extension in ["png", "jpg", "jpeg"]:
@@ -180,35 +116,7 @@ def find_or_create_image(entry):
             IMAGE_STATS["existing_images"] += 1
             return f"../../{image_path}"
 
-    # Only attempt thumbnail generation for articles and forthcoming publications
-    if entry_type not in ["article", "online", "preprint"]:
-        IMAGE_STATS["skipped_types"] += 1
-        return None
-
-    # Try to create thumbnail from PDF links
-    pdf_urls = []
-    
-    # Add preprint URLs
-    if "preprint" in entry:
-        pdf_urls.append(entry["preprint"])
-    
-    # Add direct PDF URLs
-    if "url" in entry and ".pdf" in entry["url"].lower():
-        pdf_urls.append(entry["url"])
-    
-    # Try DOI URLs (might resolve to PDFs)
-    if "doi" in entry:
-        doi_url = f"https://doi.org/{entry['doi']}"
-        pdf_urls.append(doi_url)
-
-    for pdf_url in pdf_urls:
-        thumbnail_path = assets_dir / f"{citekey}.png"
-        if create_pdf_thumbnail(pdf_url, thumbnail_path, citekey):
-            return f"../../{thumbnail_path}"
-
-    # Record that no PDF sources were available for articles/forthcoming that we actually tried
-    print(f"○ No PDF sources for {citekey}")
-    IMAGE_STATS["no_pdf_sources"] += 1
+    IMAGE_STATS["no_images"] += 1
     return None
 
 
@@ -278,8 +186,8 @@ def write_metadata_to_qmd(entry, qmd_file):
     qmd_file.write(f'csl: ../../american-geophysical-union.csl\n')
     qmd_file.write(f'nocite: "@{citekey}"\n')
 
-    # Image (find existing or create from PDF)
-    image_path = find_or_create_image(entry)
+    # Image (find existing)
+    image_path = find_existing_image(entry)
     if image_path:
         qmd_file.write(f"image: {image_path}\n")
 
@@ -418,11 +326,8 @@ if __name__ == "__main__":
     print("CONVERSION SUMMARY")
     print("="*50)
     print(f"QMD files generated in publications/ directories.")
-    print(f"\nImage/Thumbnail Status:")
-    print(f"  ✓ Existing images found:     {IMAGE_STATS['existing_images']}")
-    print(f"  ✓ Thumbnails generated:      {IMAGE_STATS['generated_thumbnails']}")  
-    print(f"  ✗ Thumbnail generation failed: {IMAGE_STATS['failed_thumbnails']}")
-    print(f"  ○ No PDF sources (articles/forthcoming): {IMAGE_STATS['no_pdf_sources']}")
-    print(f"  - Skipped (conference/other): {IMAGE_STATS['skipped_types']}")
-    print(f"  Total publications:          {sum(IMAGE_STATS.values())}")
+    print(f"\nImage Status:")
+    print(f"  ✓ Existing images found: {IMAGE_STATS['existing_images']}")
+    print(f"  ○ No images:             {IMAGE_STATS['no_images']}")
+    print(f"  Total publications:      {sum(IMAGE_STATS.values())}")
     print("="*50)

@@ -7,7 +7,7 @@ author:
   - Tyhago Aragão Dias
   - "**James Doss-Gollin**"
 date: 2014-01-01
-details: "XII Simpósio De Recursos Hídricos Do Nordeste"
+details: "Xii Simpósio De Recursos Hídricos Do Nordeste"
 year: 2014
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

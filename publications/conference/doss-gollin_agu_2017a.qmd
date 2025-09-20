@@ -1,11 +1,11 @@
 ---
-title: "H22B-02: Designing and Operating Infrastructure for Nonstationary Flood Risk Management"
+title: "_P0: _P1 And Operating Infrastructure For Nonstationary Flood Risk Management"
 author:
   - "**James Doss-Gollin**"
   - David J Farnham
   - Upmanu Lall
 date: 2017-12
-details: "AGU 2017 Fall Meeting"
+details: "Agu 2017 _P0"
 year: 2017
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

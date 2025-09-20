@@ -1,10 +1,10 @@
 ---
-title: "A Subjective Bayesian Framework for Synthesizing Deep Uncertainties in Climate Risk Management"
+title: "A Subjective _P0 Framework For Synthesizing Deep Uncertainties In Climate Risk Management"
 author:
   - "**James Doss-Gollin**"
   - Klaus Keller
 date: 2023-01
-details: "Earth's Future"
+details: "Earth'S Future"
 year: 2023
 volume: "11"
 issue: "1"

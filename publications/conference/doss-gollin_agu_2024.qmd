@@ -1,11 +1,11 @@
 ---
-title: "Assessing and Managing Climate Risks to Electricity Systems in an Era of Climate Change and Energy Transition"
+title: "Assessing And _P0 To _P1 In An _P2 Of _P3 And _P4"
 author:
   - "**James Doss-Gollin**"
   - Yash Vijay Amonkar
   - Leonardo Duenas-Osorio
 date: 2024-12-10
-details: "AGU AGU24"
+details: "Agu _P0"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

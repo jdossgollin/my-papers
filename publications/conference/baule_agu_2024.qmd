@@ -1,12 +1,12 @@
 ---
-title: "TxRAIN-Future Projections: Non-stationary Projections of Extreme Precipitation for Texas"
+title: "_P0: _P1 Of _P2 For _P3"
 author:
   - William J. Baule
   - John W. Nielsen-Gammon
   - "**James Doss-Gollin**"
   - Rewati Niraula
 date: 2024-12-12
-details: "AGU AGU24"
+details: "Agu _P0"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

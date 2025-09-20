@@ -1,5 +1,5 @@
 ---
-title: "Mesoscale Modeling of Distributed Water Systems Enables Policy Search"
+title: "Mesoscale Modeling Of Distributed Water Systems Enables Policy Search"
 author:
   - Xiangnan Zhou
   - Leonardo Duenas-Osorio

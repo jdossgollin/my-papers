@@ -1,12 +1,12 @@
 ---
-title: "Leveraging Mesh Modularization to Lower the Computational Cost of Localized Updates to Regional 2D Hydrodynamic Model Outputs"
+title: "Leveraging Mesh Modularization To Lower The Computational Cost Of Localized Updates To Regional _P0 Hydrodynamic Model Outputs"
 author:
   - M. Garcia
   - A. Juan
-  - J. Doss-Gollin
+  - "**J. Doss-Gollin**"
   - P. Bedient
 date: 2023-03-20
-details: "Engineering Applications of Computational Fluid Mechanics"
+details: "Engineering Applications Of Computational Fluid Mechanics"
 year: 2023
 volume: "17"
 issue: "1"

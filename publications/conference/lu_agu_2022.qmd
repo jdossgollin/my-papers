@@ -1,11 +1,11 @@
 ---
-title: "H42E-1333: Nonstationary GEV With Hierarchical Spatial Pooling: A Spatiotemporal Bayesian Framework for Nonstationary Extreme Precipitation Frequency Analysis in the Gulf Coast"
+title: "_P0: _P1 With Hierarchical Spatial Pooling: A Spatiotemporal _P2 Framework For Nonstationary Extreme Precipitation Frequency Analysis In The _P3"
 author:
   - "*Yuchen Lu*"
   - Benjamin Seiyon Lee
   - "**James Doss-Gollin**"
 date: 2022-12-15
-details: "AGU Fall Meeting 2022"
+details: "Agu Fall _P0 2022"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

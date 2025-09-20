@@ -1,5 +1,5 @@
 ---
-title: "UNSAFE: An UNcertain Structure And Fragility Ensemble Framework for Property-Level Flood Risk Estimation"
+title: "_P0: _P1 Framework For Property-Level Flood Risk Estimation"
 author:
   - Adam Pollack
   - "**James Doss-Gollin**"
@@ -11,7 +11,6 @@ year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@pollack_unsafe:2024"
-image: ../../_assets/img/pubs/pollack_unsafe_2024.png
 
 about:
   template: solana

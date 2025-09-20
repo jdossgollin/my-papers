@@ -1,12 +1,12 @@
 ---
-title: "H52F-05: Robust Adaptation to Cyclical Climate Risk"
+title: "_P0: _P1 Adaptation To Cyclical Climate Risk"
 author:
   - "**James Doss-Gollin**"
   - David J Farnham
   - Scott Steinschneider
   - Upmanu Lall
 date: 2018-12-14
-details: "AGU Fall Meeting 2018"
+details: "Agu Fall _P0 2018"
 year: 2018
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

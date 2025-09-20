@@ -1,12 +1,12 @@
 ---
-title: "Characterization of the Equity-Efficiency Tradeoff in Targeted Residential Coastal Protection Projects"
+title: "Characterization Of The Equity-Efficiency Tradeoff In Targeted Residential Coastal Protection Projects"
 author:
   - Nathan Geldner
   - "**James Doss-Gollin**"
   - Klaus Keller
   - David R. Johnson
 date: 2021-12-09
-details: "2021 Annual Meeting of the Society for Risk Analysis"
+details: "2021 _P0 Of The _P1 For _P2"
 year: 2021
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

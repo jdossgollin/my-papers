@@ -1,5 +1,5 @@
 ---
-title: "H33P-1999: Before and After Piped Water Expansion: Water Use Patterns and Trust in Water and Political Institutions"
+title: "_P0: _P1 And _P2: _P3 And _P4 In _P5 And _P6"
 author:
   - Alicia Cooperman
   - Manuela Muñoz Fuerte
@@ -7,7 +7,7 @@ author:
   - Alex S. Mayer
   - W. Shane Walker
 date: 2023-12-13
-details: "AGU AGU23"
+details: "Agu _P0"
 year: 2023
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

@@ -1,11 +1,11 @@
 ---
-title: "Analytic Modeling of Rainwater Harvesting in the Brazilian Semiarid Northeast"
+title: "Analytic Modeling Of Rainwater Harvesting In The _P0"
 author:
   - "**James Doss-Gollin**"
   - Francisco de Assis de Souza Filho
   - Francisco Osny Enéas da Silva
 date: 2015-12
-details: "Journal of the American Water Resources Association"
+details: "Journal Of The American Water Resources Association"
 year: 2015
 volume: "52"
 issue: "1"

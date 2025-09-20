@@ -1,5 +1,5 @@
 ---
-title: "H32J-04: Distributed Water and Wastewater Infrastructure System for Climate Change Adaption: A Case Study in the City of Lumberton, NC"
+title: "_P0: _P1 And _P2 For _P3: _P4 In The _P5 Of _P6, _P7"
 author:
   - Xiangnan Zhou
   - Leonardo Duenas-Osorio
@@ -9,7 +9,7 @@ author:
   - Bezawit Getachew
   - Qilin Li
 date: 2021-12-15
-details: "AGU Fall Meeting 2021"
+details: "Agu Fall _P0 2021"
 year: 2021
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

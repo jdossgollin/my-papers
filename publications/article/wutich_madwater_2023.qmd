@@ -1,5 +1,5 @@
 ---
-title: "MAD Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era"
+title: "_P0 Water: _P1 Modular, Adaptive, And Decentralized Approaches For Water Security In The Climate Change Era"
 author:
   - Amber Wutich
   - Patrick Thomson
@@ -13,7 +13,7 @@ author:
   - W. Shane Walker
   - Paul Westerhoff
 date: 2023-07-12
-details: "WIREs Water"
+details: "Wires Water"
 year: 2023
 volume: "n/a"
 issue: "n/a"

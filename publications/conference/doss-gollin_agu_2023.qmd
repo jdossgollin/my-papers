@@ -1,5 +1,5 @@
 ---
-title: "NH14B-07: Linking Robust Trends in Observations and Models to Develop Nonstationary Rainfall Frequency Grids for the State of Texas"
+title: "_P0: _P1 In _P2 And _P3 To _P4 For The _P5 Of _P6"
 author:
   - "**James Doss-Gollin**"
   - "*Yuchen Lu*"
@@ -7,7 +7,7 @@ author:
   - Rewati Niraula
   - Benjamin Seiyon Lee
 date: 2023-12-11
-details: "AGU AGU23"
+details: "Agu _P0"
 year: 2023
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

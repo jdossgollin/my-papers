@@ -1,13 +1,13 @@
 ---
-title: "Impact of 21st Century Climate Change on Mississippi River Basin Discharge in CESM2 Large Ensemble Projections"
+title: "Impact Of 21St Century Climate Change On _P0 Discharge In _P1 Large Ensemble Projections"
 author:
   - M. R. Haider
   - S. G. Dee
-  - J. Doss-Gollin
+  - "**J. Doss-Gollin**"
   - K. B. J. Dunne
   - S. E. Muñoz
 date: 2025-06-01
-details: "Global and Planetary Change"
+details: "Global And Planetary Change"
 year: 2025
 volume: "249"
 pages: "104742"

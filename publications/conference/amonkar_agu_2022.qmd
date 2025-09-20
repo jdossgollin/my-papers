@@ -1,5 +1,5 @@
 ---
-title: "GC42N-0889: Changing Climate, Peak Demand and Load Factors Across the Contiguous United States"
+title: "_P0: _P1 Climate, Peak Demand And Load Factors Across The Contiguous _P2"
 author:
   - Yash Vijay Amonkar
   - "**James Doss-Gollin**"
@@ -7,7 +7,7 @@ author:
   - Vijay Modi
   - Upmanu Lall
 date: 2022-12-15
-details: "AGU Fall Meeting 2022"
+details: "Agu Fall _P0 2022"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

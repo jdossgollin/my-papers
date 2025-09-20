@@ -1,5 +1,5 @@
 ---
-title: "Regional Extreme Precipitation Events: Robust Inference From Credibly Simulated GCM Variables"
+title: "Regional Extreme Precipitation Events: Robust Inference From Credibly Simulated _P0 Variables"
 author:
   - David J Farnham
   - "**James Doss-Gollin**"

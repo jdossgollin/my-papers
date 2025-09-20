@@ -1,11 +1,11 @@
 ---
-title: "H21T-1602: Spatially Varying Covariate Model: A Hierarchical Bayesian Framework for Precipitation Frequency Analysis in the Gulf Coast"
+title: "_P0: _P1: _P2 For _P3 In The _P4"
 author:
   - "*Yuchen Lu*"
   - Benjamin Seiyon Lee
   - "**James Doss-Gollin**"
 date: 2023-12-12
-details: "AGU AGU23"
+details: "Agu _P0"
 year: 2023
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

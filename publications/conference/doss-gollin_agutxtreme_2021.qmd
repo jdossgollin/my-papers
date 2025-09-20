@@ -1,12 +1,12 @@
 ---
-title: "A14H-03: How Unprecedented Was the February 2021 Texas Cold Snap?"
+title: "_P0: _P1 Unprecedented Was The _P2 2021 _P3 Cold Snap?"
 author:
   - "**James Doss-Gollin**"
   - David J. Farnham
   - Upmanu Lall
   - Vijay Modi
 date: 2021-12-13
-details: "AGU AGU Fall Meeting 2021"
+details: "Agu _P0 2021"
 year: 2021
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

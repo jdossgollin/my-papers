@@ -1,5 +1,5 @@
 ---
-title: "Last Millennium Changes in Mississippi River Basin Hydroclimate Driven by Anthropogenic Forcing and Atmospheric Dynamics"
+title: "Last _P0 In _P1 By _P2 And _P3"
 author:
   - Kelsey Murphy
   - Sylvia Dee
@@ -8,7 +8,7 @@ author:
   - "**James Doss-Gollin**"
   - Samuel E. Munoz
 date: 2024-12-12
-details: "AGU AGU24"
+details: "Agu _P0"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

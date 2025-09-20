@@ -1,5 +1,5 @@
 ---
-title: "FloodGNN-GRU: A Spatio-Temporal Graph Neural Network for Flood Prediction"
+title: "_P0: A Spatio-Temporal Graph Neural Network For Flood Prediction"
 author:
   - Arnold Kazadi
   - "**James Doss-Gollin**"

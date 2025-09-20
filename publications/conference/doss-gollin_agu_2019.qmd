@@ -1,11 +1,11 @@
 ---
-title: "H11G-07: Towards Adaptive Resilience: Managing Uncertainties and Exploiting Predictability Across Timescales"
+title: "_P0: _P1 Adaptive Resilience: Managing Uncertainties And Exploiting Predictability Across Timescales"
 author:
   - "**James Doss-Gollin**"
   - Upmanu Lall
   - Jonathan Lamontagne
 date: 2019-12-09
-details: "AGU Fall Meeting 2019"
+details: "Agu Fall _P0 2019"
 year: 2019
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

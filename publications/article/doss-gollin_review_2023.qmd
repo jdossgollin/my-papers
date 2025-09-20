@@ -1,5 +1,5 @@
 ---
-title: "Improving the Representation of Climate Risks in Long-Term Electricity Systems Planning: A Critical Review"
+title: "Improving The Representation Of Climate Risks In Long-Term Electricity Systems Planning: A Critical Review"
 author:
   - "**James Doss-Gollin**"
   - Yash Amonkar

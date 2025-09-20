@@ -1,5 +1,5 @@
 ---
-title: "PP45D-1187: The Mississippi River’s Hydrologic Response to Natural vs. Anthropogenic Forcing From the Last Millennium Through the 21st Century"
+title: "_P0: _P1’S _P2 To _P3 Vs. _P4 From The _P5 Through The 21St _P6"
 author:
   - Kelsey Murphy
   - Sylvia Dee
@@ -8,7 +8,7 @@ author:
   - Michelle O'Donnell
   - "**James Doss-Gollin**"
 date: 2022-12-15
-details: "AGU Fall Meeting 2022"
+details: "Agu Fall _P0 2022"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

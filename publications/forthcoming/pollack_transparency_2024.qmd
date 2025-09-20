@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the Benefits of Transparent and Reusable Science for Climate-Risk Management"
+title: "Unlocking The Benefits Of Transparent And Reusable Science For Climate-Risk Management"
 author:
   - Adam Pollack
   - Lisa Auermuller

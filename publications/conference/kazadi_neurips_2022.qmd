@@ -1,12 +1,12 @@
 ---
-title: "Flood Prediction With Graph Neural Networks"
+title: "Flood _P0 With _P1"
 author:
   - Arnold N. Kazadi
   - "**James Doss-Gollin**"
   - Antonia Sebastian
   - Arlei Silva
 date: 2022-12-09
-details: "Climate Change AI"
+details: "Climate _P0"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

@@ -1,5 +1,5 @@
 ---
-title: "Efficient Flood Risk Mitigation and Intersectional Equity Implications: A Case Study in New Orleans"
+title: "Efficient _P0 And _P1: _P2 In _P3"
 author:
   - Nathan Geldner
   - David R. Johnson
@@ -11,7 +11,6 @@ year: 2023
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@geldner_equity:2023"
-image: ../../_assets/img/pubs/geldner_equity_2023.png
 
 about:
   template: solana
