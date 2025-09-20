@@ -14,7 +14,7 @@ pages: "104742"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@haider_mrb:2025"
-image: ../../_assets/img/pubs/haider_mrb_2025.png
+image: ../../_assets/img/pubs/haider_mrb_2025.jpg
 
 about:
   template: solana
