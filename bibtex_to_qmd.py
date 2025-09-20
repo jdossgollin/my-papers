@@ -30,7 +30,7 @@ def escape_yaml_string(value):
 
 
 def format_title(title):
-    """Format the title using titlecase except for content inside curly braces."""
+    """Format the title using title case except for content inside curly braces."""
     if not title:
         return title
 
@@ -40,17 +40,20 @@ def format_title(title):
 
     # Extract content inside curly braces and replace with placeholders
     preserved_texts = re.findall(r"{(.*?)}", title)
+    placeholder_map = {}
     for idx, text in enumerate(preserved_texts):
-        placeholder = f"_p{idx}"
+        placeholder = f"__PLACEHOLDER{idx}__"
+        placeholder_map[placeholder] = text
         title = title.replace("{" + text + "}", placeholder)
 
     # Use title case on the rest
     title = title.title()
 
     # Replace placeholders with original text from curly braces
-    for idx, text in enumerate(preserved_texts):
-        placeholder = f"_p{idx}"
-        title = title.replace(placeholder, text)
+    for placeholder, text in placeholder_map.items():
+        # Make sure to replace the title-cased version of placeholder
+        title_cased_placeholder = placeholder.title()
+        title = title.replace(title_cased_placeholder, text)
 
     return title
 

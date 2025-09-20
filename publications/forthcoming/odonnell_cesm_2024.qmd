@@ -1,5 +1,5 @@
 ---
-title: "Evaluation Of Hydroclimatic Biases In The _P0 (_P1) Within The _P2 Basin"
+title: "Evaluation Of Hydroclimatic Biases In The Community Earth System Model (CESM1) Within The Mississippi River Basin"
 author:
   - Michelle O'Donnell
   - Kelsey Murphy

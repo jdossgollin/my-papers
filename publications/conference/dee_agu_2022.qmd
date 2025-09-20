@@ -1,5 +1,5 @@
 ---
-title: "_P0: _P1, Present, And Future Hydroclimate Across The _P2 And Its Tributaries: Insights From Integrated Paleoclimate Data Analysis"
+title: "PP32B-04: Past, Present, And Future Hydroclimate Across The Mississippi River Basin And Its Tributaries: Insights From Integrated Paleoclimate Data Analysis"
 author:
   - Sylvia Dee
   - Kieran Dunne
@@ -8,7 +8,7 @@ author:
   - Kelsey Murphy
   - "**James Doss-Gollin**"
 date: 2022-12-14
-details: "Agu Fall _P0 2022"
+details: "Agu Fall Meeting 2022"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

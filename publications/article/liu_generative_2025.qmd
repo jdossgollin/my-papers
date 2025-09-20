@@ -1,5 +1,5 @@
 ---
-title: "Downscaling _P0 With _P1"
+title: "Downscaling Extreme Precipitation With Wasserstein Regularized Diffusion"
 author:
   - Yuhao Liu
   - "**James Doss-Gollin**"

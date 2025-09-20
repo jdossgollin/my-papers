@@ -1,12 +1,12 @@
 ---
-title: "_P0: _P1 And Model Skill Of The Persistent Intense Rainfall And Flooding In _P2 During The Austral Summer 2015-2016"
+title: "A31H-0135: Causes And Model Skill Of The Persistent Intense Rainfall And Flooding In Paraguay During The Austral Summer 2015-2016"
 author:
   - "**James Doss-Gollin**"
   - Ángel G Muñoz
   - Simon J Mason
   - Max Pastén
 date: 2017-12
-details: "Agu 2017 _P0"
+details: "Agu 2017 Fall Meeting"
 year: 2017
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

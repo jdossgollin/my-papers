@@ -1,5 +1,5 @@
 ---
-title: "H161-01: _P0'S Water: Multiscale Forecasting And Innovation In Infrastructure Design & Management Instruments Is Critical For Climate Adaptation"
+title: "H161-01: America'S Water: Multiscale Forecasting And Innovation In Infrastructure Design & Management Instruments Is Critical For Climate Adaptation"
 author:
   - Upmanu Lall
   - Sankar Arumugam
@@ -9,7 +9,7 @@ author:
   - Hyun-Han Kwon
   - Balaji Rajagopalan
 date: 2020-12-15
-details: "Agu Fall _P0 2020"
+details: "Agu Fall Meeting 2020"
 year: 2020
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

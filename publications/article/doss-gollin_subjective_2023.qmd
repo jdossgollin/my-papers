@@ -1,5 +1,5 @@
 ---
-title: "A Subjective _P0 Framework For Synthesizing Deep Uncertainties In Climate Risk Management"
+title: "A Subjective Bayesian Framework For Synthesizing Deep Uncertainties In Climate Risk Management"
 author:
   - "**James Doss-Gollin**"
   - Klaus Keller

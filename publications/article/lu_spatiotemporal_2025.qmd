@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases In Daily Extreme Rainfall Across The _P0"
+title: "Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases In Daily Extreme Rainfall Across The Western Gulf Coast"
 author:
   - "*Yuchen Lu*"
   - Benjamin Seiyon Lee

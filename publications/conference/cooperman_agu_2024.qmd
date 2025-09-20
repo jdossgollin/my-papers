@@ -1,12 +1,12 @@
 ---
-title: "Before And _P0: _P1 And _P2 In _P3 And _P4"
+title: "Before And After Piped Water Expansion: Water Use Patterns And Trust In Water And Political Institutions"
 author:
   - Alicia Cooperman
   - Manuela Muñoz Fuerte
   - "**James Doss-Gollin**"
   - Alex S. Mayer
 date: 2024-12-13
-details: "Agu _P0"
+details: "Agu AGU24"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

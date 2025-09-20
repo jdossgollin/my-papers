@@ -1,5 +1,5 @@
 ---
-title: "_P0: _P1 Risks Of Energy Shortfalls Considering Temperature Extremes, Wind And Solar Energy For The _P2 Energy Grid Using A Novel Space-Time Simulation Model"
+title: "GC42C-08: The Risks Of Energy Shortfalls Considering Temperature Extremes, Wind And Solar Energy For The Texas Energy Grid Using A Novel Space-Time Simulation Model"
 author:
   - Upmanu Lall
   - Yash Vijay Amonkar
@@ -7,7 +7,7 @@ author:
   - Vijay Modi
   - "**James Doss-Gollin**"
 date: 2021-12-16
-details: "Agu Fall _P0 2021"
+details: "Agu Fall Meeting 2021"
 year: 2021
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

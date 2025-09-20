@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Mesh Modularization To Lower The Computational Cost Of Localized Updates To Regional _P0 Hydrodynamic Model Outputs"
+title: "Leveraging Mesh Modularization To Lower The Computational Cost Of Localized Updates To Regional 2D Hydrodynamic Model Outputs"
 author:
   - M. Garcia
   - A. Juan

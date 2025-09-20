@@ -1,5 +1,5 @@
 ---
-title: "Robust 21St Century Hydrological Trends In The _P0 Basin From _P1: West-Gets-Drier, East-Gets-Wetter"
+title: "Robust 21St Century Hydrological Trends In The Mississippi River Basin From CMIP6: West-Gets-Drier, East-Gets-Wetter"
 author:
   - Christopher L Hancock
   - Sylvia G. Dee

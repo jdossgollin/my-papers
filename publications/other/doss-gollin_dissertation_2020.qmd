@@ -1,5 +1,5 @@
 ---
-title: "Sequential _P0 Through _P1 Of _P2"
+title: "Sequential Adaptation Through Prediction Of Structured Climate Risk"
 author:
   - "**James Doss-Gollin**"
 date: 2020-01-01

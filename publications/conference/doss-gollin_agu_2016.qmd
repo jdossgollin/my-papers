@@ -1,11 +1,11 @@
 ---
-title: "_P0: _P1 Interactions Modulate Tropical Moisture Exports To The _P2"
+title: "A33J-0396: Global-local Interactions Modulate Tropical Moisture Exports To The Ohio River Basin"
 author:
   - "**James Doss-Gollin**"
   - David J Farnham
   - Upmanu Lall
 date: 2016-01-01
-details: "Agu 2016 _P0"
+details: "Agu 2016 Fall Meeting"
 year: 2016
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

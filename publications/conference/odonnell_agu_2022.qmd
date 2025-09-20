@@ -1,12 +1,12 @@
 ---
-title: "_P0: _P1 Of _P2 The _P3"
+title: "H42E-1351: Validation Of Community Earth System Model Hydrologic Variables Over The Mississippi River System To Understand Long Term Hydrometerologic Changes"
 author:
   - Michelle O'Donnell
   - "**James Doss-Gollin**"
   - Sylvia Dee
   - Samuel E. Munoz
 date: 2022-12-15
-details: "Agu Fall _P0 2022"
+details: "Agu Fall Meeting 2022"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

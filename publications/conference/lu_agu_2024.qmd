@@ -1,5 +1,5 @@
 ---
-title: "_P0: _P1 To _P2, _P3, And _P4 In _P5"
+title: "TxRAIN-Observational: A Hierarchical Bayesian Spatial Framework To Assess Nonstationary Rainfall Intensity, Frequency, And Duration In Texas"
 author:
   - "*Yuchen Lu*"
   - Benjamin Seiyon Lee
@@ -7,7 +7,7 @@ author:
   - John W. Nielsen-Gammon
   - Rewati Niraula
 date: 2024-12-10
-details: "Agu _P0"
+details: "Agu AGU24"
 year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

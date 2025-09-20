@@ -1,11 +1,11 @@
 ---
-title: "_P0: _P1 Long-Term Variability In Simulation Of Multisite Streamflow Extremes"
+title: "H13T-2050: Preserving Long-Term Variability In Simulation Of Multisite Streamflow Extremes"
 author:
   - Yash Vijay Amonkar
   - "**James Doss-Gollin**"
   - Upmanu Lall
 date: 2019-12-09
-details: "Agu Fall _P0 2019"
+details: "Agu Fall Meeting 2019"
 year: 2019
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

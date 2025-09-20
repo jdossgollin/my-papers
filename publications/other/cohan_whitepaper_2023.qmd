@@ -1,5 +1,5 @@
 ---
-title: "Revamping The _P0: _P1 From _P2’S _P3"
+title: "Revamping The Texas Power Grid: Insights From Rice University’S Electricity Research"
 author:
   - Daniel Cohan
   - "**James Doss-Gollin**"

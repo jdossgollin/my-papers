@@ -1,11 +1,11 @@
 ---
-title: "_P0: _P1 Predictability Lowers Long-Term Adaptation Costs"
+title: "H35F-07: Near-term Predictability Lowers Long-Term Adaptation Costs"
 author:
   - "**James Doss-Gollin**"
   - Jonathan Lamontagne
   - Upmanu Lall
 date: 2022-12-14
-details: "Agu Fall _P0 2022"
+details: "Agu Fall Meeting 2022"
 year: 2022
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

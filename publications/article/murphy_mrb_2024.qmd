@@ -1,5 +1,5 @@
 ---
-title: "Competing _P0 Of _P1 And _P2 On _P3 The _P4"
+title: "Competing Influences Of Land Use And Greenhouse Gas Emissions On Mississippi River Basin Hydroclimate Simulated Over The Last Millennium"
 author:
   - Kelsey Murphy
   - Sylvia Dee

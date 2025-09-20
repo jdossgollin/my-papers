@@ -1,5 +1,5 @@
 ---
-title: "_P0 Water: _P1 Modular, Adaptive, And Decentralized Approaches For Water Security In The Climate Change Era"
+title: "MAD Water: Integrating Modular, Adaptive, And Decentralized Approaches For Water Security In The Climate Change Era"
 author:
   - Amber Wutich
   - Patrick Thomson

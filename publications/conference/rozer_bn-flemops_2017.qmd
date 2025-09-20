@@ -1,5 +1,5 @@
 ---
-title: "_P0: _P1 Pluvial - _P2 Probabilistic Multi-Variable Loss Estimation Model For Pluvial Floods"
+title: "NH41E-08: BN-FLEMOps Pluvial - A Probabilistic Multi-Variable Loss Estimation Model For Pluvial Floods"
 author:
   - Viktor Rözer
   - Heidi Kreibich
@@ -8,7 +8,7 @@ author:
   - Upmanu Lall
   - Bruno Merz
 date: 2017-12
-details: "Agu 2017 _P0"
+details: "Agu 2017 Fall Meeting"
 year: 2017
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl

@@ -6,7 +6,7 @@ author:
   - Klaus Keller
   - David R. Johnson
 date: 2021-12-09
-details: "2021 _P0 Of The _P1 For _P2"
+details: "2021 Annual Meeting Of The Society For Risk Analysis"
 year: 2021
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
