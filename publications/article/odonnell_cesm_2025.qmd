@@ -1,0 +1,50 @@
+---
+title: "Evaluation Of Hydroclimatic Biases In The Community Earth System Model (CESM1) Within The Mississippi River Basin"
+author:
+  - Michelle O'Donnell
+  - Kelsey Murphy
+  - "**James Doss-Gollin**"
+  - Sylvia Dee
+  - Samuel Munoz
+date: 2025-09-25
+details: "Hydrology And Earth System Sciences"
+year: 2025
+volume: "29"
+issue: "18"
+pages: "4637--4660"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@odonnell_cesm:2025"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.5194/hess-29-4637-2025'
+      href: https://doi.org/10.5194/hess-29-4637-2025
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+The Mississippi River is a critical waterway in the United States, and hydrologic variability along its course represents a perennial consideration for trade, agriculture, industry, ecosystems, the economy, and communities. Simulations of past, historic, and projected river discharge have been widely used to assess the dynamics and causes of changes in the hydrology of the Mississippi River basin over long time scales and to put changes of climate in context. The Community Earth System Model version 1 (CESM1) offers such simulations to complement observational records of river discharge by providing fully coupled output from a state-of-the-art earth system model that includes a river transport model. Here, we compare observations and reanalysis datasets of key hydrologic variables to CESM1 output within the Mississippi River basin to evaluate model performance and bias. We show that the seasonality of simulated river discharge in CESM1 is shifted 3 months late relative to observations. This offset is attributed to seasonal biases in precipitation and runoff in the region. We also evaluate performance of several Coupled Model Intercomparison Phase 6 (CMIP6) models over the Mississippi River basin, and show that runoff in other models – notably the Community Earth System Model version 2 (CESM2) – more closely simulates the seasonal trends in the reanalysis data. Our results have implications for model selection when assessing hydroclimate variability on the Mississippi River basin, and show that the seasonal timing of runoff can vary widely between models. Our findings point to (1) a need for continued developments in the representation of land surface hydrology in earth system models for improvements in our ability to assess the causes and consequences of environmental change on terrestrial water resources and major river systems globally, and (2) a need for caution and understanding of biases when applying these tools to practical risk assessment.
+
+## BibTeX
+
+```bibtex
+@article{odonnell_cesm:2025,
+  urldate = {2025-09-25},
+  url = {https://hess.copernicus.org/articles/29/4637/2025/},
+  doi = {10.5194/hess-29-4637-2025},
+  issn = {1027-5606},
+  publisher = {Copernicus GmbH},
+  pages = {4637--4660},
+  number = {18},
+  volume = {29},
+  journaltitle = {Hydrology and Earth System Sciences},
+  date = {2025-09-25},
+  author = {O'Donnell, Michelle and Murphy, Kelsey and Doss-Gollin, James and Dee, Sylvia and Munoz, Samuel},
+  title = {Evaluation of Hydroclimatic Biases in the {{Community Earth System Model}} ({{CESM1}}) within the {{Mississippi River}} Basin},
+}
+```
