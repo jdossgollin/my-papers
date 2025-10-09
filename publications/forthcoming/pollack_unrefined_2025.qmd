@@ -1,0 +1,56 @@
+---
+title: "Unrefined National Building Inventories Can Mislead Risk Assessments And Decisions"
+author:
+  - Adam Pollack
+  - James Benedict
+  - Mithun Deb
+  - "**James Doss-Gollin**"
+  - David Judi
+  - William Lehman
+  - Nicholas Lutz
+  - Cade Reesman
+  - Elaine Sarazen
+  - Youngjun Son
+  - Vivek Srikrishnan
+  - Ning Sun
+  - Klaus Keller
+date: 2025-10-02
+details: ""
+year: 2025
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@pollack_unrefined:2025"
+image: ../../_assets/img/pubs/pollack_unrefined_2025.png
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.2139/ssrn.5575271'
+      href: https://doi.org/10.2139/ssrn.5575271
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Flood-risk assessments inform consequential public decisions. These assessments increasingly use large-scale building inventories that offer granular details but come with little quality assurance. The U.S. Army Corps' National Structure Inventory (NSI) is a prominent example. The Corps explicitly recommends that users evaluate data quality and adjust attributes as necessary. However, many studies skip this step. This raises the questions: How accurate is the NSI and how do any errors influence risk assessments and decisions? Here we use a case study for the city of Philadelphia, Pennsylvania comparing NSI-based damage estimates against estimates with highquality, feature-rich local building data under an ensemble of flood scenarios. The nearly ubiquitous practice of adopting the NSI without refinements can systematically distort flood damage estimates with potentially drastic implications for resource allocation decisions. Using the NSI to rank census tracts by damage-a common metric for prioritizing federal disaster funding-generally misclassifies one-fifth of tracts regarding their priority status. Simple refinements, such as correcting building locations, can drastically reduce classification errors, leading to correct identification of all tracts with respect to priority status in all but one flood scenario. Our findings demonstrate how the use of unrefined nationwide building inventories can compromise risk assessments and mislead resource allocation. We provide actionable guidance for enhancing inventory reliability to improve risk estimation and decision analyses.
+
+## BibTeX
+
+```bibtex
+@online{pollack_unrefined:2025,
+  pubstate = {prepublished},
+  urldate = {2025-10-09},
+  url = {https://papers.ssrn.com/abstract=5575271},
+  doi = {10.2139/ssrn.5575271},
+  location = {Rochester, NY},
+  eprinttype = {Social Science Research Network},
+  eprint = {5575271},
+  number = {5575271},
+  date = {2025-10-02},
+  author = {Pollack, Adam and Benedict, James and Deb, Mithun and Doss-Gollin, James and Judi, David and Lehman, William and Lutz, Nicholas and Reesman, Cade and Sarazen, Elaine and Son, Youngjun and Srikrishnan, Vivek and Sun, Ning and Keller, Klaus},
+  title = {Unrefined National Building Inventories Can Mislead Risk Assessments and Decisions},
+  type = {SSRN Scholarly Paper},
+}
+```
