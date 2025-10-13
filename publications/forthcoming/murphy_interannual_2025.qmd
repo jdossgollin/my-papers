@@ -1,0 +1,35 @@
+---
+title: "Bermuda High And Great Plains Low-Level Jet Drive Interannual Changes In Mississippi River Basin Hydroclimate From Last Millennium To 2100"
+author:
+  - Kelsey Murphy
+  - Sylvia} {Dee
+  - Christopher L Hancock
+  - Emilia Pitchon
+  - "**James Doss-Gollin**"
+  - Elizabeth J. Wallace
+  - Samuel Muñoz
+date: 2025-01-01
+details: ""
+year: 2025
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@murphy_interannual:2025"
+
+about:
+  template: solana
+
+format:
+  html:
+    page-layout: full
+---
+
+## BibTeX
+
+```bibtex
+@online{murphy_interannual:2025,
+  pubstate = {prepublished},
+  date = {2025},
+  author = {Murphy, Kelsey and {Dee, Sylvia} and Hancock, Christopher L and Pitchon, Emilia and Doss-Gollin, James and Wallace, Elizabeth J. and Muñoz, Samuel},
+  title = {Bermuda {{High}} and {{Great Plains Low-Level Jet Drive Interannual Changes}} in {{Mississippi River Basin Hydroclimate}} from {{Last Millennium}} to 2100},
+}
+```
