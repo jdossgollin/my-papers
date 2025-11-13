@@ -13,10 +13,7 @@ SELF_NAMES = ["James Doss-Gollin", "J. Doss-Gollin"]
 GROUP_MEMBERS = ["Yuchen Lu", "Lu, Yuchen"]
 
 # Statistics tracking
-IMAGE_STATS = {
-    "existing_images": 0,
-    "no_images": 0
-}
+IMAGE_STATS = {"existing_images": 0, "no_images": 0}
 
 
 def citekey_to_string(citekey):
@@ -60,6 +57,11 @@ def format_title(title):
 
 def format_author_name(name):
     """Format the author name considering both 'lastname, firstname' and detailed formats."""
+    # Strip outer curly braces if present
+    name = name.strip()
+    if name.startswith("{") and name.endswith("}"):
+        name = name[1:-1]
+
     if "family=" in name and "given=" in name:
         family = re.search(r"family=([^,]+)", name).group(1).strip()
         given = re.search(r"given=([^,]+)", name).group(1).strip()
@@ -77,7 +79,11 @@ def format_author_name(name):
         formatted_name = name
 
     # Apply formatting based on name
-    if any(formatted_name == self_name or formatted_name.replace("-", "") == self_name.replace("-", "") for self_name in SELF_NAMES):
+    if any(
+        formatted_name == self_name
+        or formatted_name.replace("-", "") == self_name.replace("-", "")
+        for self_name in SELF_NAMES
+    ):
         return f"**{formatted_name}**"
     elif formatted_name in GROUP_MEMBERS:
         return f"*{formatted_name}*"
@@ -103,8 +109,6 @@ def extract_year(date):
             return int(date.split("-")[0])
     except:
         return None
-
-
 
 
 def find_existing_image(entry):
@@ -185,8 +189,8 @@ def write_metadata_to_qmd(entry, qmd_file):
 
     # Bibliography configuration
     citekey = entry["ID"]
-    qmd_file.write(f'bibliography: ../../my-papers.bib\n')
-    qmd_file.write(f'csl: ../../american-geophysical-union.csl\n')
+    qmd_file.write(f"bibliography: ../../my-papers.bib\n")
+    qmd_file.write(f"csl: ../../american-geophysical-union.csl\n")
     qmd_file.write(f'nocite: "@{citekey}"\n')
 
     # Image (find existing)
@@ -243,15 +247,15 @@ def write_metadata_to_qmd(entry, qmd_file):
     if "abstract" in entry:
         qmd_file.write("\n\n")
         qmd_file.write(entry["abstract"])
-    
+
     # Original BibTeX entry (without abstract)
     qmd_file.write("\n\n## BibTeX\n\n```bibtex\n")
     qmd_file.write(f"@{entry['ENTRYTYPE']}{{{entry['ID']},\n")
-    
+
     for key, value in entry.items():
-        if key not in ['ENTRYTYPE', 'ID', 'abstract']:  # Skip abstract
+        if key not in ["ENTRYTYPE", "ID", "abstract"]:  # Skip abstract
             qmd_file.write(f"  {key} = {{{value}}},\n")
-    
+
     qmd_file.write("}\n```")
 
 
@@ -323,14 +327,14 @@ if __name__ == "__main__":
 
     # Create QMD files from BibTeX
     create_qmd_from_bib(TARGET)
-    
+
     # Print summary statistics
-    print("\n" + "="*50)
+    print("\n" + "=" * 50)
     print("CONVERSION SUMMARY")
-    print("="*50)
+    print("=" * 50)
     print(f"QMD files generated in publications/ directories.")
     print(f"\nImage Status:")
     print(f"  ✓ Existing images found: {IMAGE_STATS['existing_images']}")
     print(f"  ○ No images:             {IMAGE_STATS['no_images']}")
     print(f"  Total publications:      {sum(IMAGE_STATS.values())}")
-    print("="*50)
+    print("=" * 50)

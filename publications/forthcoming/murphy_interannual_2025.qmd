@@ -2,7 +2,7 @@
 title: "Bermuda High And Great Plains Low-Level Jet Drive Interannual Changes In Mississippi River Basin Hydroclimate From Last Millennium To 2100"
 author:
   - Kelsey Murphy
-  - Sylvia} {Dee
+  - Sylvia Dee
   - Christopher L Hancock
   - Emilia Pitchon
   - "**James Doss-Gollin**"
