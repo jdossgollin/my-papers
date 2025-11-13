@@ -5,7 +5,7 @@ author:
   - Ángel G Muñoz
   - Simon J Mason
   - Max Pastén
-date: 2018-09-01
+date: 2018-01-09
 details: "Journal Of Climate"
 year: 2018
 volume: "31"
@@ -49,7 +49,7 @@ During the austral summer 2015/16, severe flooding displaced over 170 000 people
   number = {17},
   volume = {31},
   journaltitle = {Journal of Climate},
-  date = {2018-09-01},
+  date = {2018-01-09},
   author = {Doss-Gollin, James and Muñoz, Ángel G and Mason, Simon J and Pastén, Max},
   title = {Heavy Rainfall in {{Paraguay}} during the 2015-2016 Austral Summer: Causes and Sub-Seasonal-to-Seasonal Predictive Skill},
 }

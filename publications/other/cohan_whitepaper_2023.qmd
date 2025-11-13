@@ -3,7 +3,7 @@ title: "Revamping The Texas Power Grid: Insights From Rice University’S Electr
 author:
   - Daniel Cohan
   - "**James Doss-Gollin**"
-date: 2023-11-10
+date: 2023-10-11
 details: ""
 year: 2023
 bibliography: ../../my-papers.bib
@@ -32,7 +32,7 @@ How can Texas secure an affordable, sustainable, and reliable power supply for a
   url = {https://doi.org/10.25613/5FJJ-T074},
   location = {Houston, TX},
   institution = {Baker Institute for Public Policy},
-  date = {2023-11-10},
+  date = {2023-10-11},
   author = {Cohan, Daniel and Doss-Gollin, James},
   title = {Revamping the {{Texas Power Grid}}: {{Insights}} from {{Rice University}}’s {{Electricity Research}}},
 }

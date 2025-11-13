@@ -1,0 +1,32 @@
+---
+title: "Hydrologic Whiplash In The Mississippi River Basin: Mechanisms And Projections"
+author:
+  - Michelle O'Donnell
+  - Sylvia Dee
+  - "**James Doss-Gollin**"
+  - Samuel Muñoz
+date: 2025-10-22
+details: ""
+year: 2025
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@odonnell_whiplash:2025"
+
+about:
+  template: solana
+
+format:
+  html:
+    page-layout: full
+---
+
+## BibTeX
+
+```bibtex
+@online{odonnell_whiplash:2025,
+  pubstate = {prepublished},
+  date = {2025-10-22},
+  author = {O'Donnell, Michelle and Dee, Sylvia and Doss-Gollin, James and Muñoz, Samuel},
+  title = {Hydrologic {{Whiplash}} in the {{Mississippi River Basin}}: {{Mechanisms}} and {{Projections}}},
+}
+```
