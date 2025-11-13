@@ -15,6 +15,7 @@ pages: "4637--4660"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@odonnell_cesm:2025"
+image: ../../_assets/img/pubs/odonnell_cesm_2025.png
 
 about:
   template: solana
