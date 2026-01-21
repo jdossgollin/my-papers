@@ -34,6 +34,7 @@ pages: "e2422157123"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@pollack_transparency:2026"
+image: ../../_assets/img/pubs/pollack_transparency_2026.png
 
 about:
   template: solana
