@@ -1,0 +1,68 @@
+---
+title: "Unlocking The Benefits Of Transparent And Reusable Science For Climate Risk Management"
+author:
+  - Adam B. Pollack
+  - Lisa Auermuller
+  - Casey D. Burleyson
+  - Jentry Campbell
+  - Madison Condon
+  - Courtney Cooper
+  - Matteo Coronese
+  - Sönke Dangendorf
+  - "**James Doss-Gollin**"
+  - Prabhat Hegde
+  - Casey Helgeson
+  - Robert E. Kopp
+  - Jan Kwakkel
+  - Corey Lesk
+  - Justin Mankin
+  - Robert E. Nicholas
+  - Jennie Rice
+  - Samantha Roth
+  - Vivek Srikrishnan
+  - Moira Scheeler
+  - Nancy Tuana
+  - Chris Vernon
+  - Mengqi Zhao
+  - Klaus Keller
+date: 2026-01-20
+details: "Proceedings Of The National Academy Of Sciences"
+year: 2026
+volume: "123"
+issue: "3"
+pages: "e2422157123"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@pollack_transparency:2026"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1073/pnas.2422157123'
+      href: https://doi.org/10.1073/pnas.2422157123
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+People around the world seek climate risk information to guide their decisions. For instance, projections about future flood risk inform where households choose to live, how lenders manage credit risks, and which communities receive federal funding. Yet data limitations and fundamental validation challenges raise important concerns about the reliability of such projections. The principles of transparency and reusability help address these concerns by enabling scrutiny of assumptions and methods, development of foundational data and tools, and consistent application of evaluation standards. While there is ongoing debate about how much transparency commercial climate risk services should provide, many expect noncommercial actors to lead the way on operationalizing transparency and reusability to fulfill their knowledge-building role in the climate risk ecosystem. However, despite prominent success stories, we find a substantial gap between principles and practice: Only four percent of the most-cited peer-reviewed climate risk studies in recent years fully share their data and code although this is a widely accepted minimum standard for transparency. We highlight low-cost measures that noncommercial researchers can take now to improve transparency and reusability. We also emphasize that transformative progress requires substantial investment, cross-sector collaboration, and careful consideration of tradeoffs, data rights, and multiple perspectives on equity. We hope this perspective accelerates both immediate actions and longer-term conversations to improve the ability of science to effectively support timely, evidence-based, and sound climate risk management.
+
+## BibTeX
+
+```bibtex
+@article{pollack_transparency:2026,
+  urldate = {2026-01-14},
+  url = {https://www.pnas.org/doi/10.1073/pnas.2422157123},
+  doi = {10.1073/pnas.2422157123},
+  publisher = {Proceedings of the National Academy of Sciences},
+  pages = {e2422157123},
+  number = {3},
+  volume = {123},
+  journaltitle = {Proceedings of the National Academy of Sciences},
+  date = {2026-01-20},
+  author = {Pollack, Adam B. and Auermuller, Lisa and Burleyson, Casey D. and Campbell, Jentry and Condon, Madison and Cooper, Courtney and Coronese, Matteo and Dangendorf, Sönke and Doss-Gollin, James and Hegde, Prabhat and Helgeson, Casey and Kopp, Robert E. and Kwakkel, Jan and Lesk, Corey and Mankin, Justin and Nicholas, Robert E. and Rice, Jennie and Roth, Samantha and Srikrishnan, Vivek and Scheeler, Moira and Tuana, Nancy and Vernon, Chris and Zhao, Mengqi and Keller, Klaus},
+  title = {Unlocking the Benefits of Transparent and Reusable Science for Climate Risk Management},
+}
+```
