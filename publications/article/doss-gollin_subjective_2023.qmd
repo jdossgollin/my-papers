@@ -45,9 +45,10 @@ Projections of nonstationary climate risks can vary considerably from one source
   issn = {2328-4277},
   number = {1},
   volume = {11},
+  shortjournal = {Earth's Future},
   journaltitle = {Earth's Future},
   date = {2023-01},
   author = {Doss-Gollin, James and Keller, Klaus},
-  title = {A Subjective {{Bayesian}} Framework for Synthesizing Deep Uncertainties in Climate Risk Management},
+  title = {A Subjective Bayesian Framework for Synthesizing Deep Uncertainties in Climate Risk Management},
 }
 ```

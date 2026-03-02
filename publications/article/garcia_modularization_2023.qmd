@@ -42,6 +42,7 @@ Hydrodynamic model outputs are used in urban flood risk modelling, flood alert s
   pages = {2225584},
   number = {1},
   volume = {17},
+  shortjournal = {Eng. Appl. Comput. Fluid Mech.},
   journaltitle = {Engineering Applications of Computational Fluid Mechanics},
   date = {2023-03-20},
   author = {Garcia, M. and Juan, A. and Doss-Gollin, J. and Bedient, P.},

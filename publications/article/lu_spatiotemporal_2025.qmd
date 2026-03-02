@@ -41,10 +41,10 @@ Precipitation exceedance probabilities are widely used in engineering design, ri
   pages = {035016},
   number = {3},
   volume = {4},
-  shortjournal = {Environ. Res.: Climate},
+  shortjournal = {Environ. Res.: Clim.},
   journaltitle = {Environmental Research: Climate},
   date = {2025-08},
   author = {Lu, Yuchen and Seiyon Lee, Benjamin and Doss-Gollin, James},
-  title = {Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the {{Western Gulf Coast}}},
+  title = {Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the Western Gulf Coast},
 }
 ```

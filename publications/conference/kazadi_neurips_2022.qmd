@@ -41,6 +41,6 @@ Climate Change AI - NeurIPS 2022 Accepted Work
   date = {2022-12-09},
   author = {Kazadi, Arnold N. and Doss-Gollin, James and Sebastian, Antonia and Silva, Arlei},
   booktitle = {Climate {{Change AI}}},
-  title = {Flood {{Prediction}} with {{Graph Neural Networks}}},
+  title = {Flood Prediction with Graph Neural Networks},
 }
 ```

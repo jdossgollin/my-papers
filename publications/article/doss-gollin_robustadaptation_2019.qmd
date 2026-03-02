@@ -46,6 +46,7 @@ The assessment and implementation of structural or financial instruments for cli
   pages = {734--747},
   number = {7},
   volume = {7},
+  shortjournal = {Earth's Future},
   journaltitle = {Earth's Future},
   date = {2019-06-07},
   author = {Doss-Gollin, James and Farnham, David J. and Steinschneider, Scott and Lall, Upmanu},

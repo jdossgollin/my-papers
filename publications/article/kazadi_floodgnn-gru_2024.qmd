@@ -39,6 +39,7 @@ Classical approaches for flood prediction apply numerical methods for the soluti
   issn = {2634-4602},
   pages = {e21},
   volume = {3},
+  shortjournal = {Environ. Data Sci.},
   journaltitle = {Environmental Data Science},
   date = {2024-01},
   author = {Kazadi, Arnold and Doss-Gollin, James and Sebastian, Antonia and Silva, Arlei},

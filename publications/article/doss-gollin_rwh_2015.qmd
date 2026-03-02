@@ -42,9 +42,10 @@ During the past two decades, government efforts to provide water access to rural
   pages = {129--137},
   number = {1},
   volume = {52},
+  shortjournal = {J. Am. Water Resour. Assoc.},
   journaltitle = {Journal of the American Water Resources Association},
   date = {2015-12},
   author = {Doss-Gollin, James and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva, given=Francisco Osny Enéas, prefix=da, useprefix=true},
-  title = {Analytic Modeling of Rainwater Harvesting in the {{Brazilian Semiarid Northeast}}},
+  title = {Analytic Modeling of Rainwater Harvesting in the Brazilian Semiarid Northeast},
 }
 ```

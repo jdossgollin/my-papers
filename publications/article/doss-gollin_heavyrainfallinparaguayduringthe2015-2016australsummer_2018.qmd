@@ -1,11 +1,11 @@
 ---
-title: "Heavy Rainfall In Paraguay During The 2015-2016 Austral Summer: Causes And Sub-Seasonal-To-Seasonal Predictive Skill"
+title: "Heavy Rainfall In Paraguay During The 2015/16 Austral Summer: Causes And Subseasonal-To-Seasonal Predictive Skill"
 author:
   - "**James Doss-Gollin**"
-  - Ángel G Muñoz
-  - Simon J Mason
+  - Ángel G. Muñoz
+  - Simon J. Mason
   - Max Pastén
-date: 2018-01-09
+date: 2018-09
 details: "Journal Of Climate"
 year: 2018
 volume: "31"
@@ -13,14 +13,13 @@ issue: "17"
 pages: "6669--6685"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@doss-gollin_pyfloods:2018"
-image: ../../_assets/img/pubs/doss-gollin_pyfloods_2018.jpg
+nocite: "@doss-gollin_heavyrainfallinparaguayduringthe2015-2016australsummer:2018"
 
 about:
   template: solana
   links:
-    - text: 'DOI: 10.1175/jcli-d-17-0805.1 (Open Access)'
-      href: https://doi.org/10.1175/jcli-d-17-0805.1
+    - text: 'DOI: 10.1175/JCLI-D-17-0805.1 (Open Access)'
+      href: https://doi.org/10.1175/JCLI-D-17-0805.1
       icon: link
     - icon: github
       text: Code
@@ -39,18 +38,21 @@ During the austral summer 2015/16, severe flooding displaced over 170 000 people
 ## BibTeX
 
 ```bibtex
-@article{doss-gollin_pyfloods:2018,
+@article{doss-gollin_heavyrainfallinparaguayduringthe2015-2016australsummer:2018,
   repo = {https://github.com/jdossgollin/2018-paraguay-floods},
   preprint = {https://eartharxiv.org/gzj8n/},
   open = {true},
-  url = {http://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1},
-  doi = {10.1175/jcli-d-17-0805.1},
+  urldate = {2026-01-27},
+  url = {https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1},
+  doi = {10.1175/JCLI-D-17-0805.1},
+  issn = {0894-8755, 1520-0442},
   pages = {6669--6685},
   number = {17},
   volume = {31},
+  shortjournal = {J. Clim.},
   journaltitle = {Journal of Climate},
-  date = {2018-01-09},
-  author = {Doss-Gollin, James and Muñoz, Ángel G and Mason, Simon J and Pastén, Max},
-  title = {Heavy Rainfall in {{Paraguay}} during the 2015-2016 Austral Summer: Causes and Sub-Seasonal-to-Seasonal Predictive Skill},
+  date = {2018-09},
+  author = {Doss-Gollin, James and Muñoz, Ángel G. and Mason, Simon J. and Pastén, Max},
+  title = {Heavy Rainfall in {{Paraguay}} during the 2015/16 Austral Summer: Causes and Subseasonal-to-Seasonal Predictive Skill},
 }
 ```

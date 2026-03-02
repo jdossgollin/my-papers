@@ -34,6 +34,6 @@ Infrastructure systems around the world face immediate crises and smoldering lon
   institution = {Columbia University},
   date = {2020},
   author = {Doss-Gollin, James},
-  title = {Sequential {{Adaptation}} through {{Prediction}} of {{Structured Climate Risk}}},
+  title = {Sequential Adaptation through Prediction of Structured Climate Risk},
 }
 ```

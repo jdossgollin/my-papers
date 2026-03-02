@@ -46,6 +46,6 @@ Winter storm Uri brought severe cold to the southern United States in February 2
   journaltitle = {Environmental Research Letters},
   date = {2021-06},
   author = {Doss-Gollin, James and Farnham, David J and Lall, Upmanu and Modi, Vijay},
-  title = {How Unprecedented Was the {{February}} 2021 {{Texas}} Cold Snap?},
+  title = {How Unprecedented Was the {{February}} 2021 Texas Cold Snap?},
 }
 ```

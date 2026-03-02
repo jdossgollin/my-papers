@@ -40,10 +40,10 @@ The Mississippi River Basin (MRB), the fourth-largest river basin in the world, 
   issn = {0921-8181},
   pages = {104742},
   volume = {249},
-  shortjournal = {Global and Planetary Change},
+  shortjournal = {Global Planet. Change},
   journaltitle = {Global and Planetary Change},
   date = {2025-06-01},
   author = {Haider, M. R. and Dee, S. G. and Doss-Gollin, J. and Dunne, K. B. J. and Muñoz, S. E.},
-  title = {Impact of 21st Century Climate Change on {{Mississippi River Basin}} Discharge in {{CESM2}} Large Ensemble Projections},
+  title = {Impact of 21st Century Climate Change on Mississippi River Basin Discharge in {{CESM2}} Large Ensemble Projections},
 }
 ```

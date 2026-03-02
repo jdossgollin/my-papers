@@ -30,6 +30,6 @@ format:
   pubstate = {prepublished},
   date = {2025},
   author = {Murphy, Kelsey and {Dee, Sylvia} and Hancock, Christopher L and Pitchon, Emilia and Doss-Gollin, James and Wallace, Elizabeth J. and Muñoz, Samuel},
-  title = {Bermuda {{High}} and {{Great Plains Low-Level Jet Drive Interannual Changes}} in {{Mississippi River Basin Hydroclimate}} from {{Last Millennium}} to 2100},
+  title = {Bermuda High and Great Plains Low-Level Jet Drive Interannual Changes in Mississippi River Basin Hydroclimate from Last Millennium to 2100},
 }
 ```

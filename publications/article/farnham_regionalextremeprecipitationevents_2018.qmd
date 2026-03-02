@@ -11,8 +11,7 @@ volume: "54"
 issue: "6"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@farnham_credibly:2018"
-image: ../../_assets/img/pubs/farnham_credibly_2018.jpg
+nocite: "@farnham_regionalextremeprecipitationevents:2018"
 
 about:
   template: solana
@@ -34,13 +33,14 @@ eneral circulation models (GCMs) have been demonstrated to produce estimates of 
 ## BibTeX
 
 ```bibtex
-@article{farnham_credibly:2018,
+@article{farnham_regionalextremeprecipitationevents:2018,
   repo = {https://github.com/d-farnham/ORB\_Paper/},
   open = {true},
   url = {https://doi.org/10.1002/2017wr021318},
   doi = {10.1002/2017wr021318},
   number = {6},
   volume = {54},
+  shortjournal = {Water Resour. Res.},
   journaltitle = {Water Resources Research},
   date = {2018},
   author = {Farnham, David J and Doss-Gollin, James and Lall, Upmanu},

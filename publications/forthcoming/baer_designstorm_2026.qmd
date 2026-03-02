@@ -1,0 +1,46 @@
+---
+title: "Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard And Risk"
+author:
+  - John A. Baer
+  - Antonia Sebastian
+  - Lauren E. Grimley
+  - "**James Doss-Gollin**"
+  - Daniel B. Wright
+  - Mohammad Ashar Hussain
+  - Marissa Webber
+date: 2026-01-23
+details: ""
+year: 2026
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@baer_designstorm:2026"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.21203/rs.3.rs-8593870/v1'
+      href: https://doi.org/10.21203/rs.3.rs-8593870/v1
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Flood risk assessments underpin flood management and resilience efforts worldwide, including land-use planning, infrastructure design, and insurance requirements. Many of these assessments rely on design storms, which assume a linear relationship between the frequency of storms, flooding, and damage and neglect the spatial and temporal structure of rainfall. Here, we show that these assumptions can lead to systematic underestimates of flood hazard and risk. Using a coastal watershed in North Carolina, we compare design storm-based estimates with those from stochastic storm transposition, a probabilistic framework used to generate synthetic events with realistic rainfall fields. Though both methods produce similar basin-averaged rainfall statistics, design storms underestimate flood inundation frequency by 31 to 35\% and expected 50-year damage by 42\% relative to SST. These results reveal how nonlinear storm-flood-damage relationships amplify risk from smaller, more frequent storms and illustrate that accounting for spatiotemporal rainfall variability is crucial to risk assessment.
+
+## BibTeX
+
+```bibtex
+@online{baer_designstorm:2026,
+  pubstate = {prepublished},
+  urldate = {2026-01-29},
+  url = {https://www.researchsquare.com/article/rs-8593870/v1},
+  doi = {10.21203/rs.3.rs-8593870/v1},
+  issn = {2693-5015},
+  eprinttype = {Research Square},
+  date = {2026-01-23},
+  author = {Baer, John A. and Sebastian, Antonia and Grimley, Lauren E. and Doss-Gollin, James and Wright, Daniel B. and Hussain, Mohammad Ashar and Webber, Marissa},
+  title = {Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk},
+}
+```

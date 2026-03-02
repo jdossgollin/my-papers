@@ -7,7 +7,7 @@ author:
   - Kieran B. J. Dunne
   - Michelle O’Donnell
   - Samuel Muñoz
-date: 2024-11-06
+date: 2024-06-11
 details: "Paleoceanography And Paleoclimatology"
 year: 2024
 volume: "39"
@@ -43,9 +43,10 @@ The Mississippi River is a vital economic corridor used for generating hydroelec
   pages = {e2024PA004902},
   number = {7},
   volume = {39},
+  shortjournal = {Paleoceanogr. Paleoclimatol.},
   journaltitle = {Paleoceanography and Paleoclimatology},
-  date = {2024-11-06},
+  date = {2024-06-11},
   author = {Murphy, Kelsey and Dee, Sylvia and Doss-Gollin, James and Dunne, Kieran B. J. and O’Donnell, Michelle and Muñoz, Samuel},
-  title = {Competing {{Influences}} of {{Land Use}} and {{Greenhouse Gas Emissions}} on {{Mississippi River Basin Hydroclimate Simulated Over}} the {{Last Millennium}}},
+  title = {Competing Influences of Land Use and Greenhouse Gas Emissions on Mississippi River Basin Hydroclimate Simulated over the Last Millennium},
 }
 ```

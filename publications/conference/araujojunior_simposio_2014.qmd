@@ -7,7 +7,7 @@ author:
   - Tyhago Aragão Dias
   - "**James Doss-Gollin**"
 date: 2014-01-01
-details: "Xii Simpósio De Recursos Hídricos Do Nordeste"
+details: "XII Simpósio De Recursos Hídricos Do Nordeste"
 year: 2014
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
@@ -37,7 +37,7 @@ Este trabalho tem como objetivo avaliar a persistência da seca meteorológica a
   publisher = {Associação Brasileira de Recursos Hídricos (ABRH)},
   date = {2014},
   author = {Araújo Júnior, Luiz Martins and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva Silveira, given=Cleiton, prefix=da, useprefix=true and Aragão Dias, Tyhago and Doss-Gollin, James},
-  booktitle = {XII Simpósio de Recursos Hídricos Do Nordeste},
-  title = {Análise dos eventos de seca no Nordeste Setentrional Brasileiro com base no índice de precipitação normalizada},
+  booktitle = {{{XII Simpósio}} de {{Recursos Hídricos Do Nordeste}}},
+  title = {Análise Dos Eventos de Seca No Nordeste Setentrional Brasileiro Com Base No Índice de Precipitação Normalizada},
 }
 ```

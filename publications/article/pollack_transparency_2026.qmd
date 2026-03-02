@@ -61,6 +61,7 @@ People around the world seek climate risk information to guide their decisions. 
   pages = {e2422157123},
   number = {3},
   volume = {123},
+  shortjournal = {Proc. Natl. Acad. Sci.},
   journaltitle = {Proceedings of the National Academy of Sciences},
   date = {2026-01-20},
   author = {Pollack, Adam B. and Auermuller, Lisa and Burleyson, Casey D. and Campbell, Jentry and Condon, Madison and Cooper, Courtney and Coronese, Matteo and Dangendorf, Sönke and Doss-Gollin, James and Hegde, Prabhat and Helgeson, Casey and Kopp, Robert E. and Kwakkel, Jan and Lesk, Corey and Mankin, Justin and Nicholas, Robert E. and Rice, Jennie and Roth, Samantha and Srikrishnan, Vivek and Scheeler, Moira and Tuana, Nancy and Vernon, Chris and Zhao, Mengqi and Keller, Klaus},

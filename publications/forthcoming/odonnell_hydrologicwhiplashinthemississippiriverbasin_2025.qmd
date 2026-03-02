@@ -10,7 +10,7 @@ details: ""
 year: 2025
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@odonnell_whiplash:2025"
+nocite: "@odonnell_hydrologicwhiplashinthemississippiriverbasin:2025"
 
 about:
   template: solana
@@ -23,10 +23,10 @@ format:
 ## BibTeX
 
 ```bibtex
-@online{odonnell_whiplash:2025,
+@online{odonnell_hydrologicwhiplashinthemississippiriverbasin:2025,
   pubstate = {prepublished},
   date = {2025-10-22},
   author = {O'Donnell, Michelle and Dee, Sylvia and Doss-Gollin, James and Muñoz, Samuel},
-  title = {Hydrologic {{Whiplash}} in the {{Mississippi River Basin}}: {{Mechanisms}} and {{Projections}}},
+  title = {Hydrologic Whiplash in the Mississippi River Basin: Mechanisms and Projections},
 }
 ```

@@ -50,6 +50,7 @@ It is widely acknowledged that distributed water systems (DWSs), which integrate
   issn = {1944-7973},
   number = {5},
   volume = {59},
+  shortjournal = {Water Resour. Res.},
   journaltitle = {Water Resources Research},
   date = {2023-04-24},
   author = {Zhou, Xiangnan and Duenas-Osorio, Leonardo and Doss-Gollin, James and Liu, Lu and Stadler, Lauren and Li, Qilin},

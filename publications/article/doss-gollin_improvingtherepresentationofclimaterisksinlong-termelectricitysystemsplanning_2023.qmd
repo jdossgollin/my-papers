@@ -10,8 +10,7 @@ details: "Current Sustainable/Renewable Energy Reports"
 year: 2023
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@doss-gollin_review:2023"
-image: ../../_assets/img/pubs/doss-gollin_review_2023.png
+nocite: "@doss-gollin_improvingtherepresentationofclimaterisksinlong-termelectricitysystemsplanning:2023"
 
 about:
   template: solana
@@ -33,13 +32,13 @@ Purpose of Review Electricity systems face substantial climate risks which are e
 ## BibTeX
 
 ```bibtex
-@article{doss-gollin_review:2023,
+@article{doss-gollin_improvingtherepresentationofclimaterisksinlong-termelectricitysystemsplanning:2023,
   preprint = {https://eartharxiv.org/repository/view/5684/},
   urldate = {2023-08-16},
   url = {https://doi.org/10.1007/s40518-023-00224-3},
   doi = {10.1007/s40518-023-00224-3},
   issn = {2196-3010},
-  shortjournal = {Curr Sustainable Renewable Energy Rep},
+  shortjournal = {Curr. Sustainable/Renewable Energy Rep.},
   journaltitle = {Current Sustainable/Renewable Energy Reports},
   date = {2023-08-16},
   author = {Doss-Gollin, James and Amonkar, Yash and Schmeltzer, Katlyn and Cohan, Daniel},

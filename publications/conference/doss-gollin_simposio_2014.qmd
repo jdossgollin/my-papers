@@ -5,7 +5,7 @@ author:
   - Francisco de Assis de Souza Filho
   - Francisco Osny Enéas da Silva
 date: 2014-01-01
-details: "Xii Simpósio De Recursos Hídricos Do Nordeste"
+details: "XII Simpósio De Recursos Hídricos Do Nordeste"
 year: 2014
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
@@ -35,7 +35,7 @@ O emprego de cisternas para captação de água de chuva como uma alternativa de
   publisher = {Associação Brasileira de Recursos Hídricos (ABRH)},
   date = {2014},
   author = {Doss-Gollin, James and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva, given=Francisco Osny Enéas, prefix=da, useprefix=true},
-  booktitle = {XII Simpósio de Recursos Hídricos Do Nordeste},
-  title = {Considerações sobre a sustentabilidade hídrica de cisternas para captação de chuva no Semiárido Brasileiro},
+  booktitle = {{{XII Simpósio}} de {{Recursos Hídricos Do Nordeste}}},
+  title = {Considerações Sobre a Sustentabilidade Hídrica de Cisternas Para Captação de Chuva No Semiárido Brasileiro},
 }
 ```

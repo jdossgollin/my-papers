@@ -12,8 +12,7 @@ issue: "3"
 pages: "67"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@amonkar_compound:2023"
-image: ../../_assets/img/pubs/amonkar_compound_2023.png
+nocite: "@amonkar_compoundclimaterisk:2023"
 
 about:
   template: solana
@@ -32,7 +31,7 @@ The potential for extreme climate events to cluster in space and time has driven
 ## BibTeX
 
 ```bibtex
-@article{amonkar_compound:2023,
+@article{amonkar_compoundclimaterisk:2023,
   issue = {3},
   urldate = {2023-03-16},
   url = {https://www.mdpi.com/2306-5338/10/3/67},
@@ -42,6 +41,7 @@ The potential for extreme climate events to cluster in space and time has driven
   pages = {67},
   number = {3},
   volume = {10},
+  shortjournal = {Hydrology},
   journaltitle = {Hydrology},
   date = {2023-03-16},
   author = {Amonkar, Yash and Doss-Gollin, James and Lall, Upmanu},

@@ -15,8 +15,6 @@ author:
 date: 2023-07-12
 details: "Wires Water"
 year: 2023
-volume: "n/a"
-issue: "n/a"
 pages: "e1680"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
@@ -46,11 +44,10 @@ Centralized water infrastructure has, over the last century, brought safe and re
   doi = {10.1002/wat2.1680},
   issn = {2049-1948},
   pages = {e1680},
-  number = {n/a},
-  volume = {n/a},
+  shortjournal = {WIREs Water},
   journaltitle = {WIREs Water},
   date = {2023-07-12},
   author = {Wutich, Amber and Thomson, Patrick and Jepson, Wendy and Stoler, Justin and Cooperman, Alicia D. and Doss-Gollin, James and Jantrania, Anish and Mayer, Alex and Nelson-Nuñez, Jami and Walker, W. Shane and Westerhoff, Paul},
-  title = {{{MAD}} Water: {{Integrating}} Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era},
+  title = {{{MAD}} Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era},
 }
 ```

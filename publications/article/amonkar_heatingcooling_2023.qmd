@@ -44,7 +44,7 @@ While most electricity systems are designed to handle peak demand during summer 
   pages = {1--9},
   number = {1},
   volume = {4},
-  shortjournal = {Commun Earth Environ},
+  shortjournal = {Commun. Earth Environ.},
   journaltitle = {Communications Earth \& Environment},
   date = {2023-11-01},
   author = {Amonkar, Yash and Doss-Gollin, James and Farnham, David J. and Modi, Vijay and Lall, Upmanu},

@@ -6,7 +6,7 @@ author:
   - "**James Doss-Gollin**"
   - Marina Vannucci
 date: 2025-06-01
-details: "Computational Statistics & Data Analysis"
+details: "Computational Statistics And Data Analysis"
 year: 2025
 volume: "206"
 pages: "108122"
@@ -39,8 +39,8 @@ Functional data analysis, which models data as realizations of random functions 
   issn = {0167-9473},
   pages = {108122},
   volume = {206},
-  shortjournal = {Computational Statistics \& Data Analysis},
-  journaltitle = {Computational Statistics \& Data Analysis},
+  shortjournal = {Comput. Stat. Data Anal.},
+  journaltitle = {Computational Statistics and Data Analysis},
   date = {2025-06-01},
   author = {Liu, Chunshan and Kowal, Daniel R. and Doss-Gollin, James and Vannucci, Marina},
   title = {Bayesian Functional Graphical Models with Change-Point Detection},
